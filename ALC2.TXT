@@ -1,0 +1,13 @@
+
+ALCHEMY II: THE HANGOVER
+
+BUGS:
+
+None known
+
+IMPROVEMENTS:
+
+Allow up to 30 characters for alternate game ID
+Allow people to "buy" items in the store (equivalent of give X gold to shopkeeper)
+More variation in the purple forests
+More NPCs that do more

@@ -1,0 +1,1763 @@
+
+LEVEL6 {Elwynor Technologies: Alchemy II: The Hangover}
+
+
+HBD000
+{...You're %s outside the town entrance.
+} T Alchemy II Text
+HLD000
+{...You're %s outside the town entrance.  The red muck road leading
+right up to the open gateway to the east looks well-worn by many thousands
+of travellers.  The solid stone walls which seem to surround the town
+are surprisingly high -- legend has it that they needed a special building
+permit from Kyrannalussi.  The walls continue to the north and south into
+the depths of the surrounding forest.  Carved into the stone above the
+gateway are the words, "Welcome to Arykydal, Town of Good Ale".  The red
+muck road winds off to the west.
+} T Alchemy II Text
+HAD000
+{...You're %s outside the town entrance.  In the darkness of night
+it is rather difficult to clearly see everything, but you notice a gateway
+leading into the town to the east.  The high walls surrounding the town
+continue into the forest to the north and south.  Something seems to be
+carved into the stone above the gateway, but you can't quite make it out.
+Unfortunately, you also notice that the gateway has been closed.  The road
+you're currently on winds off to the west.
+} T Alchemy II Text
+HGD000 {on the red muck road} T Alchemy II Text
+
+HBD001
+{...You're %s in the city entrance on Arykydal Avenue.
+} T Alchemy II Text
+HLD001
+{...You're %s in the city entrance on Arykydal Avenue.  The air is
+filled with the tempting aroma of good ale.  To the north is the entrance to
+Avagadro's Tavern, to the south is an entrance to The General Store, the town
+gateway is open to the west, and Arykydal Avenue continues to the east.
+} T Alchemy II Text
+HAD001
+{...You're %s in the city entrance on Arykydal Avenue.  The air is
+filled with the tempting aroma of good ale.  The darkness is mostly driven
+away by the bright lights from the surrounding buildings.  To the north is
+the entrance to Avagadro's Tavern, to the south is an entrance to The General
+Store, the town gateway is closed to the west, and Arykydal Avenue continues
+to the east.
+} T Alchemy II Text
+HGD001 {in the middle of Arykydal Avenue} T Alchemy II Text
+
+HBD002
+{...You're %s in the middle of Avagadro's Tavern.
+} T Alchemy II Text
+HLD002
+{...You're %s in the middle of Avagadro's Tavern.  This quaint place
+is filled wih warmth and the wonderful aroma of good ale.  You see a rather
+inviting bar on the eastern side of this joint, as well as a small stage to
+the north.  A local drunk seems to be attempting something resembling the
+backstroke on the floor in front of you.
+} T Alchemy II Text
+HAD002 {} T Alchemy II Text
+HGD002 {on the floorboards} T Alchemy II Text
+
+HBD003
+{...You're %s at the bar.
+} T Alchemy II Text
+HLD003
+{...You're %s at the bar.  In front of you is a polished counter,
+surrounded by cushioned bar stools.  Behind the bar stands a rather large,
+very large, and extremely large bartender -- with a name tag that reads, in
+big (relatively) letters, "BARTENDER".  For some unexplainable reason you
+assume he's the bartender.  He smiles at you, spits in a glass, rubs it with
+his hands, burps, and says, "Ale costs 2 gold".  The main tavern room lies to
+the west.
+} T Alchemy II Text
+HAD003 {} T Alchemy II Text
+HGD003 {near the counter} T Alchemy II Text
+
+HBD004
+{...You're %s on a small stage.
+} T Alchemy II Text
+HLD004
+{...You're %s on a small stage.  Although not very elaborate, this
+well-constructed stage offers a nice view of the rest of the tavern.  As you
+look around, you feel an urge inside of you to perform something, but that
+foolish thought is immediately banished as you notice the blood stains of the
+previous performers.  A spotlight high above lights the stage perfectly, to
+make sure the audience will see their targets.  The main tavern room lies to
+the south and you also notice a small back room to the north.
+} T Alchemy II Text
+HAD004 {} T Alchemy II Text
+HGD004 {on the blood stained stage} T Alchemy II Text
+
+HBD005
+{...You're %s backstage.
+} T Alchemy II Text
+HLD005
+{...You're %s backstage.  This small, musty room was apparently used
+by performers at the tavern to prepare and freshen-up for their imminent
+deaths.  The walls are pretty dull, except for some occasional graffiti such
+as, "Dr. ScottyB and the Phantasies Rule!", "Long live Wreck 'n' Roll", and
+"The Singing K's do it better!".  Also, your eye is caught by a small message
+which is carved in the corner which reads, "Everybody has phases of truth".
+The small stage lies to the south.
+} T Alchemy II Text
+HAD005 {} T Alchemy II Text
+HGD005 {on the dusty floor} T Alchemy II Text
+
+HBD006
+{...You're %s in The General Store.
+} T Alchemy II Text
+HLD006
+{...You're %s in The General Store.  One of the few mundane shops of
+this strange land, this store is decorated rather simply with drab green wall
+paper which reminds you of your mother's roast turkey.  As you look around,
+you also notice a small, nerdy shopkeeper who reminds you of a couple of
+the other people you've met in this land.  He gives you a geeky, two-toothed
+smile and points to a sign on the north wall.  Exits from this store lie to
+the north and east.
+} T Alchemy II Text
+HAD006 {} T Alchemy II Text
+HGD006 {on the drab green floor} T Alchemy II Text
+
+HBD007
+{...You're %s at the intersection of Cleveland Street and Arykydal
+Avenue.
+} T Alchemy II Text
+HLD007
+{...You're %s at the intersection of Cleveland Street and Arykydal
+Avenue.  Well, what else can be said?  You can go north, south, east, or
+west.  Alternatively, you can sit and chirp like a bird, but we wouldn't
+particularly recommend that.
+} T Alchemy II Text
+HAD007
+{...You're %s at the intersection of Cleveland Street and Arykydal
+Avenue.  Even though it is night time, the bright lights of the surrounding
+buildings make everything visible.  Not that there's necessarily much to
+see anyway, but that's another story.
+} T Alchemy II Text
+HGD007 {in the middle of the intersection} T Alchemy II Text
+
+HBD008
+{...You're %s on Arykydal Avenue in front of the town hall.
+} T Alchemy II Text
+HLD008
+{...You're %s on Arykydal Avenue.  To the south stands the ancient
+building of the Arykydal Town Hall.  You know it's the town hall because it
+has a big neon sign which says, "ARYKYDAL TOWN HALL".  To the north is an
+entrance to The Oracle.  Arykydal Avenue continues east and west.
+} T Alchemy II Text
+HAD008
+{...You're %s on Arykydal Avenue.  The night is lit up by the bright
+neon sign which reads, "ARYKYDAL TOWN HALL" on the building to the south.
+You assume it is probably the town hall.  There is an entrance to The Oracle
+to the north, and Arykydal Avenue continues to the east and west.
+} T Alchemy II Text
+HGD008 {in the middle of the avenue} T Alchemy II Text
+
+HBD009
+{...You're %s in The Oracle.
+} T Alchemy II Text
+HLD009
+{...You're %s in The Oracle.  Constructed from pink marble, this
+place was originally used for the ancient orgies of Shakeabigwun.  However,
+it was unfortunately converted to the dwelling of the local oracle after
+Shakeabigwun and his cult were run out of town by a horde of machete-weilding
+castrators -- but that is another story.  Sitting in a trance of meditation,
+the oracle himself is before you in the center of this daboga.  Exits lie
+in all directions.  You also take note of the symbol of a large shovel and
+a pile of cow excrement hanging from the ceiling... the oracle's business
+trademark.
+} T Alchemy II Text
+HAD009 {} T Alchemy II Text
+HGD009 {on the pink marble floor} T Alchemy II Text
+
+HBD010
+{...You're %s in the lobby of Arykydal Town Hall.
+} T Alchemy II Text
+HLD010
+{...You're %s in the lobby of Arykydal Town Hall.  This public chamber
+is where the mayor of the town used to make speeches -- until the Oracle got
+tired of the "shovel comepetition" and ran him out of town.  Now, the other
+halls and doors have been boarded up, and cobwebs are hanging on the ceiling.
+The only remnants of the political history of this once not-so-great mayor
+are his "Vote Duke Trinian or I'll break your kneecaps!" campaign posters.
+Anyway, Arykydal Avenue lies to the north.
+} T Alchemy II Text
+HAD010 {} T Alchemy II Text
+HGD010 {on the dusty floor} T Alchemy II Text
+
+HBD011
+{...You're %s at the intersection of Kyra Street and Arykydal Avenue.
+} T Alchemy II Text
+HLD011
+{...You're at the intersection of Kyra Street and Arykydal Avenue.  To the
+east you see the magnificent structure of the town cathedral, a beautiful
+construction of stone and stained glass.  Kyra Street continues to the
+north and south, and Arykydal Avenue continues to the west.
+} T Alchemy II Text
+HAD011
+{...You're at the intersection of Kyra Street and Arykydal Avenue.  In the
+dark, you can barely make out the huge structure of the town cathedral to
+the east.  Kyra street continues to the north and south, and Arykydal
+Avenue continues to the west.
+} T Alchemy II Text
+HGD011 {in the street} T Alchemy II Text
+
+HBD012
+{...You're %s in the main hall of the cathedral.
+} T Alchemy II Text
+HLD012
+{...You're in the main hall of the cathedral.  This magnificent work of
+Peyennuian architechure has been constructed from the finest stone in the
+land and decorated with beautiful, hand-made stained glass (alright, they
+bought the stained glass at Home Depot, but it's still beautiful).  As you
+look upon the brilliant radiance of the sunlight filtering through the
+glass, you cannot help but gasp for breath... better take your asthma
+medicine!  There is a an altar to the east, and Arykydal Avenue lies right
+outside to the west.
+} T Alchemy II Text
+HAD012
+{...You're in the main hall of the cathedral.  This magnificent work of
+Peyennuian architechure has been constructed from the finest stone in the
+land and decorated with beautiful, hand-made stained glass (all right, they
+bought the stained glass at Home Depot, but it's still nice).  However,
+since it's night, there's nothing too spectacular about it... except you
+do notice a strange brilliance coming from the altar to the east.  Arykydal
+Avenue lies off the to west.
+} T Alchemy II Text
+HGD012 {on the stone floor} T Alchemy II Text
+
+HBD013
+{...You're %s at the altar in the cathedral.
+} T Alchemy II Text
+HLD013
+{...You're at the altar in the cathedral.  This marble altar is the main
+feature of the cathedral (except for the occasional bingo festivals).
+Above, multi-chromatic light washes in from the beautiful stained glass
+windows which are constructed in a dome above the altar -- quite nice!
+The floor is covered with vivid murals of Kyrannalussi fighting dragons,
+honoring heros, serving tea and cookies, shaving her legs, well, you get
+the point... The main hall of the cathedral lies to the west.
+} T Alchemy II Text
+HAD013
+{...You're at the altar in the cathedral.  This marble altar is the main
+feature of the cathedral (except for the occasional bingo festivals).
+Amazingly, even though it's night, multi-chromatic light washes in from
+the beautiful stained glass windows which are constructed in a dome above
+the altar.  The floor is covered with vivid murals of Kyrannalussi creating
+suns and moons, forging lands, forging signatures, fighting off the IRS,
+well, you get the point... The main hall of the cathedral lies to the west.
+} T Alchemy II Text
+HGD013 {on the murals} T Alchemy II Text
+
+HBD014
+{...You're %s in the middle of North Kyra Street.
+} T Alchemy II Text
+HLD014
+{...You're %s in the middle of North Kyra Street.  This well-paved road
+is bordered by the Oracle to the west and a small office to the east.  A
+sign in the window of the office says "Kyrapractic Healing"; the door is
+open.  Kyra street continues to the north and south.
+} T Alchemy II Text
+HAD014
+{...You're %s in the middle of North Kyra Street.  This dimly-lit roadway
+is bordered by the Oracle to the west and a small office to the east.  You
+see a shadowy sign in the window of the office, which says "Kyrapractic
+Healing"; the door is closed.  Kyra street continues to the north and south.
+} T Alchemy II Text
+HGD014 {casually in the street} T Alchemy II Text
+
+HBD015
+{...You're %s in the Kyrapractor's office.
+} T Alchemy II Text
+HLD015
+{...You're %s in the Kyrapractor's office.  This cheery doctor's office
+is decorated with scenic paintings and green plastic plants.  The local
+kyrapractor, a very nice young lady, motions to a sign on the wall which
+reads, "1 gold piece per hit point healed".  She smiles sweetly at you,
+reminding of your other possible fates.  The exit lies to the west.
+} T Alchemy II Text
+HAD015 {} T Alchemy II Text
+HGD015 {on the shiny, clean floor} T Alchemy II Text
+
+HBD016
+{...You're %s at the intersection of Kyra Street and Wizard's Avenue.
+} T Alchemy II Text
+HLD016
+{...You're %s at the intersection of Kyra Street and Wizard's Avenue.
+Wziard's Avenue continues to the east and west.  To the north lies the
+charred remains of some building; Kyra Street continues off to the south.
+} T Alchemy II Text
+HAD016
+{...You're %s at the intersection of Kyra Street and Wizard's Avenue.
+In the dark, you barely make out the charred remains of some building to
+the north.  Wizard's Avenue continues to the east and west; Kyra street
+continues to the south.
+} T Alchemy II Text
+HGD016 {in the intersection} T Alchemy II Text
+
+HBD017
+{...You're %s in the charred remains of the tax collectors building.
+} T Alchemy II Text
+HLD017
+{...You're %s in the charred remains of the tax collectors building.
+This was once the wealthiest construction in all of Arykydal... until the
+local taxpayers happened to discover the magic of pyrotechnics a couple
+years ago.  Anyway, there's not much left now, except for a lot of ashes
+and pieces of burnt stone.  Kyra Street lies to the south.
+} T Alchemy II Text
+HAD017
+{...You're %s in the charred remains of the tax collectors building.
+This was once the wealthiest construction in all of Arykydal... until the
+local taxpayers happened to discover the magic of pyrotechnics a couple
+years ago.  In the dark, you can barely make out piles of ashes and several
+burnt pieces of stone.  However, you notice one stone glows with a strange,
+greenish radiance -- reminiscent of the Booger from Hell.  Anyway, Kyra
+Street leads off into the night to the south.
+} T Alchemy II Text
+HGD017 {among the ashes} T Alchemy II Text
+
+HBD018
+{...You're %s at the end of Wizard's Avenue.
+} T Alchemy II Text
+HLD018
+{...You're %s at the end of Wizard's Avenue.  This dreary cul-de-sac
+marks the end of Wizard's Avenue, which continues to the west.  To the
+north lies the open door of the local rock collector.  The "Swampland
+Realtors" office lies boarded up and deserted to the south, however you
+do see a charred sign hanging on the door that reads, "We've also got a
+couple great bridges for sale!".
+} T Alchemy II Text
+HAD018
+{...You're %s at the end of Wizard's Avenue.  In the dark of the night,
+you notice warm light coming from the open door of the local rock collector
+to the north.  To the south lies the darkened, boarded up office of the
+"Swampland Realtors"... abandoned long ago.  Wizard's Avenue continues off
+to the west.
+} T Alchemy II Text
+HGD018 {in the street} T Alchemy II Text
+
+HBD019
+{...You're %s in the local rock collector's store.
+} T Alchemy II Text
+HLD019
+{...You're %s in the local rock collector's store.  This uniquely
+crafted shop has been hand-carved from some of the most beautiful and
+colorful stones you have ever seen (closer examination proves most of it
+to be paper mache).  Sitting in a comfy chair in a corner, the collector
+smiles at you kindly and holds out his hand; this seems like a good place
+to get your rocks off.  The door lies open to the south.
+} T Alchemy II Text
+HAD019 {} T Alchemy II Text
+HGD019 {on the stone floor} T Alchemy II Text
+
+HBD020
+{...You're %s on Wizard's Avenue.
+} T Alchemy II Text
+HLD020
+{...You're %s on Wizard's Avenue.  This well-constructed road continues
+to the east and west.  To the north stands a rather large, blue building
+with a sign on the outside reading "Official Magic Shop"; the door is open
+and inviting.  The Oracle lies to the south.
+} T Alchemy II Text
+HAD020
+{...You're %s on Wizard's Avenue.  This well-constructed road continues
+to the east and west.  To the north stands a rather large, blue building
+with a sign on the outside reading "Official Magic Shop"; the door is open
+and inviting.  The Oracle lies to the south.
+} T Alchemy II Text
+HGD020 {in the middle of the street} T Alchemy II Text
+
+HBD021
+{...You're %s in the Official Magic Shop.
+} T Alchemy II Text
+HLD021
+{...You're %s in the Official Magic Shop.  This blue-colored shop has
+been mystically decorated with vivid paintings of dragons, great wizards,
+great wizards laughing at dragons, great wizards teasing dragons, and
+finally, dragons eating great wizards.  However, your attention is caught
+more by the omnipotent-looking wizard floating in the air at the back of
+the room.  He looks at you quizzically, and then points silently to a
+sign floating next to him.  The exit door lies open to the south.
+} T Alchemy II Text
+HAD021 {} T Alchemy II Text
+HGD021 {on the blue-colored floor} T Alchemy II Text
+
+HBD022
+{...You're %s in the intersection of Cleveland Street and Wizard's Avenue.
+} T Alchemy II Text
+HLD022
+{...You're %s in the intersection of Cleveland Street and Wizard's
+Avenue.  Not one of the more "pleasant" areas of town, this place emanates
+a rather nasty stench... most likely coming from the stinking alleyway to
+the west.  To the north lies the infamous Harlot's Drive; Wizard's Avenue
+continues to the south, while Cleveland Street leads on to the south.
+} T Alchemy II Text
+HAD022 {} T Alchemy II Text
+HGD022 {in the middle of the intersection} T Alchemy II Text
+
+HBD023
+{...You're %s at Harlot's Drive.
+} T Alchemy II Text
+HLD023
+{...You're %s at Harlot's Drive.  This infamous place is bordered to
+the north by "Lola's Raw Bar (An Adult Entertainment Club)".  Hanging from
+the second story of this building is a sign which says, "Open All Night".
+You cannot help but wonder about a nasty double meaning of that sign, but
+who's to complain!  Inside you feel a certain urge to investigate this
+interesting place.  Cleveland Street lies to the south.
+} T Alchemy II Text
+HAD023
+{...You're %s at Harlot's Drive.  This infamous place is bordered to
+the north by "Lola's Raw Bar (An Adult Entertainment Club)".  Hanging from
+the second story of this building is a sign which says, "Open All Night".
+You cannot help but wonder about a nasty double meaning of that sign, but
+who's to complain!  Inside you feel a certain urge to investigate this
+interesting place.  The dark of the night has been brightly lit by the
+various neon signs of Lola's.  Cleveland Street lies to the south.
+} T Alchemy II Text
+HGD023 {innocently on the ground} T Alchemy II Text
+
+HBD024
+{...You're %s in a stinking alleyway.
+} T Alchemy II Text
+HLD024
+{...You're %s in a stinking alleyway.  There are some places in life you wish
+to avoid -- this is one of them.  Piles of really nasty-smelling trash
+are littered everywhere and in the far corner lies a puddle of pure
+sewege.  You immediately start to gag from the sight, an effect similiar
+to that New England Clam Chowder Surprise you had a while back.  Anyway,
+the only apparent salvation is Wizard's Avenue to the east.
+} T Alchemy II Text
+HAD024
+{...You're %s in a stinking alleyway.  Even in the dark of the night,
+you easily notice the huge, ominous piles of trash which litter this
+odorous location.  Just as you start to faint from the smell (an effect
+similiar to the Cheese and Olive Omelette you had a while back), you notice
+that in the far corner lies a puddle of sewege.  However, it seems to be
+glowing with a slightly blue radiance... something's rotten in the state
+of Arykydal!  Wizard's Avenue lies to the east.
+} T Alchemy II Text
+HGD024 {amongst the trash} T Alchemy II Text
+
+HBD025
+{...You're %s on North Cleveland Street.
+} T Alchemy II Text
+HLD025
+{...You're %s on North Cleveland Street.  Well, what's a comedy if it
+doesn't make fun of Cleveland -- everyone makes fun of Cleveland!  Anyway,
+the Oracle lies to the east, while Cleveland (ahem) Street continues to the
+north and south.
+} T Alchemy II Text
+HAD025
+{...You're %s on North Cleveland Street.  For some unexplainable bit
+of wisdom, you conclude that the middle of Cleveland Street in the middle
+of the night is not the greatest place to hang out... unless you're one of
+the nasty types (muggers, rapists, politicians, etc.).  Anyway, the Oracle
+lies to the east, while Cleveland (ahem) Street continues to the north and
+south.
+} T Alchemy II Text
+HGD025 {in the middle of the street} T Alchemy II Text
+
+HBD026
+{...You're %s on South Cleveland Street.
+} T Alchemy II Text
+HLD026
+{...You're %s on South Cleveland Street.   Cleveland Street is known
+to be the street of history... those who hang out around it too much
+quickly become history.  It's really only safe for robbers, sodomists, and
+encyclopedia salesmen.  Anyway, a door to the General Store lies open to
+the west, and Cleveland Street continues to the north and south.
+} T Alchemy II Text
+HAD026
+{...You're %s on South Cleveland Street.  In the dark of the night,
+you suddenly conclude that Cleveland Street is not where you really want to
+be... unless you're one of the nasty types (murderers, burglars, wives, or
+all of the above).  Anyway, a door to the General Store lies open to the
+west, and Cleveland Street continues to the north and south.
+} T Alchemy II Text
+HGD026 {in the street} T Alchemy II Text
+
+HBD027
+{...You're %s in the intersection of Cleveland Street and Moonshae Avenue.
+} T Alchemy II Text
+HLD027
+{...You're %s in the intersection of Cleveland Street and Moonshae
+Avenue.  Cinemuck Theatre lies open to the south, Eerie Lane lies to the
+west, Moonshae Avenue continues to the east, and Cleveland Street continues
+to the north.  What a city!
+} T Alchemy II Text
+HAD027
+{...You're %s in the intersection of Cleveland Street and Moonshae
+Avenue.  The bright lights of Cinemuck Theatre brighten up the night to the
+south.  Eerie Lane lies to the west, Moonshae Avenue continues to the east,
+and Cleveland Street continues to the north.
+} T Alchemy II Text
+HGD027 {in this strange intersection} T Alchemy II Text
+
+HBD028
+{...You're %s in Eerie Lane.
+} T Alchemy II Text
+HLD028
+{...You're %s in Eerie Lane (no relation to the Great Lake from some
+other fantasyworld).  Rising ominously before you to the south stands a
+very strange building.  It's constructed from some unidentifyable shiny,
+ebony-black stone, and is about fifty feet high... but most surprisingly,
+it has no doors or windows.  A sickening feeling fills your stomach (no,
+it's not what you ate -- it's because of this mysterious building).  To
+the east Moonshae Avenue continues.
+} T Alchemy II Text
+HAD028
+{...You're %s in Eerie Lane.  Under the light of the full moons, you
+see the ominous structure of this strange, ebony-black building rising high
+into the night sky.  It has no windows, but a bluish doorway seems to
+have magically appeared, leading into the building to the south.  Your
+spine starts to tingle mysteriously, filling your soul with a slight bit
+of fear.  To the east Moonshae Avenue continues.
+} T Alchemy II Text
+HGD028 {near this strange building} T Alchemy II Text
+
+HBD029
+{...You're %s at the entrance of Cinemuck Theatre.
+} T Alchemy II Text
+HLD029
+{...You're %s at the entrance of Cinemuck Theatre.  A sign outside reads,
+"Now Playing -- SYSOP'S FANTASY LOVER".  Sounds like an interesting flick,
+and possibly might give you some new tricks to teach your old dog.  By the
+way, first wipe the drool from your chin, and second, know that Cleveland
+Street continues to the north, Moonshae Avenue leads off to the east, and
+Eerie Lane lies to the west.  The entrance to the theatre is to the south.
+} T Alchemy II Text
+HAD029 {} T Alchemy II Text
+HGD029 {near the entrance} T Alchemy II Text
+
+HBD030
+{...You're %s in a darkened theatre.
+} T Alchemy II Text
+HLD030
+{...You're %s in a darkened theatre.  Unfortunately, there's no seats
+in this economy place, nor does there seem to be any screen or anything else
+that one normally expects at the movies.  At least the floor is clean... uh,
+well, maybe it too is a bit sticky with the petrified remains of ancient
+popcorn, candy, and soda.  Anyway, the only apparent exit is the door to the
+north.
+} T Alchemy II Text
+HAD030 {} T Alchemy II Text
+HGD030 {on the darkened floor} T Alchemy II Text
+
+HBD031
+{...You're %s on Moonshae Avenue.
+} T Alchemy II Text
+HLD031
+{...You're %s on Moonshae Avenue.  This section of the avenue has been
+brightly decorated with colorful posters proclaiming the joys of the Seven
+Days of Intercourse Festival -- where local couples camp out in the middle
+of a race course and barbecue dead chickens.  Po's Place for Potions lies
+open to the south, and Moonshae Avenue continues to the east and west.
+} T Alchemy II Text
+HAD031 {} T Alchemy II Text
+HGD031 {in the middle of avenue} T Alchemy II Text
+
+HBD032
+{...You're %s in Po's Place for Potions.
+} T Alchemy II Text
+HLD032
+{...You're %s in Po's Place for Potions.  This quaint store has a nice
+and cheerful atmosphere, with various flowers growing out of the walls and
+hanging from the ceiling.  At the back end of the store, a beautiful, young
+girl is standing and smiling at you.  She says, "My name is Po and welcome
+to my lovely abode!"  Just as you're starting to feel very welcome, she then
+points in a sign hanging on the back wall.  Anyway, Moonshae Avenue lies to
+the north.
+} T Alchemy II Text
+HAD032 {} T Alchemy II Text
+HGD032 {on the flowery floor} T Alchemy II Text
+
+HBD033
+{...You're %s in the intersection of Kyra Street and Moonshae Avenue.
+} T Alchemy II Text
+HLD033
+{...You're %s in the intersection of Kyra Street and Moonshae Avenue.
+In the center of this intersection, someone has drawn a rather large version
+of the Triangle of Kyrannalussi -- hmmm, religious grafitti!  Anyway, the
+Women's Public Restroom lies open to the east, Kyra Street continues to the
+north, Moonshae Avenue leads to the west, and Septic Drive lies to the south.
+} T Alchemy II Text
+HAD033 {} T Alchemy II Text
+HGD033 {in the intersection} T Alchemy II Text
+
+HBD034
+{...You're %s at Septic Drive.
+} T Alchemy II Text
+HLD034
+{...You're %s at Septic Drive.  Definately not "prime property", this
+odorous street leads only to one destination -- the Men's Public Restroom
+to the east.  It wouldn't be so bad, except the plumbing seems to have gone
+on vacation, and a puddle of some acidic liquid flows from the restroom to
+a sewage drain in the street near the far wall to the south.  Kyra Street
+lies to the north.
+} T Alchemy II Text
+HAD034 {} T Alchemy II Text
+HGD034 {near the sewage drain} T Alchemy II Text
+
+HBD035
+{...You're %s in the Men's Public Restroom.
+} T Alchemy II Text
+HLD035
+{...You're %s in the Men's Public Restroom.  The walls here are made
+of blue-green tiles, along with the floor and the ceiling.  On the south
+wall are half a dozen urinals, and several open stalls lie on the west
+wall.  Strangely enough there aren't any sinks, but maybe that explains why
+Arykydalians don't shake hands too often.  Various sexual grafitti on the
+north wall enlightens you with current affairs, so to speak...  Anyway, the
+exit lies to the west.
+} T Alchemy II Text
+HAD035 {} T Alchemy II Text
+HGD035 {near the latrines} T Alchemy II Text
+
+HBD036
+{...You're %s in the Women's Public Restroom.
+} T Alchemy II Text
+HLD036
+{...You're %s in the Women's Public Restroom.  The "social center"
+for the average Arykydalian woman, this pink-tiled mass lavatory is covered
+with footprints, lipstick, and eyeshadow... all combined on the floor into
+one big cosmetic mess.  Plenty of spaces for "relief" are provided on the
+south wall.  There is an exit to the west.
+} T Alchemy II Text
+HAD036 {} T Alchemy II Text
+HGD036 {amongst the cosmetic waste} T Alchemy II Text
+
+HBD037
+{...You're %s on South Kyra street.
+} T Alchemy II Text
+HLD037
+{...You're %s on South Kyra street.  This quaint part of town is very
+clean and well-kept -- the Kyragenics engineers would have it no other way!
+The great clothing store of J. C. Punny's lies open, all day and all night,
+to the east.  To the north lies the intersection of Kyra Street and Arykydal
+Avenue, and to the south lies the intersection of Kyra Street and Moonshae
+Avenue.
+} T Alchemy II Text
+HAD037 {} T Alchemy II Text
+HGD037 {in the middle of the street} T Alchemy II Text
+
+HBD038
+{...You're %s in J.C. Punny's clothing store.
+} T Alchemy II Text
+HLD038
+{...You're %s in J.C. Punny's clothing store.  This modern-looking
+proprietorship is run by a fat, jolly man called "Jc".  He stands at the
+rear of the store proudly displaying a large sign in one hand while holding
+a ray-gun in the other.  Suprisingly, there seems to be nothing else at all
+in this rather large storefront.  Anyway, Kyra Street lies to the west.
+} T Alchemy II Text
+HAD038 {} T Alchemy II Text
+HGD038 {on the marble floor} T Alchemy II Text
+
+HBD039
+{...You're %s in front of a blue forcefield.
+} T Alchemy II Text
+HLD039
+{...You're %s in front of a blue forcefield.  Rising before you to the
+west, this wall of solid, blue energy seems to discourage you from continuing
+further.  However, you notice a keypad on the north wall and upon closer
+examination you read, "Enter your three-digit code."  A vision appears in
+your mind of typing "enter # # #", of course, replacing the #'s with the
+appropriate digits.  There seems to be no other exit from this place.
+} T Alchemy II Text
+HAD039
+{...You're %s in front of a blue forcefield.  Rising before you to the
+west, this wall of solid, blue energy seems to discourage you from continuing
+further.  However, you notice a keypad on the south wall and upon closer
+examination you read, "Enter your three-digit code."  A vision appears in
+your mind of typing "enter # # #", of course, replacing the #'s with the
+appropriate digits.  A glowing doorway is open to the north.
+} T Alchemy II Text
+HGD039 {near the crackling forcefield} T Alchemy II Text
+
+HBD040
+{...You're %s in the Chamber of the Crystal.
+} T Alchemy II Text
+HLD040
+{...You're %s in the Chamber of the Crystal.  In the center of this
+room, set on a gold pedestal, rests a beautiful, yellow-glowing crystal.
+As you look around the rest of this rather large chamber, you see no other
+special features... just well-carved walls illuminated by the yellow
+brilliance.  A blue forcefield lies to the east.
+} T Alchemy II Text
+HAD040 {} T Alchemy II Text
+HGD040 {near the pedestal} T Alchemy II Text
+
+HBD041
+{...You're %s on a red-muck road.
+} T Alchemy II Text
+HLD041
+{...You're %s on a red-muck road.  The New Jersy version of the yellow
+brick road, this slimy road is layered with various filthy substances and
+emanates a rather foul odor.  Broad-leaved, purplish plants hang around
+the edge of the road to the north and south... bordering the great purple
+forest.  The town of Arykydal lies to the east, the red-muck road twists to
+the west, and purple forest lies to the north and south.
+} T Alchemy II Text
+HAD041 {} T Alchemy II Text
+HGD041 {in the red-muck} T Alchemy II Text
+
+HBD042
+{...You're %s on a twisting red-muck road.
+} T Alchemy II Text
+HLD042
+{...You're %s on a twisting red-muck road.  Truly a scenic route, at
+least in comparison to, oh, say, a toxic waste dump, this reddish-mucky road
+twists to the east and west, although it seems a bit overgrown to the west.
+Purple forest surrounds you to the north and south.
+} T Alchemy II Text
+HAD042 {} T Alchemy II Text
+HGD042 {in the red, red muck} T Alchemy II Text
+
+HBD043
+{...You're %s on an overgrown red-muck road.
+} T Alchemy II Text
+HLD043
+{...You're %s on an overgrown red-muck road.  The surrounding purple
+forest seems to have decided that it wanted this spot of Peyennuu, and has
+forcefully overtaken the poor New Jersy red-muck road, regardless of any
+Kyrannalussi's property regulations.  Anyway, the red-muck road clears up
+to the east, and there seems to be something amongst the overgrowth to the
+west.  Purple forest hangs around to the north and south.
+} T Alchemy II Text
+HAD043 {} T Alchemy II Text
+HGD043 {in the overgrown red muck} T Alchemy II Text
+
+HBD044
+{...You're %s in front of the Door of FuzzyFeelings.
+} T Alchemy II Text
+HLD044
+{...You're %s in front of the Door of FuzzyFeelings.  This psychadellic
+gateway to Kyrannalussi knows what glows brightly to the west.  Every once
+in a while you see a beautiful woman's leg slowly display itself in the
+doorway -- the Legend of Lady Meling, temptress of innocent sheep herders!
+However, enough childhood fantasies.  Purple forest lies to the north and
+south, while an overgrown red-muck road leads off to the east.
+} T Alchemy II Text
+HAD044 {} T Alchemy II Text
+HGD044 {near the glowing doorway} T Alchemy II Text
+
+HBD045
+{...You're %s outside of a gingerbread house.
+} T Alchemy II Text
+HLD045
+{...You're %s outside of a gingerbread house.  This very interesting
+candy construction consists mostly of stale-looking gingerbread, red-and-
+white-striped candy canes, and what looks like either jellybeans or birth-
+control pills (they all look the same).  The door and windows are closed, and
+a sign on the door reads, "On vacation -- leave tender children on doorstep,
+please".  Purple forest lies in all directions, except for a something to the
+east, from where you hear something weird and horrifying.
+} T Alchemy II Text
+HAD045 {} T Alchemy II Text
+HGD045 {near the fudge (you hope!) doorstep} T Alchemy II Text
+
+HBD046
+{...You're %s near a wishing well.
+} T Alchemy II Text
+HLD046
+{...You're %s near a wishing well.  This beautifully architected well
+has been constructed from magnificently crafted, hand-carved stone.  Either
+that, or it's only an illusion and actually looks like a gas-station toliet.
+However frightening (or delightful?) that thought may be to you, you are
+suddenly distracted by a sickening sound emanating from the depths of the
+well.  In a moment of horrified recognition, you realize it's Terrance Trent
+D'Arby attempting to sing -- "Wish me love, oh wishing well, kiss and tell".
+You barely control your digestive system from exploding in disgust.  Anyway,
+purple forest lies in all direction, except for a gingerbread house to the
+west.
+} T Alchemy II Text
+HAD046 {} T Alchemy II Text
+HGD046 {near the well} T Alchemy II Text
+
+HBD047
+{...You're %s at Kyrannalussi's Shrine of Truth.
+} T Alchemy II Text
+HLD047
+{...You're %s at Kyrannalussi's Shrine of Truth.  This holy sanction is
+nestled deep within the moist heart of the forest where no sane person was
+ever meant to discover it.  Luckily, you don't fit into that category.  A
+gold (or gold-coated copper) altar imbedded with the Triangle of Kyrannalussi
+rests in the center of this natural chapel, and as you gaze at it you feel
+the urge to get down on your knees, pray sincerely, and start writing checks
+to moron TV evangelists from hell.   Fortunately, you slap yourself out it.
+Send the money in for more online time instead!  Anyway, purple forest lies
+in all directions, except for a statue in a clearing to the east.
+} T Alchemy II Text
+HAD047 {} T Alchemy II Text
+HGD047 {near the gold altar} T Alchemy II Text
+
+HBD048
+{...You're %s near a statue in a clearing.
+} T Alchemy II Text
+HLD048
+{...You're %s near a statue in a clearing.  In the middle of this clearing
+a statue of a young man, standing erect, and a lovely woman holding eachother
+close together.  The man is grinning and you notice a smirk and a wink on the
+woman's beautiful face.  Awwwwwww, ain't dat sweet!  The sun seems to shine
+a little bit brighter here... probably because it's a clearing, but you sense
+a special magic implied by the author.  You see a shrine to the west, and of
+course, purple forest lies in all other directions.
+} T Alchemy II Text
+HAD048
+{...You're %s near a statue in a clearing.  In the middle of this clearing
+a statue of a young man, standing erect, and a lovely woman holding eachother
+close together.  The man is grinning and you notice a smirk and a wink on the
+woman's beautiful face.  Awwwwwww, ain't dat sweet!  The stars seem to shine
+a little bit brighter here... probably because it's a clearing, but you sense
+a special magic implied by the author.  You see a shrine to the west, and of
+course, purple forest lies in all other directions.
+} T Alchemy II Text
+HGD048 {near this special statue} T Alchemy II Text
+
+HBD049
+{...You're %s at Honeymooner's Lagoon.
+} T Alchemy II Text
+HLD049
+{...You're %s at Honeymooner's Lagoon.  This beautiful resort spot in
+the far corners of the purple forest is recognized by the large sign which
+is floating in the air high above which says, "Where lovers whoopee --
+everybody's favorite pastime!".  As you raise your left eyebrow and question
+this logic, you notice the lovely surroundings.  Beds of thornless roses,
+a beautiful blue lake with overhanging branches, and... well, as you look
+more closely you realize it's all a painted set.  Oh, well, it's still nice
+and romantic anyway -- just pretend.  Purple forest lies off to the north.
+} T Alchemy II Text
+HAD049 {} T Alchemy II Text
+HGD049 {on the painted rose beds} T Alchemy II Text
+
+HBD050
+{...You're %s at the overgrown entrance to a cave.
+} T Alchemy II Text
+HLD050
+{...You're %s at the overgrown entrance to a cave.  Deep in the heart
+of this purple forest, you seem to have stumbled across a clump of violet
+bushes that are hiding the entrance to a small cave.  As you peer in, you
+see only darkness, and a gust of cold wind suddenly blows you (hey!) almost
+off your feet from its depths.  The dark cave is to the east, and purple
+forest lies in all other directions.
+} T Alchemy II Text
+HAD050 {} T Alchemy II Text
+HGD050 {near the entrance} T Alchemy II Text
+
+HBD051
+{...You're %s at the larch tree.
+} T Alchemy II Text
+HLD051
+{...You're %s at the larch tree.  The larch.  This cheery-looking tree is
+commonly known as the larch.  The larch.  The larch.  Unlike the rest of the
+adjacent forest, the larch has green leaves.  The larch.  The scientific name
+for the larch is... the larch.  The larch.  By the way, just in case you
+didn't know, there is a larch tree here.  The larch.  Did you know that only
+one out of some larger number of trees in this forest are larches?  Really!
+The larch.  Purple forest lies in all directions.  The larch.
+} T Alchemy II Text
+HAD051 {} T Alchemy II Text
+HGD051 {near the larch.  The larch.} T Alchemy II Text
+
+HBD052
+{...You're %s near a blah-plant.
+} T Alchemy II Text
+HLD052
+{...You're %s near a blah-plant.  This plum-colored vegetation from
+Hell is covered with a seemingly uncountable number of blah potions.  The
+air here seems to be dominated by the strong odor of jelly donuts.  Purple
+forest lies in all directions.
+} T Alchemy II Text
+HAD052 {} T Alchemy II Text
+HGD052 {near the blah-plant.  BLAH!} T Alchemy II Text
+
+HBD053
+{...You're %s in a clump of Dicfurs.
+} T Alchemy II Text
+HLD053
+{...You're %s in a clump of Dicfurs.  What is a Dicfur, you ask?  Well,
+the many strange and mystical positions these firm, flesh-colored trees
+have grown in fills your mind with numerous ideas.  Dicfurs are rumored to
+grow to enormous sizes, but only when given warm, loving attention.  You
+can almost see the sap throbbing within them... but enough botany.  Purple
+forest lies in all directions, except for a clump of rubber trees to the
+north.
+} T Alchemy II Text
+HAD053 {} T Alchemy II Text
+HGD053 {near the base of the Dicfurs} T Alchemy II Text
+
+HBD054
+{...You're %s in a clump of rubber trees.
+} T Alchemy II Text
+HLD054
+{...You're %s in a clump of rubber trees.  These flexible, tropical trees
+are known also by their scientific name of "prophylatic maximusorgasmus".
+Often found in thick bush, their preferred habitat, they contain a creamy
+sap that is a world-reknown delicacy, especially in San Francisco.  Anyway,
+purple forest lies in all directions, except for a clump of Dicfurs to the
+south.
+} T Alchemy II Text
+HAD054 {} T Alchemy II Text
+HGD054 {in the bush} T Alchemy II Text
+
+HBD055
+{...You're %s near a lime tree.
+} T Alchemy II Text
+HLD055
+{...You're %s near a lime tree.  This beautiful, shiny green tree is
+completely bare of any fruit... and seems to have been for a very long time.
+However, the ground seems a bit uneven around the entire tree for some
+unknown reason, elevated by hundreds of little bumps.  The Arykydal wall
+blocks the east, but purple forest lies in all other directions.
+} T Alchemy II Text
+HAD055 {} T Alchemy II Text
+HGD055 {on the bumpy ground} T Alchemy II Text
+
+HBD056
+{...You're %s under a sandstone tree.
+} T Alchemy II Text
+HLD056
+{...You're %s under a sandstone tree.  This brownish tree is covered
+with thousands of large sandstones... hanging just out of your reach.  The
+tree looks too solid to try shaking it, and too smooth to try climbing.
+However, from the impressions on the ground, you figure that some will fall
+sooner or later.  Purple forest lies in all directions.
+} T Alchemy II Text
+HAD056 {} T Alchemy II Text
+HGD056 {near the base of the tree} T Alchemy II Text
+
+HBD057
+{...You're %s next to a Barfo plant.
+} T Alchemy II Text
+HLD057
+{...You're %s next to a Barfo plant.  This multi-shaded, pinkish plant
+is covered with thousands of barfo potions just waiting to be picked!  Of
+course, the smell here is pretty deadly, but not nearly as putrid as the
+infamous cookies of Sharibor the Destructor.  Anyway, purple forest lies in
+all directions.
+} T Alchemy II Text
+HAD057 {} T Alchemy II Text
+HGD057 {next to the plant} T Alchemy II Text
+
+HBD058
+{...You're %s near an ancient, hollow stump.
+} T Alchemy II Text
+HLD058
+{...You're %s near an ancient, hollow stump.  This stump, apparently
+a once magnificent tree, now lies half-rotted and half-buried by all the
+surrounding purplish underbrush.  It seems to be turning a bit purple itself,
+but what catches your eye is multi-colored fungi growing in at the base in
+shades of white, pink, blue, black, yellow, and green.  Purple forest lies in
+all directions.
+} T Alchemy II Text
+HAD058 {} T Alchemy II Text
+HGD058 {near the stump} T Alchemy II Text
+
+HBD059
+{...You're %s in a magically-illuminated part of the forest.
+} T Alchemy II Text
+HLD059
+{...You're %s in a magically-illuminated part of the forest.  Amidst
+the strange, purplish trees and plants of the rest of this forest, this odd
+location is mysteriously lit by unknown psychadellic blue and green lights.
+An eerie sensation runs down your spine and is immediately chased by your
+nerve police for jaywalking.  The sensation then turns around and shoots
+it's pursuer with a high-powered impulse, giving the sensation an escape
+while giving your back a sharp pain.  Anyway, purple forest lies in all
+directions.
+} T Alchemy II Text
+HAD059
+{...You're %s in a magically-illuminated part of the forest.  Admist
+the strange, purplish trees and plants of the rest of this forest, this odd
+location is mysteriously lit by unknown psychadellic blue and green lights.
+However, even more mysterious is the shimmering, multi-chromatic portal which
+lies open to the north.  Purple forest lies in all other directions.
+} T Alchemy II Text
+HGD059 {on the blue-green ground} T Alchemy II Text
+
+HBD060
+{...You're %s near a small pond.
+} T Alchemy II Text
+HLD060
+{...You're %s near a small pond.  Hidden amongst the various purple plants
+which abound in this region lies this smooth and beautiful body... of water.
+It's rather small in size, and it doesn't have any seemingly "special"
+characteristics, but nonetheless you feel a sense of tranquility overcome
+you as you examine it.  The sky is reflected off its surface, creating a
+nice, artistic scene like the type you see on hotel wall paintings.  Purple
+forest lies in all directions.
+} T Alchemy II Text
+HAD060 {} T Alchemy II Text
+HGD060 {near the water} T Alchemy II Text
+
+HBD061
+{...You're %s near a Buffoon bush.
+} T Alchemy II Text
+HLD061
+{...You're %s near a Buffoon bush.  These nasty vegetables are known
+for teasing innocent passer-bys with their lucious bush, and then closing
+up for the winter as soon as they get near!  However, this one seems to have
+mellowed out, and is now blooming a full crop of buffoon potions, waiting
+to be picked.  The wall of Arykydal blocks the west, but purple forest lies
+in all other directions.
+} T Alchemy II Text
+HAD061 {} T Alchemy II Text
+HGD061 {near the lucious bush} T Alchemy II Text
+
+HBD062
+{...You're %s by a Hygine tree.
+} T Alchemy II Text
+HLD062
+{...You're %s by a Hygine tree.  These meticulous members of the plant
+kingdom are very strict about personal cleanliness and can often be found
+raking their leaves, trimming their branches, and washing themselves after
+they finish pollination.  A strong smell of soap emanates from the center
+of its leaves, beyond your sight.  Purple forest lies in all directions.
+} T Alchemy II Text
+HAD062 {} T Alchemy II Text
+HGD062 {on the leaf-free ground} T Alchemy II Text
+
+HBD063
+{...You're %s near a Booger plant.
+} T Alchemy II Text
+HLD063
+{...You're %s near a Booger plant.  This slimy, green flora is truly
+one of the most disgusting blobs of matter you have ever witnessed, with the
+single exception of that one big mass of mucus you found hungrily up your
+nose last year.  Anyway, after feeling considerably nauseated, you notice
+hundreds of booger potions just waiting to be picked from this greasy, green
+spitball from hell.  Purple forest lies in all directions.
+} T Alchemy II Text
+HAD063 {} T Alchemy II Text
+HGD063 {on the green, slimy ground} T Alchemy II Text
+
+HBD064
+{...You're %s near a green wall.
+} T Alchemy II Text
+HLD064
+{...You're %s near a green wall.  Unlike the rest of the surrounding
+purple forest, this section, bordering the city wall of Arykydal, seems to
+be dominated by the color green.  The usual purple plants, underbrush, and
+trees are, quite surprisingly, green!  The wall blocks any movement to the
+south, but purple forest gladly awaits you in all other directions.
+} T Alchemy II Text
+HAD064 {} T Alchemy II Text
+HGD064 {on the greenish-purple ground} T Alchemy II Text
+
+HBD065
+{...You're %s next to an emerald tree.
+} T Alchemy II Text
+HLD065
+{...You're %s next to an emerald tree.  This beautiful tree is made of
+emerald with countless free-form emeralds hanging from its gemstone branches.
+You feel like you could easily just get one without any problem.  However, as
+you spend some more time looking at the tree, you become aware of a definite
+magical aura emanating from it.  Either that or it's your deoderant wearing
+off.  Purple forest lies in all directions, except for a wall to the south.
+} T Alchemy II Text
+HAD065 {} T Alchemy II Text
+HGD065 {near this sparkling tree} T Alchemy II Text
+
+HBD067
+{...You're %s in a field of gigglebees.
+} T Alchemy II Text
+HLD067
+{...You're %s in a field of gigglebees.  This clearing in the forest
+is filled with the sweet-smelling grass of the gigglebees.  You are quite
+tempted to sniff the air more deeply, but the thoughts of the possible
+after-effects disuades you... doesn't it?  Anyway, you notice that for some
+strange reason your mind is now filled with important questions such as
+why your reproductive organs aren't located in your left ear.  Purple forest
+lies in all directions.
+} T Alchemy II Text
+HAD067 {} T Alchemy II Text
+HGD067 {} T Alchemy II Text
+
+CWTONB
+{...You're %s in the purple forest near a wall.
+} T Alchemy II Text
+CWTONL
+{...You're %s in the purple forest.  Strange, purplish-leaved trees
+surround you in all directions, limiting your vision to the nearby vicinity.
+From above, sunlight filters through the branches of the oddly-colored
+vegetation, casting a yellowish-red tint upon everything.  The underbrush is
+rather thick here, obscuring the forest floor with broad, reddish-purple
+leaves.  Purplish forest seems to lies in all directions, except for a wall
+to the north.
+} T Alchemy II Text
+CWTONA
+{...You're %s in the purple forest.  Strange, purplish-leaved trees
+surround you in all directions, their branches ominously hanging down from
+the darkness... leering at you.  The underbrush is rather thick here, and
+it obscures the forest floor with broad, reddish-purple leaves.  Fear starts
+to fill your soul as you see purplish forest lying in all directions, except
+for a wall to the north.
+} T Alchemy II Text
+CWTONG {among the reddish-purple underbrush} T Alchemy II Text
+
+CWTOSB
+{...You're %s in the purple forest near a wall.
+} T Alchemy II Text
+CWTOSL
+{...You're %s in the purple forest.  Strange, purplish-leaved trees
+surround you in all directions, limiting your vision to the nearby vicinity.
+From above, sunlight filters through the branches of the oddly-colored
+vegetation, casting a yellowish-red tint upon everything.  The underbrush is
+rather thick here, obscuring the forest floor with broad, reddish-purple
+leaves.  Purplish forest seems to lies in all directions, except for a wall
+to the south.
+} T Alchemy II Text
+CWTOSA
+{...You're %s in the purple forest.  Strange, purplish-leaved trees
+surround you in all directions, their branches ominously hanging down from
+the darkness... leering at you.  The underbrush is rather thick here, and
+it obscures the forest floor with broad, reddish-purple leaves.  Fear starts
+to fill your soul as you see purplish forest lying in all directions, except
+for a wall to the south.
+} T Alchemy II Text
+CWTOSG {among the reddish-purple underbrush} T Alchemy II Text
+
+CWTOEB
+{...You're %s in the purple forest near a wall.
+} T Alchemy II Text
+CWTOEL
+{...You're %s in the purple forest.  Strange, purplish-leaved trees
+surround you in all directions, limiting your vision to the nearby vicinity.
+From above, sunlight filters through the branches of the oddly-colored
+vegetation, casting a yellowish-red tint upon everything.  The underbrush is
+rather thick here, obscuring the forest floor with broad, reddish-purple
+leaves.  Purplish forest seems to lies in all directions, except for a wall
+to the east.
+} T Alchemy II Text
+CWTOEA
+{...You're %s in the purple forest.  Strange, purplish-leaved trees
+surround you in all directions, their branches ominously hanging down from
+the darkness... leering at you.  The underbrush is rather thick here, and
+it obscures the forest floor with broad, reddish-purple leaves.  Fear starts
+to fill your soul as you see purplish forest lying in all directions, except
+for a wall to the east.
+} T Alchemy II Text
+CWTOEG {among the reddish-purple underbrush} T Alchemy II Text
+
+CWTOWB
+{...You're %s in the purple forest near a wall.
+} T Alchemy II Text
+CWTOWL
+{...You're %s in the purple forest.  Strange, purplish-leaved trees
+surround you in all directions, limiting your vision to the nearby vicinity.
+From above, sunlight filters through the branches of the oddly-colored
+vegetation, casting a yellowish-red tint upon everything.  The underbrush is
+rather thick here, obscuring the forest floor with broad, reddish-purple
+leaves.  Purplish forest seems to lies in all directions, except for a wall
+to the west.
+} T Alchemy II Text
+CWTOWA
+{...You're %s in the purple forest.  Strange, purplish-leaved trees
+surround you in all directions, their branches ominously hanging down from
+the darkness... leering at you.  The underbrush is rather thick here, and
+it obscures the forest floor with broad, reddish-purple leaves.  Fear starts
+to fill your soul as you see purplish forest lying in all directions, except
+for a wall to the west.
+} T Alchemy II Text
+CWTOWG {among the reddish-purple underbrush} T Alchemy II Text
+
+PURPLB
+{...You're %s in the purple forest.
+} T Alchemy II Text
+PURPLL
+{...You're %s in the purple forest.  Strange, purplish-leaved trees
+surround you in all directions, limiting your vision to the nearby vicinity.
+From above, sunlight filters through the branches of the oddly-colored
+vegetation, casting a yellowish-red tint upon everything.  The underbrush is
+rather thick here, obscuring the forest floor with broad, reddish-purple
+leaves.  Purplish forest seems to lies in all directions.
+} T Alchemy II Text
+PURPLA
+{...You're %s in the purple forest.  Strange, purplish-leaved trees
+surround you in all directions, their branches ominously hanging down from
+the darkness... leering at you.  The underbrush is rather thick here, and
+it obscures the forest floor with broad, reddish-purple leaves.  Fear starts
+to fill your soul as you see purplish forest lying in all directions.
+} T Alchemy II Text
+PURPLG {among the reddish-purple underbrush} T Alchemy II Text
+
+HBD166
+{...You're %s in a dark passageway.
+} T Alchemy II Text
+HLD166
+{...You're %s in a dark passageway.  Naturally carved out from the
+surrounding stone, this pitch-black cavern fills you with a closing sense
+of claustrophobia... then the walls start to close in!  CLOSER!  AND CLOSER!
+Just kidding.  Ha, ha.  Anyway, the passageway leads off to the north and
+east.
+} T Alchemy II Text
+HAD166 {} T Alchemy II Text
+HGD166 {on the damp, dark ground} T Alchemy II Text
+
+HBD167
+{...You're %s in a dark passageway.
+} T Alchemy II Text
+HLD167
+{...You're %s in a dark passageway.  Naturally carved out from the
+surrounding stone, this pitch-black cavern fills you with a closing sense
+of claustrophobia... then the walls start to close in!  CLOSER!  AND CLOSER!
+Just kidding.  Ha, ha.  Anyway, the passageway leads off to the north and
+south.
+} T Alchemy II Text
+HAD167 {} T Alchemy II Text
+HGD167 {on the damp, dark ground} T Alchemy II Text
+
+HBD168
+{...You're %s at the toxic waterfall.
+} T Alchemy II Text
+HLD168
+{...You're %s at the toxic waterfall.  This disgusting monument marks
+the end of Arykydal's sewer system, spewing out vast amounts of green, slimy
+gunk in a magnificent display resembling a dragon exploding from constipation.
+Anyway, although waterfalls are known for the romanticism, this particular
+one only fills you with a desire to run away as fast as possible.  Actually,
+rather than kiss your spouse, you consider the fulfilling experience of a
+nice push into this natural vat of waste... but enough daydreaming.  The
+overwhelming, putrid odor surrounding you makes you quickly notice the exit
+to the south.
+} T Alchemy II Text
+HAD168 {} T Alchemy II Text
+HGD168 {near the churning gunk} T Alchemy II Text
+
+HBD169
+{...You're %s in the cavern of the blue dragon.
+} T Alchemy II Text
+HLD169
+{...You're %s in the cavern of the blue dragon.  This rather large
+underground chamber is the home of a very sad, blue dragon.  He remains in
+the far north corner sniffling, "She left me for a rich, white dragon...
+that five-headed snake.. I hope he gives her frostbite...".  A big, blue
+tear rolls down his snout.  An abandoned coal mine lies to the south, while
+a dark passageway leads off to the east.
+} T Alchemy II Text
+HAD169 {} T Alchemy II Text
+HGD169 {near the blue, blue dragon} T Alchemy II Text
+
+HBD170
+{...You're %s in an abandoned coal mine.
+} T Alchemy II Text
+HLD170
+{...You're %s in an abandoned coal mine.  You're surrounded by huge
+chunks of coalrock, reminiscent of your mother's homemade biscuits.  Because
+the coalrock is rather loose, the air is filled with soot, making you cough
+every couple of seconds.  You hear crying in the cavern to the north, and a
+dark passageway leads off to the west.
+} T Alchemy II Text
+HAD170 {} T Alchemy II Text
+HGD170 {among the coalrocks} T Alchemy II Text
+
+HBD171
+{...You're %s in a dark passageway.
+} T Alchemy II Text
+HLD171
+{...You're %s in a dark passageway.  Naturally carved out from the
+surrounding stone, this pitch-black cavern fills you with a closing sense
+of claustrophobia... then the walls start to close in!  CLOSER!  AND CLOSER!
+Just kidding.  Ha, ha.  Anyway, the passageway leads off to the south and
+west.
+} T Alchemy II Text
+HAD171 {} T Alchemy II Text
+HGD171 {on the damp, dark ground} T Alchemy II Text
+
+HBD172
+{...You're %s in a dark passageway.
+} T Alchemy II Text
+HLD172
+{...You're %s in a dark passageway.  Naturally carved out from the
+surrounding stone, this pitch-black cavern fills you with a closing sense
+of claustrophobia... then the walls start to close in!  CLOSER!  AND CLOSER!
+Just kidding.  Ha, ha.  Anyway, the passageway leads off to the north and
+east.
+} T Alchemy II Text
+HAD172
+{...You're %s in a dark passageway.
+} T Alchemy II Text
+HGD172
+{on the damp, dark ground} T Alchemy II Text
+
+HBD173
+{...You're %s near an abandoned Trojan.
+} T Alchemy II Text
+HLD173
+{...You're %s near an abandoned Trojan.  This once popular display
+was removed from Arykydal when Shakeabigwun was run out of town.  As you
+exmine it more closely, you see circular protrusions... this one was
+ribbed!  And from the the slipperiness of it, it must have been lubricated
+(or greatly used).  However, it's just a statue of a horse.  Also your
+eye catches the partial slogan, "Trojan, the magic...".  Dark passageways
+continue to the north and west.
+} T Alchemy II Text
+HAD173 {} T Alchemy II Text
+HGD173 {near this wooden horse} T Alchemy II Text
+
+HBD174
+{...You're %s in a dark passageway.
+} T Alchemy II Text
+HLD174
+{...You're %s in a dark passageway.  Naturally carved out from the
+surrounding stone, this pitch-black cavern fills you with a closing sense
+of claustrophobia... then the walls start to close in!  CLOSER!  AND CLOSER!
+Just kidding.  Ha, ha.  Anyway, the passageway leads off to the north and
+south.
+} T Alchemy II Text
+HAD174 {} T Alchemy II Text
+HGD174 {on the damp, dark ground} T Alchemy II Text
+
+HBD175
+{...You're %s in the cavern of the Stinx.
+} T Alchemy II Text
+HLD175
+{...You're %s in the cavern of the Stinx.  Standing before you is a
+magnificent, stone Stinx -- a distant (not distant enough) relative of the
+Sphinx.  However, this mythical creature is a little less sanitary than its
+majestical cousins.  The horrible stench that emanates from the rear of this
+huge creature is almost fatal to your mortal lungs.  A rope bridge lies to
+the east, and dark passageways continue to the north and south.
+} T Alchemy II Text
+HAD175 {} T Alchemy II Text
+HGD175 {near the base of the Stinx} T Alchemy II Text
+
+HBD176
+{...You're %s in a dark passageway.
+} T Alchemy II Text
+HLD176
+{...You're %s in a dark passageway.  Naturally carved out from the
+surrounding stone, this pitch-black cavern fills you with a closing sense
+of claustrophobia... then the walls start to close in!  CLOSER!  AND CLOSER!
+Just kidding.  Ha, ha.  Anyway, the passageway leads off to the south and
+west.
+} T Alchemy II Text
+HAD176 {} T Alchemy II Text
+HGD176 {on the damp, dark ground} T Alchemy II Text
+
+HBD177
+{...You're %s on a rope bridge.
+} T Alchemy II Text
+HLD177
+{...You're %s on a rope bridge.  This perilous crossing sways back and
+forth alarmingly as you move along it.  Below, you see nothing but unending
+darkness... blacker than your mother's baked chicken.  To the east you see
+a beautiful fountain of quartz, and to the west lies the cavern of the Stinx.
+} T Alchemy II Text
+HAD177 {} T Alchemy II Text
+HGD177 {on the unsteady ropes} T Alchemy II Text
+
+HBD178
+{...You're %s fountain of quartz.
+} T Alchemy II Text
+HLD178
+{...You're %s fountain of quartz.  This beautiful fountain, constructed
+from the most beautiful pink quartz you have ever seen, rises before you in
+a royal stance, almost as if saying, "Get lost you mortal scum!".  However,
+even more amazing is that instead of water, this fountain is spewing forth
+vast amounts of pink quartz just begging to be taken.  The rope bridge lies
+to the west.  You also notice a plaque at the base of the fountain which
+reads, "Dedicated to the one I love!".
+} T Alchemy II Text
+HAD178 {} T Alchemy II Text
+HGD178 {near shis majestical fountain} T Alchemy II Text
+
+HBD179
+{...You're %s in the Reception Chamber.
+} T Alchemy II Text
+HLD179
+{...You're %s in the Reception Chamber.  This magnificently decorated,
+circular room is filled with beautiful tapestries depicting great and amazing
+scenes such as... computer keyboards?  Flashing monitor screens?  Floppy
+disks?  What are these strange, foreign devices?  Hmmmm.  A large sign on the
+south wall reads, "Welcome to the Palace of the Wizard".  You also notice the
+corridors leading off to the north, east, and west.
+} T Alchemy II Text
+HAD179
+{...You're %s in the Reception Chamber.  This magnificently decorated,
+circular room is filled with beautiful tapestries depicting great and amazing
+scenes such as... computer keyboards?  Flashing monitor screens?  Floppy
+disks?  What are these strange, foreign devices?  Hmmmm.  A large sign on the
+south wall reads, "Welcome to the Palace of the Wizard".  You also notice the
+corridors leading off to the north, east, and west.  Underneathe the sign on
+the south wall, a glowing doorway leads to an illuminated forest.
+} T Alchemy II Text
+HGD179 {on the carpeted, anti-static floor} T Alchemy II Text
+
+HBD180
+{...You're %s in a yellow corridor.
+} T Alchemy II Text
+HLD180
+{...You're %s in a yellow corridor.  Constructed from some strange,
+unknown substance, this odd, yellow corridor fills your soul with an ominous
+feeling of boom (similar to doom, except more explosive).  The corridor
+bends to a chamber the south and leads into a another chamber to the north.
+} T Alchemy II Text
+HAD180 {} T Alchemy II Text
+HGD180 {on the shiny, yellow floor} T Alchemy II Text
+
+HBD181
+{...You're %s in the Chamber of the Wheel.
+} T Alchemy II Text
+HLD181
+{...You're %s in the Chamber of the Wheel.  This huge, octagonal room
+is dominated by a large, multi-colored wheel on the south wall.  Above it is
+a sign which reads, "The Wheel of Fate/Fortune".  You look around to see if
+Vanna White is nearby, but no such luck.  The rest of the room seems pretty
+bare, with potraits of naked game show hosts on the east and west walls.
+There is an exit to the north.
+} T Alchemy II Text
+HAD181 {} T Alchemy II Text
+HGD181 {on the stone floor} T Alchemy II Text
+
+HBD182
+{...You're %s in a misty hallway.
+} T Alchemy II Text
+HLD182
+{...You're %s in a misty hallway.  This confusing hallway is filled
+with clouds of blue mist, obscuring your vision so much you can't determine
+anything about your surroundings.  You can't see your hand in front of you
+much less any exits.  Something inside of you says, "The author is using
+foreshadowing to suggest a hidden meaning to this otherwise undesirable
+vacation spot, smoggily reminiscent of Los Angeles."
+} T Alchemy II Text
+HAD182 {} T Alchemy II Text
+HGD182 {somewhere in the blue mists} T Alchemy II Text
+
+HBD183
+{...You're %s in front of a blue-glowing gate.
+} T Alchemy II Text
+HLD183
+{...You're %s in front of a blue-glowing gate.  Rising before you to
+east is a huge, blue-glowing gate.  It seems to have no keyhole or lock,
+but instead seems permanently welded to the stone floor.  Strangely enough,
+you cannot see beyond it... almost as if some magical, author-developed
+force is preventing you from spoiling a surprise.  To the south, stairs lead
+downward, and to the east a misty hallway awaits you.
+} T Alchemy II Text
+HAD183 {} T Alchemy II Text
+HGD183 {near this annoying gate} T Alchemy II Text
+
+HBD184
+{...You're %s on a rickety staircase.
+} T Alchemy II Text
+HLD184
+{...You're %s on a rickety staircase.  This set of stairs obviously
+should have been condemned by the Kyragenic Engineering Team about two or
+three centuries ago.  It wobbles unsteadily under your feet filling your
+mind with the question of, "Are fantasy adventures included in my health
+insurance plan?".  You quickly decide you'd best go up to the north or down
+to the south.
+} T Alchemy II Text
+HAD184 {} T Alchemy II Text
+HGD184 {on this ancient stairway} T Alchemy II Text
+
+HBD185
+{...You're %s in a large basement.
+} T Alchemy II Text
+HLD185
+{...You're %s in a large basement.  This cold, dark cellar under the
+palace is filled with empty, dusty shelves and closets.  On the east wall,
+a large, metal door is closed tight with a "High Voltage" sign painted in
+red on it.  To the south you see a locked, padded cell, above which a sign
+reads, "Home of Sharibor the Destructor".  To the north, stairs lead upward.
+} T Alchemy II Text
+HAD185 {} T Alchemy II Text
+HGD185 {on the dusty, stone floor} T Alchemy II Text
+
+HBD186
+{...You're %s in the Arena of Ky.
+} T Alchemy II Text
+HLD186
+{...You're %s in the Arena of Ky.
+} T Alchemy II Text
+HAD186 {} T Alchemy II Text
+HGD186 {} T Alchemy II Text
+
+HBD187
+{...You're %s in the Hall of History.
+} T Alchemy II Text
+HLD187
+{...You're %s in the Hall of History, filled with portraits of all the
+great deities of Peyennuu.  On the right, paintings of Kyrannalussi cover
+the wall... although a few of them have had moustaches spray-painted on
+them by rude, young vandalists.  On the left are her relatives, the Oriental
+deity Kyrannabushi, the sex goddess Kyrannatushy, the sentimental goddess
+Kyrannamushy, the war god Kyrannapushy, the fish goddess Kyrannasushi, and
+of course, Wanderer, god of fried chicken.  On the ceiling is a magnificent
+mural of the demi-god of gaming, Corvus Andromeda.  You also notice various
+yellowish stains on the wall... apparently this place has been visited by the
+infamous art critics of the Kyratic's Association.  Exits lie to the north
+and south.
+} T Alchemy II Text
+HAD187 {} T Alchemy II Text
+HGD187 {on the yellow-stained floor} T Alchemy II Text
+
+MIRROB
+{...You're %s in the Maze of Mirrors.
+} T Alchemy II Text
+MIRROL
+{...You're %s in the Maze of Mirrors.  This confusing room appears to
+have exits in all directions, and you're surrounded by thousands of horrible
+monsters... oops, no, those are just your reflections.  In the back of your
+mind you hear a sinister cackling, probably emanating from the author.
+} T Alchemy II Text
+MIRROA {} T Alchemy II Text
+MIRROG {on the reflective floor} T Alchemy II Text
+
+HBD200
+{...You're %s in front of a large mirror.
+} T Alchemy II Text
+HLD200
+{...You're %s in front of a large mirror.  Rising before you in the
+center of this reflective chamber is a huge mirror that glows with a bluish
+radiance.  This seems odd for a mirror, but you've seen stranger sights.
+Exits seems to lead off in all directions, but you can't be sure because
+everything seems to be a reflection.
+} T Alchemy II Text
+HAD200 {} T Alchemy II Text
+HGD200 {on the reflective floor} T Alchemy II Text
+
+HBD207
+{...You're %s in the Green Hall.
+} T Alchemy II Text
+HLD207
+{...You're %s in the Green Hall.  This slime-green hall fills your
+stomach with an overwhelming feeling of nausea, reminiscent of the last
+politcal campaign of South Peyennuu.  Anyway, exits lie in all directions,
+so feel free to pick whichever one you wish.  You also notice a poem on the
+ceiling which reads, "Roses are red, dragons are blue, welcome stranger,
+to our Peyennuu".  You mumble something about poets and cow excrement.
+} T Alchemy II Text
+HAD207 {} T Alchemy II Text
+HGD207 {on the slime green floor} T Alchemy II Text
+
+HBD208
+{...You're %s on a marble stairway.
+} T Alchemy II Text
+HLD208
+{...You're %s on a marble stairway.  This odd staircase is constructed
+from pink, blue, green, white, yellow, and black marble -- odd indeed!  It
+leads upward to the north, and down to the east.
+} T Alchemy II Text
+HAD208 {} T Alchemy II Text
+HGD208 {on the multi-colored marble} T Alchemy II Text
+
+HBD209
+{...You're %s in front of a large door.
+} T Alchemy II Text
+HLD209
+{...You're %s in front of a large door.  This bronze door seems to be
+tightly sealed, but you notice a small keyhole.  Behind the door, which
+is on the east wall, you hear the unmistakable sound of rushing water...
+very similar to a thousand unison toliet flushes.  The Green Hall lies to
+the west.
+} T Alchemy II Text
+HAD209 {} T Alchemy II Text
+HGD209 {on the stone floor} T Alchemy II Text
+
+HBD210
+{...You're %s in the Chamber of the Pools.
+} T Alchemy II Text
+HLD210
+{...You're %s in the Chamber of the Pools.  This huge chamber has been
+constructed from fine, white marble, and the archeticture of pillars and
+domes is nothing short of breathtaking.  In the center of this mystical
+place are six pools of liquid... colored pink, blue, white, green, black,
+and yellow.  A large door blocks the only apparent exit to the west.
+} T Alchemy II Text
+HAD210 {} T Alchemy II Text
+HGD210 {near the pools} T Alchemy II Text
+
+HBD211
+{...You're %s in the Chamber of the Throne.
+} T Alchemy II Text
+HLD211
+{...You're %s in the Chamber of the Throne.  This magnificent chamber
+is decorated with large, beautiful murals depicting many great ceremonies
+of marriage and war (often one in the same).  To the east, a pink forcefield
+blocks a chamber in that direction, and a green hall lies to the south.  The
+only thing that seems to be missing is a throne.  Hmmmmmmm.  Something about
+the blank wall to the north doesn't seem right.
+} T Alchemy II Text
+HAD211 {} T Alchemy II Text
+HGD211 {near where the throne should be} T Alchemy II Text
+
+HBD212
+{...You're %s in the Chamber of the Basketball.
+} T Alchemy II Text
+HLD212
+{...You're %s in the Chamber of the Basketball.  This strange, pink
+room is dominated by a huge basketball resting on a pedestal in the center.
+A pink force field seems to block the only apparent exit, to the throne
+chamber to the east.  You look around for a basketball hoop, but there
+doesn't seem to be one.  Drat.
+} T Alchemy II Text
+HAD212 {} T Alchemy II Text
+HGD212 {near the pedestal} T Alchemy II Text
+
+HBD213
+{...You're %s in a silicon hallway.
+} T Alchemy II Text
+HLD213
+{...You're %s in a silicon hallway.
+} T Alchemy II Text
+HAD213 {} T Alchemy II Text
+HGD213 {} T Alchemy II Text
+
+HBD214
+{...You're %s in the Game Control Center.
+} T Alchemy II Text
+HLD214
+{...You're %s in the Game Control Center.
+} T Alchemy II Text
+HAD214 {} T Alchemy II Text
+HGD214 {} T Alchemy II Text
+
+HBD215
+{...You're %s in a boobie trap.
+} T Alchemy II Text
+HLD215
+{...You're %s in a boobie trap.  This rather strange room seems to
+be constructed from hundreds, no, thousands of... well, err... uhh, well,
+chicken breasts.  Apparently when the rooster was away, the hens really DID
+play.  Stairs lead downward to the south, while a black passageway lies to
+the north.
+} T Alchemy II Text
+HA8215 {} T Alchemy II Text
+HGD215 {near the chicken breasts} T Alchemy II Text
+
+HBD216
+{...You're %s in a black passageway.
+} T Alchemy II Text
+HLD216
+{...You're %s in a black passageway.  This obsedian passageway seems
+to chill your heart with an unexplainable, passionate desire for... chili.
+You gasp in horror, screaming at that terrifying fate.  Suddenly, you breathe
+a huge sigh of relief as your realize it was only a dream.  However, your
+breath seems to smell of onions and spices.  The boobie trap lies to the
+south, while a pink corridor leads off to the east, and a strange, pale
+white chamber lies to the north.  And a perjurer lies in court.
+} T Alchemy II Text
+HAD216 {} T Alchemy II Text
+HGD216 {on the ugly, black floor} T Alchemy II Text
+
+HBD217
+{...You're %s in the Chamber of Moons.
+} T Alchemy II Text
+HLD217
+{...You're %s in the Chamber of Moons.  Yes, this is ANOTHER "strange"
+room.  Decorated in death-pale white (musta been a cheerful decorator), the
+main feature of this room is a small (like, really tiny) niche on the east
+wall.  The ceiling above seems to be almost a dome, but it appears dark and
+black, almost as though something was missing.  A larger chamber lies to the
+west, while passageways lead to the north and south.
+} T Alchemy II Text
+HAD217 {} T Alchemy II Text
+HGD217 {on the pale-white floor} T Alchemy II Text
+
+HBD218
+{...You're %s in the Chamber of the Slot.
+} T Alchemy II Text
+HLD218
+{...You're %s in the Chamber of the Slot.  This strange, metallic
+chamber is constructed from stained steel, and its main feature seems to
+be a slanted slot on the far west wall.  Something about this slot makes
+you tremble with excitement.  The only exit seems to be the pale-white room
+to the east.
+} T Alchemy II Text
+HAD218 {} T Alchemy II Text
+HGD218 {near the slot} T Alchemy II Text
+
+HBD219
+{...You're %s in a white hallway.
+} T Alchemy II Text
+HLD219
+{...You're %s in a white hallway.  This white marble hall has been
+smoothly carved and is decorated with gold ornamentation.  To the east, a
+large dome sparkles with multiple colors, while a pale-white chamber lies
+to the south.
+} T Alchemy II Text
+HAD219{} T Alchemy II Text
+HGD219 {on the white marble} T Alchemy II Text
+
+HBD220
+{...You're %s in the Dome of the Wizard.
+} T Alchemy II Text
+HLD220
+{...You're %s in the Dome of the Wizard.  This huge chamber sparkles
+with brilliant colors emanating from six pedestals constructed in a circle
+in the center of the room.  There is a green one, a black one, a pink one,
+a yellow one, a white one, and a blue one, all under the magnificent silicon
+dome high above.
+} T Alchemy II Text
+HAD220 {} T Alchemy II Text
+HGD220 {} T Alchemy II Text
+
+HBD221
+{...You're %s in the Chamber of the Pickle.
+} T Alchemy II Text
+HLD221
+{...You're %s in the Chamber of the Pickle.  This greenish-colored
+room is filled with the overwhelming odor of sour pickles, reminiscent of an
+ex-lovers deodorant.  Anyway, the most notable feature of this strange room
+is a gigantic pickle hanging from the ceiling above.  The second most notable
+feature is a bright green button on the far north wall.  The door to the south
+is closed.
+} T Alchemy II Text
+HAD221
+{...You're %s in the Chamber of the Pickle.  This greenish-colored
+room is filled with the overwhelming odor of sour pickles, reminiscent of an
+ex-lovers deodorant.  Anyway, the most notable feature of this strange room
+is a gigantic pickle hanging from the ceiling above.  The second most notable
+feature is a bright green button on the far north wall.  The door to the south
+is open.
+} T Alchemy II Text
+HGD221 {on the pickle-green floor} T Alchemy II Text
+
+HBD222
+{...You're %s in the Hall of Imagination.
+} T Alchemy II Text
+HLD222
+{...You're %s in the Hall of Imagination.  This silver-metallic room
+radiates a strange aura of static electricity (but at least it's dynamically
+allocated in memory).  As you look around, a voice in your mind asks, "What's
+the difference between a condom and a condominium?".  Before you can reply,
+it laughs and cackles, "The condom only holds ONE prick!".  You have the
+sudden urge to melt this room to the ground, but you lack your chemically
+altered Mountain-Dew-Nuclear-Waste.  This room is starting to make you ill.
+The only escape is to the north... oops, and the south too.
+} T Alchemy II Text
+HAD222 {} T Alchemy II Text
+HGD222 {on the dynamic static floor} T Alchemy II Text
+
+HBD223
+{...You're %s in a pink corridor.
+} T Alchemy II Text
+HLD223
+{...You're %s in a pink corridor.  This strange room is made from some
+sticky, pink, cotton-like nuclear waste strands... ah, yes, cotton candy!
+However, this stuff appears to have solidified over the centuries to become
+something resembling a chemical engineers senior project for a replacement
+of stone bricks in construction.  The author suggests doing something here.
+} T Alchemy II Text
+HAD223 {} T Alchemy II Text
+HGD223 {on the sticky, pink floor} T Alchemy II Text
+
+HBD224
+{...You're %s in the Chamber of Creation.
+} T Alchemy II Text
+HLD224
+{...You're %s in the Chamber of Creation.  This strange room seems to
+have been constructed from some strange metallic substance that you can't
+identify.  On the far wall you see a sign which looks like this:
+
+      a o t i e r f
+     y c m , d s . v
+      l z n v p I K
+
+There appears to be no exits from this room.
+} T Alchemy II Text
+HAD224 {} T Alchemy II Text
+HGD224 {on the metallic floor} T Alchemy II Text

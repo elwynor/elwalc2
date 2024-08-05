@@ -1,0 +1,6 @@
+; Filename: ELWALC2_LIB.DEF
+LIBRARY ELWALC2.DLL
+; *** Visual Studio 2022 EXPORT ALIASES ONLY ***
+; Alchemy II: The Hangover - Copyright (c) 2024 Elwynor Technologies
+EXPORTS
+    init__elwalc2=_init__elwalc2	@1

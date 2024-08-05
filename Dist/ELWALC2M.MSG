@@ -1,0 +1,2253 @@
+
+LEVEL3 {Elwynor Technologies: Alchemy II: The Hangover}
+
+ You may want to limit access to certain commands
+ within Alchemy II for paying users.  If this is
+ the case, fill this option in with the name of a
+ key.  Only users holding the key named in this
+ option will be allowed to do certain actions
+ within the game.  If you wish everyone to be able
+ to do everything, leave this option blank.
+
+AL2KEY {NORMAL} S 15 Key required to play Alchemy II
+
+
+LEVEL98 {Elwynor Technologies: Alchemy II: The Hangover}
+
+CREDITS {[37m
+
+      ALCHEMY II:  The Hangover
+     ---------------------------[33m
+A Comedy/Fantasy by Scott J. Brinker
+[37m
+ "You drank one too many potions..."
+
+ Copyright (c) 2005-2024 Elwynor Technologies
+            All rights reserved.
+[36m
+} T ALCHEMY II Descriptions
+
+PLYAL2
+{[37mIf you don't believe in insanity, you haven't seen ALCHEMY II...[32m
+} T ALCHEMY II Descriptions
+
+HERAGN {***
+A glowing doorway opens in the air above you and %s steps out!  The
+doorway then vanishes!
+} T ALCHEMY II Descriptions
+
+WELBAK {***
+A whirlwind of blue and white lights flashes around you, blowing your hair
+in all directions.  Suddenly, %s steps out from the whirlwind and bows
+at you with a grin!  As quickly as it had appeared, the whirlwind vanishes.
+} T ALCHEMY II Descriptions
+
+HELNEW {***
+Thunder and lightning errupt in the air above you, and suddenly %s
+almost falls on top of you!
+} T ALCHEMY II Descriptions
+
+EXIALO {***
+In a puff of nice-smelling smoke, %s vanishes with a smile!
+} T ALCHEMY II Descriptions
+EXIAL2
+{[32m...Now leaving the happy land of Peyennuu... prepare for landing...
+} T ALCHEMY II Descriptions
+HUPMSGM {***
+%s is suddenly dragged away by a horde of lusting, blonde women!  You
+notice a smile on his face.
+} T ALCHEMY II Descriptions
+HUPMSGF {***
+%s is suddenly dragged away by a horde of well-built, bobybuilding
+men speaking French.  You notice a smile on her face.
+} T ALCHEMY II Descriptions
+
+PTOPLY {...Hey, cheapo, only "live" players can do that -- send in some money!
+} T ALCHEMY II Descriptions
+ONLYSY {...Sorry, only the Sysop has THAT priviledge, bucko.
+} T ALCHEMY II Descriptions
+
+SLODWN {...Sloooooooow down, mister!
+} T ALCHEMY II Descriptions
+ASKINO {***
+%s is asking some questions, and %s wants answers!!!
+} T ALCHEMY II Descriptions
+ASAMC0
+{...I suppose you have SOMETHING to %s!?
+} T ALCHEMY II Descriptions
+SAYPFN
+{...Hey, keep the language clean... at least to the others, you panzy!
+} T ALCHEMY II Descriptions
+JABAWY {...You jabber away...
+} T ALCHEMY II Descriptions
+BURAWY {...It all comes out in one huge burp...
+} T ALCHEMY II Descriptions
+
+WHISPU {***
+Shhh!  %s whispers to you: %s
+} T ALCHEMY II Descriptions
+WHISPO {***
+%s is whispering to %s... maybe about you!
+} T ALCHEMY II Descriptions
+WHISPY {...Okay, %s hears you, M%c. Secretive!
+} T ALCHEMY II Descriptions
+
+YELLNW {***
+%s is now %sing at the top of %s voice, making quite a racket!
+} T ALCHEMY II Descriptions
+YELLNWN {***
+You hear someone (or something) %sing nearby!
+} T ALCHEMY II Descriptions
+YELLNWU {...Ok, ok, you're %sing!  Geesh...
+} T ALCHEMY II Descriptions
+YELLW1 {***
+%s suddenly %ss: } T ALCHEMY II Descriptions
+YELLW2 {%s!!
+} T ALCHEMY II Descriptions
+YELLWN {***
+From somewhere nearby you hear the echoing cries of someone screaming:
+%s!!
+} T ALCHEMY II Descriptions
+YELLWU {...Well, now, that was impressive.
+} T ALCHEMY II Descriptions
+
+MOVNOR {***
+%s has just sauntered off to the north.
+} T ALCHEMY II Descriptions
+MOVNOR1 {***
+%s saunters in from the south.
+} T ALCHEMY II Descriptions
+MOVSOU {***
+Quietly %s slinks off to the south.
+} T ALCHEMY II Descriptions
+MOVSOU1 {***
+%s slinks quietly in from the north.
+} T ALCHEMY II Descriptions
+MOVEAS {***
+%s wanders almost aimlessly to the east.
+} T ALCHEMY II Descriptions
+MOVEAS1 {***
+%s suddenly strolls in from the west!
+} T ALCHEMY II Descriptions
+MOVWES {***
+Lazily %s meanders off to the west.
+} T ALCHEMY II Descriptions
+MOVWES1 {***
+Suddenly, %s ambles in from the east!
+} T ALCHEMY II Descriptions
+MESSMO {***
+For some unknown reason, %s is stumbling around blindly.
+} T ALCHEMY II Descriptions
+MESSMU {...Uh, I hate to inform you of this, but you can't GO that way!
+} T ALCHEMY II Descriptions
+GETUPO {***
+%s seems to be crawling on the ground.
+} T ALCHEMY II Descriptions
+GETUPU
+{...Ahem.  It might be better if you stand up first.
+} T ALCHEMY II Descriptions
+
+KISOB1 {***
+%s has just given %s %s a %s %s.
+} T ALCHEMY II Descriptions
+KISOB2 {***
+%s is trying to %s %s %s %s.
+} T ALCHEMY II Descriptions
+KISOB3 {...Alright, if you really want to %s your %s.
+} T ALCHEMY II Descriptions
+OKISSP {***
+%s tries to the %s %s, who in turn tries to %s %s %s!
+} T ALCHEMY II Descriptions
+UKISSP {...You fail to do so... and now the %s tries to %s you %s!
+} T ALCHEMY II Descriptions
+KISOB4 {***
+%s has just given the %s %s a %s %s.
+} T ALCHEMY II Descriptions
+KISOB5 {***
+%s is trying to %s %s the %s %s.
+} T ALCHEMY II Descriptions
+KISOB6 {...So you want to %s the %s %s, eh?  Riiiiiiiight.
+} T ALCHEMY II Descriptions
+WKISS1 {***
+With a passionate look of love in %s eyes, %s sweeps you off your
+feet and gives you a long, wet, warm, and loving kiss that makes your
+entire body tingle with delight and leaves you gasping for breath!
+} T ALCHEMY II Descriptions
+WKISS2 {***
+With a passionate look of love in %s eyes, %s sweeps %s
+off %s feet and gives %s a long, wet, warm and loving kiss!!
+} T ALCHEMY II Descriptions
+WKISS3
+{...With a passionate look of love in your eyes, you sweep %s off %s
+feet and give %s a long, wet, warm, and loving kiss that makes your entire
+body tingle with delight and leaves you gasping for breath!
+} T ALCHEMY II Descriptions
+KISSY1 {***
+%s has just given you a %s %s!
+} T ALCHEMY II Descriptions
+KISSY2 {***
+%s has just given %s a %s %s!
+} T ALCHEMY II Descriptions
+KISSY3 {...%s gets it.
+} T ALCHEMY II Descriptions
+KISSY4 {***
+%s is doing %s best to %s you %s!
+} T ALCHEMY II Descriptions
+KISSY5 {***
+%s is doing %s best to %s %s %s!
+} T ALCHEMY II Descriptions
+KISSY6 {...You're doing your best to %s %s.
+} T ALCHEMY II Descriptions
+K8088O {***
+%s vanishes for a moment in a bolt of lightning, but then mysteriously
+reappears unharmed!
+} T ALCHEMY II Descriptions
+K8088U
+{...Suddenly, a bolt of lightning flies from the skies -- not at your
+character, but through your monitor screen at you!  Luckily it is deflected
+by the inside of your screen...
+
+
+  In other words, M%c. %s, I don't like humans trying to %s me!
+
+
+} T ALCHEMY II Descriptions
+
+URGOLD {...You have %d gold piece%s.
+} T ALCHEMY II Descriptions
+CNTGLD {***
+%s is counting %s gold carefully.
+} T ALCHEMY II Descriptions
+
+NENOGD1 {***
+%s seems to be suffering from lack of second grade math.
+} T ALCHEMY II Descriptions
+NENOGD2 {...Unfortunately, you don't have that much...
+} T ALCHEMY II Descriptions
+GIVGOL1 {***
+%s has just given you %d gold piece%s!
+} T ALCHEMY II Descriptions
+GIVGOL2 {***
+%s has just given %s %d gold piece%s!
+} T ALCHEMY II Descriptions
+GIVGOL3 {...%s receives your generous offering.
+} T ALCHEMY II Descriptions
+
+GVOBJ01 {***
+%s seems to be playing with %s privates.
+} T ALCHEMY II Descriptions
+GVOBJ02 {...Oh, stop playing with yourself and get back to your quest!
+} T ALCHEMY II Descriptions
+GVOBJ03 {***
+%s is jumping up and down wildly, screaming about indigestion.
+} T ALCHEMY II Descriptions
+GVOBJ04 {...For some unknown reason, it refuses to leave your hands.
+} T ALCHEMY II Descriptions
+GVOBJ05 {***
+In a fit of clumsiness, %s drops %s %s!
+} T ALCHEMY II Descriptions
+GVOBJ06 {...Strangely enough, the %s slips from your hands!
+} T ALCHEMY II Descriptions
+GVOBJ07 {***
+%s has just %s%s you %s, which made you drop your %s!
+} T ALCHEMY II Descriptions
+GVOBJ08 {***
+%s has just %s%s %s %s, which made %s drop %s %s!
+} T ALCHEMY II Descriptions
+GVOBJ09
+{...Congrats!  You made %s drop %s %s!
+} T ALCHEMY II Descriptions
+GVOBJ10 {***
+%s has just %s%s you %s!
+} T ALCHEMY II Descriptions
+GVOBJ11 {***
+%s has just %s%s %s %s!
+} T ALCHEMY II Descriptions
+GVOBJ12
+{...Ok, you've given it to %s.
+} T ALCHEMY II Descriptions
+
+GETM01 {***
+%s is picking %s nose quite enthusiastically.
+} T ALCHEMY II Descriptions
+GETM02 {...Like that's really going to accomplish alot, moron!
+} T ALCHEMY II Descriptions
+GETM03 {***
+%s is looking at you with a mischevious grin on %s face.
+} T ALCHEMY II Descriptions
+GETM04 {...Yo, %s doesn't HAVE any %s!  Pffth!
+} T ALCHEMY II Descriptions
+GETM05 {***
+%s is juggling %s possesions around quite acrobatically!
+} T ALCHEMY II Descriptions
+GETM06 {...A greedy S.O.B., aren't you?
+} T ALCHEMY II Descriptions
+GETM07 {***
+%s is trying to %s your %s!  That jerk!
+} T ALCHEMY II Descriptions
+GETM08 {***
+%s is trying to %s %s's %s!
+} T ALCHEMY II Descriptions
+GETM09 {...Sorry "M%c. Dexterous", but you fail.
+} T ALCHEMY II Descriptions
+GETM10 {***
+%s just stole your %s!  @#$!!&*%%#)@ %s!
+} T ALCHEMY II Descriptions
+GETM11 {***
+%s just stole %s's %s, successfully pissing %s off!
+} T ALCHEMY II Descriptions
+GETM12 {...You got %s %s, but you seemed to have pissed %s off too...
+} T ALCHEMY II Descriptions
+
+GETL01 {***
+%s is trying to grab your ass with a sly grin!
+} T ALCHEMY II Descriptions
+GETL02 {***
+%s is trying to grab %s's ass with a sly grin!
+} T ALCHEMY II Descriptions
+GETL03 {...%s seems a little surprised.
+} T ALCHEMY II Descriptions
+GETL04 {***
+%s is trying to reach that one unreachable booger in the back of
+%s nose!
+} T ALCHEMY II Descriptions
+GETL05 {...You can't find any "%s" lying %s.
+} T ALCHEMY II Descriptions
+GETL06 {***
+%s is attempting to %s the %s, without much success.
+} T ALCHEMY II Descriptions
+GETL07 {***
+%s is looking extremely desperate.
+} T ALCHEMY II Descriptions
+GETL08 {...Hey, greedy, you can't carry that much!
+} T ALCHEMY II Descriptions
+GETL09 {***
+%s has just taken the %s that was lying %s.
+} T ALCHEMY II Descriptions
+
+LOOK00 {***
+%s is looking at the %s %s.
+} T ALCHEMY II Descriptions
+LOOK01 {***
+%s is looking at %s %s.
+} T ALCHEMY II Descriptions
+LOOK02 {***
+%s is looking you over with a suspicious grin.
+} T ALCHEMY II Descriptions
+LOOK03 {***
+%s is examining %s's merchandise.
+} T ALCHEMY II Descriptions
+LOOK04 {***
+%s is glancing around suspiciously.
+} T ALCHEMY II Descriptions
+LOOK05 {***
+%s is examining %s surroundings carefully.
+} T ALCHEMY II Descriptions
+
+DRPM00 {***
+%s seems to be wrestling with strange, mysterious forces between %s
+legs.
+} T ALCHEMY II Descriptions
+DRPM01 {...It doesn't want to leave your hands.
+} T ALCHEMY II Descriptions
+DRPM02 {***
+%s has just dropped %s %s %s.
+} T ALCHEMY II Descriptions
+DRPM03 {...Okay, you've dropped it.
+} T ALCHEMY II Descriptions
+
+AINVMO {***
+%s is checking every part of %s body quite thoroughly.
+} T ALCHEMY II Descriptions
+AINVMU {...You are holding } T ALCHEMY II Descriptions
+
+SSLM00 {***
+%s is now sitting down with a smile on %s face.
+} T ALCHEMY II Descriptions
+SSLM01 {***
+%s is now lying down, quite suggestively.
+} T ALCHEMY II Descriptions
+SSLM02 {***
+%s is now standing up after a nice stretch.
+} T ALCHEMY II Descriptions
+
+UNDRSO {***
+%s is slowly stripping off all of %s clothes...
+***
+Suddenly, from out of nowhere, a small, peeping Tom grabs the clothes,
+giggles, and vanishes in a puff of swirling white mists!
+} T ALCHEMY II Descriptions
+UNDRSU
+{...You slowly strip off all of your ctothes...
+***
+Suddenly, from out of nowhere, a small, peeping Tom grabs your clothes,
+giggles, and vanishes in a puff of swirling white mists!
+} T ALCHEMY II Descriptions
+
+DUNMSG {...Consider it done.
+} T ALCHEMY II Descriptions
+
+
+
+CREP2O {***
+%s mixs a couple potions together, magically creating %s!
+} T ALCHEMY II Descriptions
+CREP2U
+{...They combine, moaning, and create %s!
+} T ALCHEMY II Descriptions
+CREP3O {***
+%s mixs several potions together, magically creating %s!
+} T ALCHEMY II Descriptions
+CREP3U
+{...They combine, breathing heavily, and create %s!
+} T ALCHEMY II Descriptions
+
+NOMIXO {***
+%s is having some trouble with %s %s.
+} T ALCHEMY II Descriptions
+NOMIXU {...The %s doesn't seem to mix well.
+} T ALCHEMY II Descriptions
+NHVPOO {***
+%s is attempting something resembling the moonwalk and the tango.
+} T ALCHEMY II Descriptions
+NHVPOU
+{...And where is this elusive "%s" of yours, huh?
+} T ALCHEMY II Descriptions
+
+POBLOO {***
+In an explosion of bright lights and colorful language, %s unsuccessfully
+attempts to combine some potions!
+} T ALCHEMY II Descriptions
+POBLOU
+{...When you attempt to combine them, there is an explosion of bright lights
+and colorful language (from yourself)!  Amazingly, the original potions are
+still in your posession -- praise Kyrannalussi... and her agent too.
+} T ALCHEMY II Descriptions
+POBM0O {***
+%s's %s explodes in a fiery flash of flame!
+} T ALCHEMY II Descriptions
+POBM0U
+{...Your %s explodes in a fiery flash of flaming, causing you %d
+hit points of damage!
+} T ALCHEMY II Descriptions
+POBM1O {***
+A violent explosion of liquid, glass, and vulgar language erupts from
+%s, who is unsuccessfully attempting to mix potions!
+} T ALCHEMY II Descriptions
+POBM1U
+{...Your %s vanishes in a violent explosion of liquid, glass, and
+vulgar language (from yourself)!
+} T ALCHEMY II Descriptions
+POBM2O {***
+An explosion comes from %s, emanating clouds of thick, black smoke...
+and a rather nasty odor!
+} T ALCHEMY II Descriptions
+POBM2U
+{...Your %s vanishes in an explosion of thick, black smoke, and
+you are almost overwhelmed by a rather nasty odor!
+} T ALCHEMY II Descriptions
+POBM3O {***
+A brilliant explosion of fireworks engulfs %s!  You hear an assortment
+of colorful vulgarities errupt from over there.
+} T ALCHEMY II Descriptions
+POBM3U
+{...Your %s vanishes in an explosion of fireworks, which also
+engulfs anything else you had in your posession!
+} T ALCHEMY II Descriptions
+
+NODRKO {***
+%s is attempting to swallow something, but at the last minute decides
+to spit!
+} T ALCHEMY II Descriptions
+NODRKU
+{...Sorry, you can't swallow that... you spit instead.
+} T ALCHEMY II Descriptions
+CNTDP0 {***
+%s is fighting with %s bladder.
+} T ALCHEMY II Descriptions
+CNTDP1
+{...Your bladder to accept any more liquid until you relieve yourself!
+} T ALCHEMY II Descriptions
+DRKPOT {***
+%s has just slurped down one of %s potions!
+} T ALCHEMY II Descriptions
+
+NOPORO {***
+%s is doing strange, abnormal things with %s posessions.
+} T ALCHEMY II Descriptions
+NOPORU {...It doesn't seem to WANT to.
+} T ALCHEMY II Descriptions
+
+
+
+URLANT
+{...It is dark, but your lantern lights the area...
+} T ALCHEMY II Descriptions
+OLANTR
+{...It is dark, but %s's lantern lights the area...
+} T ALCHEMY II Descriptions
+MAGSEE
+{...It is dark, but magically you seem to see...
+} T ALCHEMY II Descriptions
+SKYLIG
+{...It is rather dark, but the night sky offers some light...
+} T ALCHEMY II Descriptions
+SEENOT
+{...It is quite dark here.  You can see nothing.
+} T ALCHEMY II Descriptions
+
+PDIEDO {***
+%s is suddenly swooped away by the Fates, and they don't look like
+they're going for a joy ride!
+} T ALCHEMY II Descriptions
+PDIEDU {***
+
+
+Everything goes black!  You feel yourself being swooped away by nasty
+creatures whom luckily you can't see.  There is a surge of pain, and then
+all of a sudden...
+
+} T ALCHEMY II Descriptions
+
+
+PEEXPO {***
+%s has just exploded!
+} T ALCHEMY II Descriptions
+PEEXPU {***
+YOU CAN'T HOLD IT IN ANY LONGER...
+
+KABOOOOOOOOOOOOOM!  The last thing you see is liquid flying everywhere and
+you feel great relief...
+} T ALCHEMY II Descriptions
+MUSPEE {***
+Warning #%d:  You must relieve yourself soon, or you're going to explode!
+} T ALCHEMY II Descriptions
+SETRIS  {***
+The first light of dawn appears on the western horizon.
+} T ALCHEMY II Descriptions
+SETRIS1 {***
+The sun begins to rise on the western horizon, filling the sky with hues of
+orange and red light.
+} T ALCHEMY II Descriptions
+SETRIS2 {***
+The sun is rising further on the western horizon, dispelling almost all of
+the darkness of night and filling the sky with beautiful shades of red light.
+} T ALCHEMY II Descriptions
+SETRIS3 {***
+The sun is now shining in the sky.
+} T ALCHEMY II Descriptions
+SETRIS4 {***
+The sun is gently starting to set in the east.
+} T ALCHEMY II Descriptions
+SETRIS5 {***
+The sun is sinking on the eastern horizon, creating shadows around you.
+} T ALCHEMY II Descriptions
+SETRIS6 {***
+The sun almost disappears on the eastern horizons, and the sky is filled
+with beautiful hues of orange and red light.
+} T ALCHEMY II Descriptions
+SETRIS7 {***
+The sun sinks below the eastern horizon, and darkness surrounds you.
+} T ALCHEMY II Descriptions
+CGSCLS {***
+The huge gates of city close with a loud crash!
+} T ALCHEMY II Descriptions
+CGSOPN {***
+The huge gates of the city open with a deep rumble!
+} T ALCHEMY II Descriptions
+SBBOPN {***
+Suddenly, a doorway opens on the strange, black wall and glows with an eerie
+blue light!
+} T ALCHEMY II Descriptions
+SBBCLS {***
+The glowing doorway on the black wall vanishes!
+} T ALCHEMY II Descriptions
+LFGCLS {***
+The glowing portal vanishes!
+} T ALCHEMY II Descriptions
+BSKSTP {***
+The basketball stop vibrating.
+} T ALCHEMY II Descriptions
+RFINVO {***
+%s suddenly reappears, looking quite surprised!
+} T ALCHEMY II Descriptions
+RFINVU {***
+You suddenly reappear!
+} T ALCHEMY II Descriptions
+RFCINV {***
+You suddenly feel your eyes spinning around wildly... when they finally come
+to a halt, you feel a little less powerful.
+} T ALCHEMY II Descriptions
+LILPRO {***
+You feel a little less protected now for some mysterious, author-induced
+reason.
+} T ALCHEMY II Descriptions
+
+NOHOBJ1 {***
+%s is frantically searching %s body!
+} T ALCHEMY II Descriptions
+NOHOBJ2 {...Yo!  Hey!  You don't have that!  Comprende?
+} T ALCHEMY II Descriptions
+
+SYNERRO {***
+%s seems puzzled and confused.
+} T ALCHEMY II Descriptions
+SYNERRO1 {***
+%s is scratching %s head in bewilderment.
+} T ALCHEMY II Descriptions
+SYNERRO2 {***
+%s is staring blank-eyed into space.
+} T ALCHEMY II Descriptions
+SYNERRO3 {***
+%s's tongue is now hanging out of %s mouth.
+} T ALCHEMY II Descriptions
+SYNERRU {...I don't understand.
+} T ALCHEMY II Descriptions
+SYNERRU1 {...HUMANS!  Geeesh...
+} T ALCHEMY II Descriptions
+SYNERRU2 {...No comprede, you human idiot... o-que?
+} T ALCHEMY II Descriptions
+SYNERRU3 {...Perhaps, just perhaps, you may need to type "help"?
+} T ALCHEMY II Descriptions
+
+PFNERRO {***
+%s is turning bright shades of purple while making obscene gestures!
+} T ALCHEMY II Descriptions
+PFNERRO1 {***
+%s is foaming at the mouth while muttering foul, foul curses!
+} T ALCHEMY II Descriptions
+PFNERRO2 {***
+%s is sincerely wishing everyone a nice trip... to hell.
+} T ALCHEMY II Descriptions
+PFNERRU {...Well, you're quite a vulgarian!
+} T ALCHEMY II Descriptions
+PFNERRU1 {...Hmmm... your mother said the same thing when you were born!
+} T ALCHEMY II Descriptions
+PFNERRU2 {...What an entertaining thought!
+} T ALCHEMY II Descriptions
+
+NOTHRO {***
+%s is hallucinating about imaginary sexual partners!
+} T ALCHEMY II Descriptions
+NOTHRO1 {***
+%s is complaining avidly about %s sex life!
+} T ALCHEMY II Descriptions
+NOTHRU {...Where!?
+} T ALCHEMY II Descriptions
+NOTHRU1 {...Uh-huh, suuuure.
+} T ALCHEMY II Descriptions
+
+
+MC0INJ {
+...Ah, forget that!  You're too busy in here anyway...
+} T ALCHEMY II Descriptions
+MC0M00 {...Don't know what to say, huh?  You COULD always hit '?'!
+} T ALCHEMY II Descriptions
+MC0M01 {...Oh, for cryin' out loud, type something! ...or at least '?'!
+} T ALCHEMY II Descriptions
+MC0M02 {...Is your entire family this lame with computers?  Type '?'!
+} T ALCHEMY II Descriptions
+MC0M03 {...Yeeeeees!  You hit the ENTER key!  My, aren't we brillllliant!
+} T ALCHEMY II Descriptions
+MC0M04 {...Hey, hey, hey!  Don't just hit the ENTER key... DO something!
+} T ALCHEMY II Descriptions
+
+
+SUNSHI {The sun is shining in the sky.
+} T ALCHEMY II Descriptions
+BOTHAM {The moons Amary and Ristina are both %s tonight.
+} T ALCHEMY II Descriptions
+MOONAM {The moon Amary is %s and the moon Ristina is %s tonight.
+} T ALCHEMY II Descriptions
+
+ASMO00 {***
+%s is blinking %s eyes in total disbelief... or lack of the right
+perscription!
+} T ALCHEMY II Descriptions
+ASMO01 {***
+%s is blushing a bright shade of red.
+} T ALCHEMY II Descriptions
+ASMO02 {***
+%s is booing loudly and making rude, obscene gestures!
+} T ALCHEMY II Descriptions
+ASMO03 {***
+In a fit of self-gratification, %s bows deeply to you.
+} T ALCHEMY II Descriptions
+ASMO04 {***
+%s suddenly emits an almost deafening, "BRAAAAACK"... as a putrid odor
+fills the air around you.
+} T ALCHEMY II Descriptions
+ASMO05 {***
+%s is cackling in a fit of psychotic perversion!
+} T ALCHEMY II Descriptions
+ASMO06 {***
+%s is jumping up and down while cheering wildly!!!
+} T ALCHEMY II Descriptions
+ASMO07 {***
+%s is chuckling quietly under %s breath.
+} T ALCHEMY II Descriptions
+ASMO08 {***
+%s is clapping louding while yelling, "BRAVO! BRAVO! YO JOE!".
+} T ALCHEMY II Descriptions
+ASMO09 {***
+%s is coughing with an unmistakable hint of cynicism.
+} T ALCHEMY II Descriptions
+ASMO10 {***
+%s is bawling %s eyes with absolutely no regard for pride or shame.
+} T ALCHEMY II Descriptions
+ASMO11 {***
+%s is dancing around with a smile on %s face!
+} T ALCHEMY II Descriptions
+ASMO12 {***
+%s frowns, as a large tear rolls down %s left cheek.
+} T ALCHEMY II Descriptions
+ASMO13 {***
+%s is gasping in amazement while exclaiming, "RADICAL DUDE!".
+} T ALCHEMY II Descriptions
+ASMO14 {***
+%s is giggling in a total fit of hysteria with tears rolling down %s face!
+} T ALCHEMY II Descriptions
+ASMO15 {***
+%s is grinning slyly with a sparkle in %s eyes.
+} T ALCHEMY II Descriptions
+ASMO16 {***
+%s is groaning as if in agony... or esctasy!
+} T ALCHEMY II Descriptions
+ASMO17 {***
+%s is growling and foaming at the mouth... reminiscent of an ex-lover.
+} T ALCHEMY II Descriptions
+ASMO18 {***
+%s is hissing while making snake-head motion with %s hands!
+} T ALCHEMY II Descriptions
+ASMO19 {***
+%s is howling in total pain... or pleasure?!
+} T ALCHEMY II Descriptions
+ASMO20 {***
+%s is humming with a happy look on %s face.
+} T ALCHEMY II Descriptions
+ASMO21 {***
+%s is rolling on the ground while laughing in total hysteria!!
+} T ALCHEMY II Descriptions
+ASMO22 {***
+%s is moaning in a very explicitly sexual manner!
+} T ALCHEMY II Descriptions
+ASMO23 {***
+%s is nodding %s head in total agreement.
+} T ALCHEMY II Descriptions
+ASMO24 {***
+%s is attempting to water %s surroundings, but seems to be stopped
+by some divine force of nature... Kyrannalussi with a baseball bat.
+} T ALCHEMY II Descriptions
+ASMO25 {***
+%s is pouting to get %s way.
+} T ALCHEMY II Descriptions
+ASMO26 {***
+%s shrugs as though totally disinterested in whatever is going on.
+} T ALCHEMY II Descriptions
+ASMO27 {***
+%s sighs deeply, pauses for a moment in deep thought, and then sighs
+again.
+} T ALCHEMY II Descriptions
+ASMO28 {***
+%s is singing the blues, "I'm soooo ba-ba-ba-blue, over youuuuuu, ya
+broke my heart in twooo, and took my Beatles collection tooo... oh, oooo
+so ba-ba-ba-blue, turned my mind to gooo, wooo, spread your wings and
+flew, and now I'm so ba-ba-ba-blue..."
+} T ALCHEMY II Descriptions
+ASMO29 {***
+%s smiles with a twinkle in %s eye.
+} T ALCHEMY II Descriptions
+ASMO30 {***
+%s smirks... just sarcastically enough that you want to strangle %s
+throat.
+} T ALCHEMY II Descriptions
+ASMO31 {***
+%s is snickering in ridicule... acting like a complete jerk.
+} T ALCHEMY II Descriptions
+ASMO32 {***
+%s is sniffing sorrowfully.
+} T ALCHEMY II Descriptions
+ASMO33 {***
+%s is sobbing loudly while waving %s hands wildly in the air!
+} T ALCHEMY II Descriptions
+ASMO34 {***
+%s is whistling %s mating call!!
+} T ALCHEMY II Descriptions
+ASMO35 {***
+%s is yawning, completely bored with %s current sexual life.
+} T ALCHEMY II Descriptions
+ASMU00
+{...Blink, blink.
+} T ALCHEMY II Descriptions
+ASMU01
+{...Blush.
+} T ALCHEMY II Descriptions
+ASMU02
+{...Booo.
+} T ALCHEMY II Descriptions
+ASMU03
+{...Bow.
+} T ALCHEMY II Descriptions
+ASMU04
+{...Burp.
+} T ALCHEMY II Descriptions
+ASMU05
+{...Cackle.
+} T ALCHEMY II Descriptions
+ASMU06
+{...Cheer.
+} T ALCHEMY II Descriptions
+ASMU07
+{...Chuckle.
+} T ALCHEMY II Descriptions
+ASMU08
+{...Clap.
+} T ALCHEMY II Descriptions
+ASMU09
+{...Cough.
+} T ALCHEMY II Descriptions
+ASMU10
+{...Cry.
+} T ALCHEMY II Descriptions
+ASMU11
+{...Dance.
+} T ALCHEMY II Descriptions
+ASMU12
+{...Frown.
+} T ALCHEMY II Descriptions
+ASMU13
+{...Gasp.
+} T ALCHEMY II Descriptions
+ASMU14
+{...Giggle.
+} T ALCHEMY II Descriptions
+ASMU15
+{...Grin.
+} T ALCHEMY II Descriptions
+ASMU16
+{...Groan.
+} T ALCHEMY II Descriptions
+ASMU17
+{...Growl.
+} T ALCHEMY II Descriptions
+ASMU18
+{...Hiss.
+} T ALCHEMY II Descriptions
+ASMU19
+{...Howl.
+} T ALCHEMY II Descriptions
+ASMU20
+{...Hum.
+} T ALCHEMY II Descriptions
+ASMU21
+{...Laugh.
+} T ALCHEMY II Descriptions
+ASMU22
+{...Moan.
+} T ALCHEMY II Descriptions
+ASMU23
+{...Nod.
+} T ALCHEMY II Descriptions
+ASMU24
+{...Kyrannalussi appears before you and says, "Not here, you don't!!".
+} T ALCHEMY II Descriptions
+ASMU25
+{...Pout.
+} T ALCHEMY II Descriptions
+ASMU26
+{...Shrug.
+} T ALCHEMY II Descriptions
+ASMU27
+{...Sigh.
+} T ALCHEMY II Descriptions
+ASMU28
+{...Sing.
+} T ALCHEMY II Descriptions
+ASMU29
+{...Smile.
+} T ALCHEMY II Descriptions
+ASMU30
+{...Smirk.
+} T ALCHEMY II Descriptions
+ASMU31
+{...Snicker.
+} T ALCHEMY II Descriptions
+ASMU32
+{...Sniff.
+} T ALCHEMY II Descriptions
+ASMU33
+{...Sob.
+} T ALCHEMY II Descriptions
+ASMU34
+{...Whistle.
+} T ALCHEMY II Descriptions
+ASMU35
+{...Yawn.
+} T ALCHEMY II Descriptions
+
+POSM00 {***
+%s has just given Po some gold and received a potion in return.
+} T ALCHEMY II Descriptions
+POSM01 {...She takes your money, smiles, and hands you a po's potion.
+} T ALCHEMY II Descriptions
+POSM02 {***
+Po turns down an offer secretly made by %s.
+} T ALCHEMY II Descriptions
+POSM03 {...She says, "My potion costs 3 gold... no more, no less... and you
+can only carry so much."
+} T ALCHEMY II Descriptions
+KYPM00 {***
+%s give some gold to the kyrapractor, who then heals %s wounds.
+} T ALCHEMY II Descriptions
+KYPM01 {...She accepts your gold, and touches your forehead!
+***
+YA BEEN HEEEEEEEALED!
+} T ALCHEMY II Descriptions
+GENM00 {***
+%s has just purchased a bubblebath potion.
+} T ALCHEMY II Descriptions
+GENM01 {...The storekeeper gladly hands you a bubblebath potion.
+} T ALCHEMY II Descriptions
+GENM02 {***
+%s has just purchased a lantern.
+} T ALCHEMY II Descriptions
+GENM03 {...The storekeeper gladly hands you a lantern.
+} T ALCHEMY II Descriptions
+GENM04 {***
+The storekeeper is getting displeased at %s.
+} T ALCHEMY II Descriptions
+GENM05 {...The storekeeper refuses your offer.
+} T ALCHEMY II Descriptions
+GENM06 {***
+%s has just purchased a pepto potion.
+} T ALCHEMY II Descriptions
+GENM07 {...The storekeeper gladly hands you a pepto potion.
+} T ALCHEMY II Descriptions
+JCPM00 {***
+%s has just changed into some new threads!
+} T ALCHEMY II Descriptions
+JCPM01 {...Jc takes your gold and aims a wand at you.
+***
+Suddenly, your new clothes materialize on your body!
+} T ALCHEMY II Descriptions
+JCPM02 {***
+Jc seems to be having a small disagreement with %s.
+} T ALCHEMY II Descriptions
+JCPM03 {...Jc refuses your gold with a strange look.
+} T ALCHEMY II Descriptions
+BARM00 {***
+The bartender tells %s to get lost.
+} T ALCHEMY II Descriptions
+BARM01 {...He looks at you and says, "Get lost."
+} T ALCHEMY II Descriptions
+BARM02 {***
+The bartender has just handed %s a drink.
+} T ALCHEMY II Descriptions
+BARM03 {...He smiles, takes your gold, and gives you a burpp potion.
+} T ALCHEMY II Descriptions
+BARM04 {***
+The bartender is making wise-cracks at %s.
+} T ALCHEMY II Descriptions
+BARM05 {...He says, "You seem to have your hands full already."
+} T ALCHEMY II Descriptions
+BARM06 {***
+The bartender then leans over and whispers to you, "By the way, friend,
+here's a tip... there's eight truths which you must discover to please the
+godddess... and four will be your favorite..."
+} T ALCHEMY II Descriptions
+BARM07 {***
+The bartender then leans over and whispers to you, "By the way, friend,
+here's a tip... the ninth and final truth is held by he who answers no
+questions..."
+} T ALCHEMY II Descriptions
+BARM08 {***
+The bartender then leans over and whispers to you, "By the way, friend,
+here's a tip... the machine with the slanted eye holds the magic number
+of truth... at least for you."
+} T ALCHEMY II Descriptions
+BARM09 {***
+The bartender then leans over and whispers to you, "By the way, friend,
+here's a tip... beware of pickles..."
+} T ALCHEMY II Descriptions
+BARM10 {***
+The bartender then leans over and whispers to you, "By the way, friend,
+here's a tip... everyone has a sweetheart except for the man who has none."
+} T ALCHEMY II Descriptions
+
+ORAM00 {***
+%s is having a philosophical discussion with the Oracle.
+} T ALCHEMY II Descriptions
+ORAM01 {...The Oracle looks at you and says, "Like flames in the fire of time,
+our lives burn bright then sizzle out... until we are nothing but ashes."
+} T ALCHEMY II Descriptions
+ORAM02 {...The Oracle looks at you blankly and say, "We are all dust in the
+wind."
+} T ALCHEMY II Descriptions
+ORAM03 {...The Oracle smiles weakly and says, "Live, love, and laugh... for by
+tomorrow we will be Republican."
+} T ALCHEMY II Descriptions
+ORAM04 {...The Oracle bows to you and says, "To know your truth, you must
+know your truename."
+} T ALCHEMY II Descriptions
+ORAM05 {...The Oracle whispers, "Only those who see themself will discover their
+truename."
+} T ALCHEMY II Descriptions
+ORAM06 {...The Oracle winks and says, "Seek the drink of enlightenment... the
+potion that will lead you to truth."
+} T ALCHEMY II Descriptions
+ORAM07 {...The Oracle mumbles, "When the moons are full, the door will open."
+} T ALCHEMY II Descriptions
+ORAM08 {...The Oracle grins and says, "A kiss is a most deadly weapon..."
+} T ALCHEMY II Descriptions
+
+ALTM00 {***
+%s is trying to be a sneaky little devil!!!
+} T ALCHEMY II Descriptions
+ALTM01 {...Ahem... sorry, that person is already "taken".  Now if you wish to get
+involved in adulterous activities, I suggest you move out the cathedral.  Once
+you get on the street... pork away.
+} T ALCHEMY II Descriptions
+ALTM02 {***
+%s is making sacreligious passes at someone.
+} T ALCHEMY II Descriptions
+ALTM03 {...Hey, none of that... you're MARRIED!!  I mean really, if you want to
+have an affair, I suggest you take it outside of the cathedral!
+} T ALCHEMY II Descriptions
+ALTM04 {***
+%s is devoting %sself in marriage to %s... poor fool.
+} T ALCHEMY II Descriptions
+ALTM05 {***
+%s has just devoted %sself in marriage to you... poor fool.
+} T ALCHEMY II Descriptions
+ALTM06 {...You have devoted the rest of your mortal life to %s... you poor
+fool.
+} T ALCHEMY II Descriptions
+ALTM07
+{...A vision of the goddess Kyrannalussi, dressed in a leather evening gown,
+suddenly appears in your mind.  She gives you a cocky grin, and says, "Hey,
+I'm busy with one of the other gods up here right now... wink, wink, nudge,
+nudge... so go pray somewhere else, ok?  thanks.."
+***
+The vision disappears.
+} T ALCHEMY II Descriptions
+ALTM08
+{...A vision of the goddess Kyrannalussi appears before you.  She looks at
+your offering, smirks, and grabs it from your hands.  "Thanks."
+***
+The vision disappears.
+} T ALCHEMY II Descriptions
+ALTM09
+{...A vision of the goddess Kyrannalussi appears before you.  She looks at
+your offering, and tosses her head with a "hmmph!".  Obviously, it's not good
+enough for a GODDESS.
+***
+The vision disappears.
+} T ALCHEMY II Descriptions
+ALTM10 {***
+%s is making sincere offerings to the goddess Kyrannalussi.
+} T ALCHEMY II Descriptions
+
+ENBM00 {***
+%s is being strictly abmonished by the Goddess Kyrannalussi.
+} T ALCHEMY II Descriptions
+ENBM01
+{...A vision of the goddess Kyrannalussi appears before you and says, "No,
+you don't want to go in there."
+***
+The vision disappears.
+} T ALCHEMY II Descriptions
+
+PEEM00 {***
+%s is playing around with %s private parts with no shame at all.
+} T ALCHEMY II Descriptions
+PEEM01 {...You don't really have to go.
+} T ALCHEMY II Descriptions
+PEEM02 {***
+%s is relieving %s bladder with a big sigh of relief.
+} T ALCHEMY II Descriptions
+PEEM03 {...Ahhhhhhhhhhhhhhhhhhhhh.
+} T ALCHEMY II Descriptions
+
+LGTM00 {***
+%s is playing around with the keypad.
+} T ALCHEMY II Descriptions
+LGTM01 {...A voice in your mind says, "Sowwy, wong nummer."
+} T ALCHEMY II Descriptions
+LGTM02 {***
+%s has very foolishly attempted to walk through the forcefield, and
+is being electrocuted.
+} T ALCHEMY II Descriptions
+LGTM03 {..."Big mistake", is what comes to mind as your bones are being fried by
+the forcefield.
+} T ALCHEMY II Descriptions
+
+BARPMB {***
+%s has just grabbed one of the barfo potions.
+} T ALCHEMY II Descriptions
+BARPMA {...You got one!
+} T ALCHEMY II Descriptions
+BUFPMB {***
+%s has just grabbed one of the buffoon potions.
+} T ALCHEMY II Descriptions
+BUFPMA {...You got one!
+} T ALCHEMY II Descriptions
+BLAPMB {***
+%s has just grabbed one of the blah potions.
+} T ALCHEMY II Descriptions
+BLAPMA {...You got one!
+} T ALCHEMY II Descriptions
+BOOPMB {***
+%s has just grabbed one of the booger potions.
+} T ALCHEMY II Descriptions
+BOOPMA {...You got one!
+} T ALCHEMY II Descriptions
+EMEPMB {***
+%s has just grabbed one of the emeralds.
+} T ALCHEMY II Descriptions
+EMEPMA {...You got one!
+} T ALCHEMY II Descriptions
+COAPMB {***
+%s has just grabbed a piece of coalrock.
+} T ALCHEMY II Descriptions
+COAPMA {...You got a piece!
+} T ALCHEMY II Descriptions
+QUAPMB {***
+%s has just grabbed a piece of quartz.
+} T ALCHEMY II Descriptions
+QUAPMA {...You got a piece!
+} T ALCHEMY II Descriptions
+
+LIMM00 {***
+%s is digging in the ground... and seems to have found something!
+} T ALCHEMY II Descriptions
+LIMM01 {...You found a limestone!
+} T ALCHEMY II Descriptions
+LIMM02 {***
+%s is digging around in the lumpy ground.
+} T ALCHEMY II Descriptions
+LIMM03 {...Hmmm, you find nothing but dirt...
+} T ALCHEMY II Descriptions
+
+LTFM00 {...As you speak the password, you feel magic surge through you...
+} T ALCHEMY II Descriptions
+LFGOPN {***
+There is a blinding flash of light, and suddenly a portal is opened to the
+north!
+} T ALCHEMY II Descriptions
+LFGOPN1 {***
+There is a blinding flash of light, and suddenly a portal is opened to the
+south!
+} T ALCHEMY II Descriptions
+
+HYGM00 {***
+The tree has just hit a soapstone at %s!
+} T ALCHEMY II Descriptions
+HYGM01 {...It growls angrily at you, and throws a soapstone at you which hits you
+squarely in the forehead!  OUCH!
+} T ALCHEMY II Descriptions
+HYGM02 {***
+The tree is growling angrily at %s!
+} T ALCHEMY II Descriptions
+HYGM03 {...The tree growls quite angrily at you!
+} T ALCHEMY II Descriptions
+
+KYSM00 {***
+%s is making strange, religious mumblings by the shrine.
+} T ALCHEMY II Descriptions
+KYSM01 {...Kyrannalussi doesn't seem to be paying much attention to you.
+} T ALCHEMY II Descriptions
+KYSM02 {***
+%s is suddenly surrounded in a nimbus of holy, blue light!
+} T ALCHEMY II Descriptions
+KYSM03 {...Suddenly, the goddess Kyrannalussi appears before you, smiles, and says,
+"Congratulations, %s!  You've gained truth #%d!  Good luck with the rest..."
+***
+She then vanishes in a puff of pink and white smoke!
+} T ALCHEMY II Descriptions
+KYSM04 {***
+%s seems to have annoyed the goddess Kyrannalussi... poor fool.
+} T ALCHEMY II Descriptions
+KYSM05 {...Kyranalussi suddenly appears before you and says, "Hey, if you're just
+going to take wild guesses at these truths that I so kindly asked you to go
+and SEEK, then I have no choice but to make you start over again... this time
+take it seriously.  Sheeeeeesh, you'd think this was a game!"
+} T ALCHEMY II Descriptions
+KYSM06 {...Suddenly, the goddess Kyrannalussi appears before you with a large smile
+on her face.  She says, "Congratulations, %s %s, you have
+gained all eight of the truths.  However, one more remains before your quest
+is complete.  Go now, and seek the final truth... and I give you this one hint,
+it is NOTHING like the others."
+***
+She then vanishes in a puff of pink and white smoke!
+} T ALCHEMY II Descriptions
+KYSM07 {***
+%s praying devotedly to %s goddess, Kyrannalussi the Karismatic.
+} T ALCHEMY II Descriptions
+KYSM08
+{...As you pray, a voice in your mind says, "State your truths, and you will
+gain the enlightnment you seek... if I'm in a good mood."
+} T ALCHEMY II Descriptions
+
+TOXM00 {***
+%s has just shoved %s lovingly into the toxic waterfall!
+} T ALCHEMY II Descriptions
+TOXM01 {***
+%s has just shoved you lovingly into the toxic waterfall!
+} T ALCHEMY II Descriptions
+TOXM02
+{...You got %s!  Ain't love grand?
+} T ALCHEMY II Descriptions
+
+BLUM00 {***
+%s is hugging the dragon comfortingly.
+} T ALCHEMY II Descriptions
+BLUM01
+{...As you hug the dragon comfortingly, he smiles at you and says, "Thank
+you, dear mortal, for your kindness and understanding."  He then wipes his
+eye and hands you a crystal dragontear.
+} T ALCHEMY II Descriptions
+BLUM02
+{...As you hug the dragon comfortingly, he smiles at you and says, "Thank
+you, dear mortal, for your kindness and understanding."
+} T ALCHEMY II Descriptions
+
+ROCM00 {***
+%s is trading with the rock collector.
+} T ALCHEMY II Descriptions
+ROCM01 {...He looks at the stone for a while, and then gives you 4 gold.
+} T ALCHEMY II Descriptions
+ROCM02 {...He looks at the stone for a while, and then gives you 2 gold.
+} T ALCHEMY II Descriptions
+ROCM03 {...He looks at the stone for a while, and then gives you 3 gold.
+} T ALCHEMY II Descriptions
+ROCM04 {...He looks at the rock for a while, and then gives you 1 gold.
+} T ALCHEMY II Descriptions
+ROCM05 {...He looks at you strangely, and then gives it back to you.
+} T ALCHEMY II Descriptions
+
+CRSM00 {***
+%s rubs the crystal which suddenly emits a loud, "Ooooooooooooo".
+} T ALCHEMY II Descriptions
+CRSM01
+{...The crystal glows and goes, "Ooooooooooooo".
+} T ALCHEMY II Descriptions
+CRSM02 {***
+%s is looking at the crystal intently.
+} T ALCHEMY II Descriptions
+CRSM03
+{...As you look into the crystal ball, your mind suddenly goes blank.  Then
+brilliant colors start weaving themselves into fantastic patterns in your
+head, somewhat reminiscent of that night you drank six bottles of Trudsville
+gerbil liqueors.  Anyway, suddenly a voice speaks quite loudly in your mind,
+"When illuminated, you will be enlighted by stating the password for your
+entry."  As the voice fades, your eyes clear again, and the crystal lies
+before you looking innocent.
+} T ALCHEMY II Descriptions
+
+SCEM00
+{...As you speak the words, suddenly a pale green light surrounds you!
+
+} T ALCHEMY II Descriptions
+SCEM01 {***
+%s has just vanished in a pale green flash of light!
+} T ALCHEMY II Descriptions
+SCEM02 {***
+%s has just appeared in a pale green flash of light!
+} T ALCHEMY II Descriptions
+
+WIWM00 {***
+%s is making idle wishes to the wishing well!
+} T ALCHEMY II Descriptions
+WIWM01 {...It throw it back at you saying, "I WISH you wouldn't do that!".
+} T ALCHEMY II Descriptions
+
+STNM00 {***
+The Stinx is preventing %s from moving east.
+} T ALCHEMY II Descriptions
+STNM01
+{...The Stinx suddenly puts its clawed paw in front of you and says, "You
+must answer this riddle before you may pass...
+} T ALCHEMY II Descriptions
+STNM02 {***
+%s has answered %s riddle correctly!
+} T ALCHEMY II Descriptions
+STNM03
+{...The Stinx grins at you and says, "Correct... you may pass at will now."
+} T ALCHEMY II Descriptions
+STNM04 {***
+%s has answered incorrectly!
+} T ALCHEMY II Descriptions
+STNM05
+{...The Stinx looks sadly at you and says, "No, that is the wrong answer.  I'm
+sorry, but now you must die..."
+} T ALCHEMY II Descriptions
+SRIDL0 {
+     Sirkle an poll,
+     Stikk ken whole,
+     Waa ack tam aye?
+} T ALCHEMY II Descriptions
+SRIDL1 {
+     Bitto sillva,
+     Anbit tag olld;
+     Bace ov eyeron,
+     Watgee ohm itrey ami?
+} T ALCHEMY II Descriptions
+SRIDL2 {
+     Roolure ovtis world,
+     Ladd eeo verr choos,
+     Hoo mytie beeee?
+} T ALCHEMY II Descriptions
+SRIDL3 {
+     Lay geso beyou tea,
+     Buht hirr dersbe wa aire;
+     Watism aye nay mme?
+} T ALCHEMY II Descriptions
+SRIDL4 {
+     Ayetell porr twener ubd,
+     Aneye shy nuh-bra tyte;
+     Vawa atumm yetho?
+} T ALCHEMY II Descriptions
+
+OMSM00 {***
+%s has just purchased a wand from the wizard!
+} T ALCHEMY II Descriptions
+OMSM01
+{...The wizard looks at you for a moment, and then hands you a wand.
+} T ALCHEMY II Descriptions
+OMSM02 {***
+%s is playing foolish games with the wizard, who is not amused.
+} T ALCHEMY II Descriptions
+OMSM03
+{...The wizard is not amused and hands you back your gold.
+} T ALCHEMY II Descriptions
+
+SAPM00 {***
+%s is looking quite carefully at the pool of glowing sewage.
+} T ALCHEMY II Descriptions
+SAPM01
+{...As you examine it, the pool suddenly turns %s.
+***
+A few moments later, it returns back to its original color.
+} T ALCHEMY II Descriptions
+
+FFDM01
+{...As you walk in through the door, suddenly you are surrounded by howling
+winds and flashing bright lights (alot like Chicago).  Anyway, as the lights
+start to become bearable, you notice some strange sights... A sexy woman with
+long legs being followed by a herd of loyal sheep -- with the sheepherder no
+where in sight!  "Lady Meling!", you gasp, and start to run.  You then bump
+into Corvadam and his dalamation lost in some sort of strange tangle!  This
+is not your day!  You see colors, and potions, and goddesses, and various
+ex-lovers, and numbers, and more just floating through your mind.  You scream
+from the overwhelming vision, and suddenly...
+
+} T ALCHEMY II Descriptions
+FFDM02 {***
+%s just foolishly went to the east, into the Doorway of FuzzyFeelings!
+} T ALCHEMY II Descriptions
+FFDM03 {***
+%s suddenly falls from the sky looking quite shocked!
+} T ALCHEMY II Descriptions
+
+HONM00 {***
+%s is making whoopee with %s!
+} T ALCHEMY II Descriptions
+HONM01 {***
+%s, in the fevered grasp of passion, starts making whoopee with you!
+} T ALCHEMY II Descriptions
+HONM02
+{...You start making whoopee with %s, and it is the most wonderful
+experience of your entire, mere mortal life... with the slight exception of
+that one time when you got your fingers stuck in the "Fuzz-o-matic".
+} T ALCHEMY II Descriptions
+HONM03 {***
+%s is failing at making whoopee with %s, who is still fully dressed.
+} T ALCHEMY II Descriptions
+HONM04 {***
+%s is attempting to make whoopee with you, but failing since you
+are fully dressed.
+} T ALCHEMY II Descriptions
+HONM05
+{...Unfortuantely, %s is still dressed.
+} T ALCHEMY II Descriptions
+HONM06 {***
+%s, still dressed, is failing at making whoopee with %s.
+} T ALCHEMY II Descriptions
+HONM07 {***
+%s, still dressed, is failing at making whoopee with you.
+} T ALCHEMY II Descriptions
+HONM08
+{...Unfortunately, you are still dressed.  %s is not amused.
+} T ALCHEMY II Descriptions
+
+DICM00 {***
+%s rubs one of the Dicfurs, which proceeds to squirt some of its creamy
+sap all over %s face!
+} T ALCHEMY II Descriptions
+DICM01
+{...You rub one of the Dicfurs, which proceeds to squirt some of its creamy
+sap all over your face!
+} T ALCHEMY II Descriptions
+
+PSTM00 {***
+%s is playing around with the stump.
+} T ALCHEMY II Descriptions
+PSTM01
+{...Something inside the stumps spits it back in your face.
+} T ALCHEMY II Descriptions
+PSTM02
+{...As you slip it in the dark, moist stump you suddenly feel something
+extrodinary.  Some furry creature down there seems to be brushing up against
+it warmly, and then, and then, slowly lick it with its soft, wet tongue.
+Just as you feel yourself approaching bliss, it chomps its long, pointy
+teeth into you, and RIPS it off!!!!
+
+The moral: Don't stick it in strange holes!
+
+} T ALCHEMY II Descriptions
+
+GIGM00 {***
+%s is sniffing the air... for a long time... with a blissful smile
+on %s face.
+} T ALCHEMY II Descriptions
+GIGM01
+{...As you sniff the air, all of your senses seem to explode with sheer bliss
+beyond anything you have ever known... well, with ONE exception.  As this
+wonderful sensation of heaven floods your system, you suddenly become aware
+of how everything is sooooooooooo greeeeeeeeeen!!!!!  Wow, like, uh, totally
+jolly green giant like!  You start to contemplate how the jolly green giant
+satisfied his desires, but decide to drop that subject after the vision of
+creamed vegetables enters you mind.  You start to regain control over your
+body, but you still feel a little weak.
+} T ALCHEMY II Descriptions
+GIGM02 {***
+Suddenly you are overwhelmed with a vision of a beautiful green gemstone.
+It fills your mind completely, shoving everything else out your left ear
+(reminiscent of another ex-lover).  Suddenly it changes color from bright
+green to pure white!  A most unusual property indeed.
+***
+Finally, you lose your "high" feeling, and are now sick at your stomach.
+} T ALCHEMY II Descriptions
+GIGM03 {***
+Suddenly you have an overwhelming vision of a large pickle falling from the
+sky and crushing you under its sour skin.  Of course, this vision could also
+be interpretted as a memory of a certain ex-lover too...
+} T ALCHEMY II Descriptions
+GIGM04 {***
+Suddenly you have an overwhelming vision of two full moons rising in the
+night sky and a black doorway opening with a glowing blue light.  Beyond
+you see a yellow crystal radiating pure magic.
+} T ALCHEMY II Descriptions
+GIGM05 {***
+%s seems to be having sudden hallucinations!
+} T ALCHEMY II Descriptions
+
+
+ISPM00 {***
+%s is having slight misconceptions about time and space.
+} T ALCHEMY II Descriptions
+ISPM01 {...Ahem, uh, err, you can't carry that much.
+} T ALCHEMY II Descriptions
+GCKM00 {***
+%s seems to be a bit short of change.
+} T ALCHEMY II Descriptions
+GCKM01 {...Unfortunately, you don't have that much gold.
+} T ALCHEMY II Descriptions
+GCKM02 {***
+%s is having hallucinations about modern currency.
+} T ALCHEMY II Descriptions
+GCKM03 {...Yeah, riiiiiiiiiiight.
+} T ALCHEMY II Descriptions
+
+DSSMSG {***
+A sandstone just dropped from the tree, barely missing your nose!
+} T ALCHEMY II Descriptions
+BRNM00 {***
+A brownie jumps out from behind a tree, tries to force feed %s some
+of her cookies, kicks %s in the shin, and then disappears!
+} T ALCHEMY II Descriptions
+BRNM01 {***
+A brownie jumps out from behind a tree, tries to force feed you some of
+her cookies, kicks you in the shin, and then disappears!
+} T ALCHEMY II Descriptions
+BRNM02 {***
+%s notices (quite loudly) that the brownie stole one of %s posessions!
+} T ALCHEMY II Descriptions
+BRNM03 {***
+By the way, the little twerp stole your %s.
+} T ALCHEMY II Descriptions
+SQUM00 {***
+Suddenly, a squirrel jumps out from a tree and goes for %s's nuts!
+} T ALCHEMY II Descriptions
+SQUM01 {***
+Suddenly, a squirrel jumps out from a tree and goes for your nuts!
+***
+You suffer damage!
+} T ALCHEMY II Descriptions
+SAXM00 {***
+A jazz saxaphonist jumps from behind a tree, blows a few sour notes at
+%s, grabs all %s gold, and then vanishes!
+} T ALCHEMY II Descriptions
+SAXM01 {***
+A jazz saxaphonist jumps from behind a tree, blows a few sour notes at
+you, grabs all your gold, and then vanishes!
+} T ALCHEMY II Descriptions
+MOVIE0 {***
+The first frame of the film starts to project upon the far wall...
+
+You see a man dressed in casual clothing walking into a small hot and humid
+room.  He wipes the sweat from his brow, and slides over to a large desk
+where a futuristic machine called a computer sits, beeping and flashing.  He
+positions himself in the brown, swivel chair and glances at the green-colored
+monitor.  "Ah-ha, she's online!", he exclaims to himself and quickly starts
+to type on his console keyboard.
+
+This frame slowly fades away...
+} T ALCHEMY II Descriptions
+MOVIE1 {***
+Another frame of the film starts to project upon the far wall...
+
+You see a closeup of the green-colored monitor, allowing you to see the
+intense conversation between this man and his mysterious computer friend.
+"Greetings, fair lady!" he types, to which "she" responds, "hi... smile...
+(hug)...".  He quickly types, "I've missed you... when can I see you again?"
+Once again, she types, "smile... (hug)...", and then "I've got a special
+surprise for you!"  "What?", he inquires anxiously.  "smile... (hug)...".
+
+This frame slowly fades away...
+} T ALCHEMY II Descriptions
+MOVIE2 {***
+Another frame of the film starts to project upon the far wall...
+
+Suddenly there is a brilliant flash of green-color light and a puff of smoke
+in the room, and "she" steps out of it in front of him.  She is an incredibly
+beautiful woman, with flowing blonde hair, bright and shining eyes, and truly
+the most perfect figure you have ever seen.  The man in the room seems to be
+of the same frame of mind, as he is on the floor in shock.  "Wh-wha-at, ohh
+my god!" is all he can mumble.  She smiles, walks over to him, and helps him
+to stand up... although he immediately falls down again from lack of balance.
+
+This frame slowly fades aways...
+} T ALCHEMY II Descriptions
+MOVIE3 {***
+Another frame of the film starts to project upon the far wall...
+
+This dreamlady gives up on pulling him to his feet, and instead kneels down
+beside him and whispers, "Mmmmmmm... fantasy is sometimes so real, isn't it?"
+"Uh-huh", he barely nods, his hazel eyes wide with amazement and his heart
+pounding audibly.  Suddenly, the the scene clears and a man holding a large
+sign blocks your view.  The sign seems to read, "Censored".  You mumble to
+yourself, "Drat these G-Rated films..."
+
+This frame slowly fades aways...
+} T ALCHEMY II Descriptions
+MOVIE6 {***
+Another frame of the film starts to project upon the far wall...
+
+This next scene seems to be a fast-forward into time, as the man and his
+fantasy lover are both dressed and standing in the soft, white light of the
+room.  They hug close, holding eachother for several minutes, then she gives
+him a quick kiss, smiles, and waves her hands.  Suddenly, another flash of
+that green-colored light and a cloud of smoke fills the room.  When it
+disappears, she is gone.  The man stands there for a moment, wondering if
+this had really happened or if he'd just drank too much Mountain Dew.  With
+a smile and a sigh he says, "Across time and space..."
+
+This frame slowly fades aways...
+} T ALCHEMY II Descriptions
+MOVIE7 {***
+Another frame of the film starts to project upon the far wall...
+
+          T H E   E N D
+
+        Sysop: (as himself)
+Fantasy Lover: (as herself)
+
+     Music by: Dr. ScottyB and the Phantasies
+   Written by: Sir Alexis
+  Directed by: The Blue Dragon
+  Produced by: Moonshae Telecomm
+    Stunts by: Scott Brinker
+
+This frame slowly fades aways...
+} T ALCHEMY II Descriptions
+MOVIE8 {***
+A voice says, "The next showing will begin in a few moments..."
+} T ALCHEMY II Descriptions
+MOVIE9 {***
+Suddenly, the far wall lights up with the title screen...
+
+        Moonshae Presents..
+          A Blue Dragon Film
+
+     S Y S O P 'S   F A N T A S Y
+              L O V E R
+
+
+The title then slowly fades away...
+} T ALCHEMY II Descriptions
+
+HICCUO {***
+%s has just hiccuped quite loudly!
+} T ALCHEMY II Descriptions
+HICCUU {***
+You suddenly hiccup quite violently!
+} T ALCHEMY II Descriptions
+PICNOS {***
+%s starts to pick %s nose quite enthusiastically!
+} T ALCHEMY II Descriptions
+DADATE {***
+You suddenly realize that today is %d %s %d A.D. (After Drajorth).
+} T ALCHEMY II Descriptions
+SPODRM {***
+Suddenly you have a vision of your spouse, %s.  The truth hurts.
+} T ALCHEMY II Descriptions
+NSPOTD {***
+Your body attempts to have a vision of your spouse, but since you don't have
+one, it fails pathetically.
+} T ALCHEMY II Descriptions
+GONINV {***
+%s has just turned invisble!
+} T ALCHEMY II Descriptions
+THISRM {***
+Suddenly, the mystical number %d appears in your mind, and you have a
+momentary vision of a room array.
+} T ALCHEMY II Descriptions
+UGOINV
+{...As you pour this potion upon yourself, you see pieces of your body slowly
+start to fade away until you are nothing but an Unseen Force.  COOL!
+} T ALCHEMY II Descriptions
+TRUCHN {***
+Suddenly, the color %s appears boldly in your mind!
+} T ALCHEMY II Descriptions
+
+ATHKM0 {***
+%s is suddenly lost in deep mediation... actually SERIOUS!
+} T ALCHEMY II Descriptions
+ATHKM1 {...A vision enters your mind...
+
+} T ALCHEMY II Descriptions
+ATHKM2 {***
+The vision then vanishes, leaving you sick at your stomach.
+} T ALCHEMY II Descriptions
+ATHKM3 {***
+You feel like a peeping tom is watching your every move!
+} T ALCHEMY II Descriptions
+ATHKM4 {***
+%s is thinking about things... nothing in particular, just things.
+} T ALCHEMY II Descriptions
+ATHKM5 {...Like, wow, that's deep!
+} T ALCHEMY II Descriptions
+
+OB85M0
+{...The drunk gives you a silly look and starts blurbing out various words
+such as, "bloodymary and perrie and sewage -- what a combination!!".
+} T ALCHEMY II Descriptions
+OB85M1
+{...He says, "(hiccup) Well, I see your true colors...!".
+} T ALCHEMY II Descriptions
+OB85M2
+{...He says, "Hey man, that's your job to find (hiccup) not mine!".
+} T ALCHEMY II Descriptions
+OB85M3
+{...He looks at you strangely and burps.
+} T ALCHEMY II Descriptions
+
+OB86M0
+{...He looks at you and says, "Ale costs 2 gold".
+} T ALCHEMY II Descriptions
+
+OB87M0
+{...He looks at you and says, "If you wish to make a donation..."
+} T ALCHEMY II Descriptions
+
+OB88M0
+{...She smiles at you sweetly and says, "When the moons are full the way
+to your truth seeking will become apparent..."
+} T ALCHEMY II Descriptions
+OB88M1
+{...She smiles and says, "My heart belongs only to my Scott...".
+} T ALCHEMY II Descriptions
+OB88M2
+{...She just smiles at you.
+} T ALCHEMY II Descriptions
+
+OB89M0
+{...He just looks at you and says, "The only truth I know of is the goddess
+Kyrannalussi..."
+} T ALCHEMY II Descriptions
+OB89M1
+{...He just gives you a funny look.
+} T ALCHEMY II Descriptions
+
+OB90M0
+{...He just gives you a two-toothed smile and shrugs.
+} T ALCHEMY II Descriptions
+
+OB91M0
+{...She says, "I don't think I'll answer that..." and grins at you.
+} T ALCHEMY II Descriptions
+OB91M1
+{...She says, "Well, my potion mixes with just about everything worthwhile!
+But I've also heard about combining magiclove and firefingr."
+} T ALCHEMY II Descriptions
+OB91M2
+{...She answers, "Sorry, but I don't know anything about that..."
+} T ALCHEMY II Descriptions
+
+OB92M0
+{...He just grunts and says, "Hey, I only sell clothes."
+***
+He then proceeds to pick his left nostril enthusiastically.
+} T ALCHEMY II Descriptions
+
+OB93M0
+{...He smirks and says, "I do not converse with mortals."  Hmmm.. what
+a JERK!
+} T ALCHEMY II Descriptions
+
+OB94M0
+{...He says wistfully, "Kyrannalussi... Kyrannalussi...", and then breaks
+down into tears again.
+} T ALCHEMY II Descriptions
+OB94M1
+{...He sniffles and says, "Well, I've heard that lipton and skuzz are a good
+combination... oh, yeah, and also burrp and booger and barfo.  Strange names
+for potions... but I didn't name them."  He then goes back to his crying.
+} T ALCHEMY II Descriptions
+OB94M2
+{...He looks at you and says, "Well, I know there are eight truths... and
+beyond the Stinx is something of value related to at least one of them...
+and then there is of course the Palace of the Wizard."  He then bows his
+head in sorrow as blue scales fall like rain...
+} T ALCHEMY II Descriptions
+OB94M3
+{...He looks at you sorrowfully and says, "Love is a power beyond all magic,
+but magic lives only as long as someone believes in it... and broken hearts
+are the ancient relics of past wizardry of the soul."  He then cries another
+tear.
+} T ALCHEMY II Descriptions
+OB94M4
+{...The dragon just looks at you, cries another tear, and doesn't respond.
+} T ALCHEMY II Descriptions
+
+AIMFIN {***
+%s is aiming %s finger at %s!
+} T ALCHEMY II Descriptions
+
+TELM01 {***
+%s aims %s finger at you, and suddenly you feel yourself being picked
+up in a whirlwind of magical air!
+
+} T ALCHEMY II Descriptions
+TELM02 {...You aim at %s!
+} T ALCHEMY II Descriptions
+TELM03 {***
+%s just vanished in a whirlwind of magical air!
+} T ALCHEMY II Descriptions
+TELM04 {***
+%s just appeared in a whirlwind of magical air!
+} T ALCHEMY II Descriptions
+
+ZAHOM0 {***
+%s aims %s finger, and all of %s's possessions vanish!
+} T ALCHEMY II Descriptions
+ZAHOM1 {***
+%s aims %s finger at you, and any possesions you may have been
+carrying suddenly vanish into thin air!
+} T ALCHEMY II Descriptions
+ZAHOM2
+{...You aim well, and any posessions %s may have been carrying suddenly
+vanish into thin air!
+} T ALCHEMY II Descriptions
+
+LIGBM0 {***
+%s aims, and a lightning bolt flies from %s finger, hitting %s
+squarely in the chest!  OUCH!
+} T ALCHEMY II Descriptions
+LIGBM1 {***
+%s aims, and a lightning bolt flies from %s finger, hitting you
+squarely in the chest!  UUUUUUUGH!
+} T ALCHEMY II Descriptions
+LIGBM2
+{...A lightning bolt flies from your finger and strikes... %s seems to be in
+alot of pain at the moment.
+} T ALCHEMY II Descriptions
+
+FFINM0 {***
+%s flips %s finger (and a rather nasty firebolt) at %s!
+} T ALCHEMY II Descriptions
+FFINM1 {***
+%s flips %s finger (and a rather nasty firebolt) at you!  YOWCH!
+} T ALCHEMY II Descriptions
+FFINM2
+{...You flip your finger, and a firebolt flies at your target... %s seems
+to be in some pain now.
+} T ALCHEMY II Descriptions
+
+ZAPPM0 {***
+%s aims %s finger at %s, who seems to be drained of considerable energy!
+} T ALCHEMY II Descriptions
+ZAPPM1 {***
+%s aims %s finger at you, and you feel your magical energy drain away!
+} T ALCHEMY II Descriptions
+ZAPPM2
+{...You aim, and %s looks quite drained!
+} T ALCHEMY II Descriptions
+
+UGLYM0 {***
+%s aims %s finger at %s, who suddenly becomes quite ugly! (Okay, uglier).
+} T ALCHEMY II Descriptions
+UGLYM1 {***
+%s aims %s finger at you, and you suddenly become quite ugly!  (Okay,
+uglier...).
+} T ALCHEMY II Descriptions
+UGLYM2
+{...And %s becomes ugly! (Okay, uglier...)
+} T ALCHEMY II Descriptions
+
+NAKDM0 {***
+%s aims %s pelvis at %s, who is now stark naked!
+} T ALCHEMY II Descriptions
+NAKDM1 {***
+%s aims %s pelvis at you, and you are now stark naked!
+} T ALCHEMY II Descriptions
+NAKDM2
+{...And %s is now stark naked!
+} T ALCHEMY II Descriptions
+
+ICEFM0 {***
+%s shoots an ice bolt from %s foot at %s, causing considerable pain!
+} T ALCHEMY II Descriptions
+ICEFM1 {***
+%s shoots an ice bolt from %s foot at you, causing considerable pain!
+} T ALCHEMY II Descriptions
+ICEFM2
+{...And %s is struck by a nasty ice bolt!
+} T ALCHEMY II Descriptions
+
+LBALM0 {***
+%s fires a huge ball of lightning from %s foot, striking %s in the head!
+} T ALCHEMY II Descriptions
+LBALM1 {***
+%s fires a huge ball of lightning from %s foot, striking you in the head!
+} T ALCHEMY II Descriptions
+LBALM2
+{...And %s is struck with a huge ball of lightning!
+} T ALCHEMY II Descriptions
+
+AFRTM0 {***
+%s suddenly emanates a horrible odor!!
+} T ALCHEMY II Descriptions
+AFRTM1
+{...Fart.
+} T ALCHEMY II Descriptions
+AFRTM2 {***
+%s is aiming %s rear at %s, and attacking with a large fart!
+} T ALCHEMY II Descriptions
+AFRTM3 {***
+%s is aiming %s rear at you, and attacking with a large fart!  PEW!
+} T ALCHEMY II Descriptions
+AFRTM4
+{...And %s hath been farted upon.
+} T ALCHEMY II Descriptions
+AFRTM5 {***
+%s is farting in your general direction!
+} T ALCHEMY II Descriptions
+AFRTM6
+{...You fart in the general direction!
+} T ALCHEMY II Descriptions
+
+BRTHM0 {***
+%s takes a deep breath, and suddenly fire shoots from %s mouth at everyone!
+} T ALCHEMY II Descriptions
+BRTHM1
+{...You take a deep breath, and then flame surges from your mouth at everyone!
+} T ALCHEMY II Descriptions
+BRTHM2 {***
+You are magically protected from the fire!
+} T ALCHEMY II Descriptions
+BRTHM3 {***
+You have just been struck by the fire!
+} T ALCHEMY II Descriptions
+BRTHM4 {***
+%s has been struck by the fire!
+} T ALCHEMY II Descriptions
+BRTHM5 {***
+%s is practicing %s heavy breathing techniques.
+} T ALCHEMY II Descriptions
+BRTHM6
+{...You huff and puff.
+} T ALCHEMY II Descriptions
+
+ASNZM0 {***
+%s sneezes and then wipes %s nose with... OH, GROSS!
+} T ALCHEMY II Descriptions
+ASNZM1
+{...Sneeze.
+} T ALCHEMY II Descriptions
+ASNZM2 {***
+%s sneezes with all %s might at %s!
+} T ALCHEMY II Descriptions
+ASNZM3 {***
+%s sneezes with all %s might at you, covering you with mucus!
+} T ALCHEMY II Descriptions
+ASNZM4 {...Well, %s's now covered with mucus!
+} T ALCHEMY II Descriptions
+ASNZM5 {***
+Your %s slips from your now slippery hands!
+} T ALCHEMY II Descriptions
+ASNZM6 {***
+%s's %s slips from %s now slippery hands!
+} T ALCHEMY II Descriptions
+ASNZM7 {***
+%s sneezes at you rather rudely!
+} T ALCHEMY II Descriptions
+ASNZM8
+{...Gotcha!
+} T ALCHEMY II Descriptions
+
+CK4PM0 {***
+%s aims %s %s at %s, but nothing seems to happen.
+} T ALCHEMY II Descriptions
+CK4PM1 {***
+%s aims %s %s at you, but nothing seems to happen.
+} T ALCHEMY II Descriptions
+CK4PM2
+{...You aim it at %s, but nothing seems to happen.
+} T ALCHEMY II Descriptions
+
+STBURO {***
+%s is still on fire, and doesn't seem to be enjoying it.
+} T ALCHEMY II Descriptions
+STBURU {***
+You're still on fire, and it's becoming QUITE painful!
+} T ALCHEMY II Descriptions
+
+PONDM0 {***
+%s jumps in the pond, quenching %s flaming body!
+} T ALCHEMY II Descriptions
+PONDM1
+{...The cool water quenches the flames...
+} T ALCHEMY II Descriptions
+PONDM2 {***
+%s jumps in the pond for no apparent reason.
+} T ALCHEMY II Descriptions
+PONDM3 {...Well, that accomplished alot!
+} T ALCHEMY II Descriptions
+
+EMEMSG
+{...You rub the emerald and magic takes over your body...
+
+} T ALCHEMY II Descriptions
+EMEMSG1 {***
+%s just vanished in a sparkling emerald flash!
+} T ALCHEMY II Descriptions
+EMEMSG2 {***
+%s just appeared in a sparkling emerald flash!
+} T ALCHEMY II Descriptions
+
+WHLM00
+{...The wheel spins around, and lands on Death...
+} T ALCHEMY II Descriptions
+WHLM01
+{...The wheel spins around, and lands on Thief...
+***
+All your items held disappear.
+} T ALCHEMY II Descriptions
+WHLM02
+{...The wheel spins around, and lands of Bankrupt...
+***
+You have no gold now.
+} T ALCHEMY II Descriptions
+WHLM03
+{...The wheel spins around, and lands on Vacation...
+} T ALCHEMY II Descriptions
+WHLM04
+{...The wheel spins around, and lands on Combination...
+***
+A vision of kyrajuu and bloodymary appears in your mind.
+} T ALCHEMY II Descriptions
+WHLM05
+{...The wheel spins around, and lands on Combination...
+***
+A vision of magiclove and firefingr appears in your mind.
+} T ALCHEMY II Descriptions
+WHLM06
+{...The wheel spins around, and lands on Combination...
+***
+A vision of robertas and killjoy appears in your mind.
+} T ALCHEMY II Descriptions
+WHLM07
+{...The wheel spins around, and lands on Combination...
+***
+A vision of sunburst and happydust appears in your mind.
+} T ALCHEMY II Descriptions
+WHLM08
+{...The wheel spins around, and lands on Combination...
+***
+A vision of solitude and amphetami appears in your mind.
+} T ALCHEMY II Descriptions
+WHLM09
+{...The wheel spins around, and lands on Combination...
+***
+A vision of yelloweye, halitosis, and joyjuice appears in your mind.
+} T ALCHEMY II Descriptions
+WHLM10
+{...The wheel spins around, and lands on Potion...
+} T ALCHEMY II Descriptions
+WHLM11
+{...The wheel spins around, and lands on Potion...
+} T ALCHEMY II Descriptions
+
+WGETPO {***
+Suddenly, another potion appears in your hands!
+} T ALCHEMY II Descriptions
+
+WHLOTH {***
+%s gives the wheel a spin...
+} T ALCHEMY II Descriptions
+
+WHLMXP {***
+%s vanishes in a purplish-greenish-bluish-reddish-yellowish white mist.
+} T ALCHEMY II Descriptions
+
+WHLMEP {***
+%s appears in a purplish-greenish-bluish-reddish-yellowish white mist.
+} T ALCHEMY II Descriptions
+
+MIRANS
+{...The mirror replies, "Why 8088, of course, %s!"
+} T ALCHEMY II Descriptions
+
+THRM00
+{...The moment your body touches the force field you know that you're in for
+alot of pain.  At first, the sizzling isn't that bad... even somewhat kinky
+and stimulating, but as you body slowly chars, the esctasy disappears and you
+suddenly realize you're dead...
+} T ALCHEMY II Descriptions
+
+BSKM00
+{...As you rub it, the basketball suddenly begins to vibrate...
+} T ALCHEMY II Descriptions
+BSKM01 {***
+%s is having a sexual experience with the basketball.
+} T ALCHEMY II Descriptions
+
+BOOB00 {***
+%s is suddenly fatally attacked by the boobie trap!
+} T ALCHEMY II Descriptions
+BOOB01
+{...The boobs suddenly pounce on you from all sides, crushing the life out
+of you... still, it's not a totally unenjoyable death.
+} T ALCHEMY II Descriptions
+BOOB02 {***
+%s is attempting a sexual experience with the boobie trap, but they
+seem to react fowly, I mean fouly, and attack him fatally.
+} T ALCHEMY II Descriptions
+BOOB03
+{...The boobie trap seems to react fowly, I mean fouly, to your touch, and
+attack you fatally, crushing the life out of you.  Still, it's not a totally
+unenjoyable death.
+} T ALCHEMY II Descriptions
+BOOB04 {***
+The boobie trap squirts some milk excitedly on %s!
+} T ALCHEMY II Descriptions
+BOOB05
+{...The boobie trap seems quite pleased with your answer, and excitedly
+squirts some milk you on.  You feel blessed, in more ways than one...
+} T ALCHEMY II Descriptions
+
+LKDM00
+{...As you knock on the door, you suddenly hear a great, "WOOOOOSH"!
+
+} T ALCHEMY II Descriptions
+LKDM01 {***
+%s suddenly vanishes with a great "WOOOOOOSH!".
+} T ALCHEMY II Descriptions
+LKDM02 {***
+%s suddenly appears with a great "WOOOOOOOSH!".
+} T ALCHEMY II Descriptions
+
+POOL00
+{...WHICH pool?  Please be more specific next time...
+} T ALCHEMY II Descriptions
+POOL01 {***
+You sigh deeply, watching %s gaping at the pools in idiotic amazement!
+} T ALCHEMY II Descriptions
+POOL02
+{...Ummmm, sorry to inform you of this Mr. Human, but there is no such pool!
+} T ALCHEMY II Descriptions
+POOL03
+{...What the fark are you talking about?
+} T ALCHEMY II Descriptions
+POOL04 {***
+%s jumps into the blue pool and vanishes!
+} T ALCHEMY II Descriptions
+POOL05 {***
+%s jumps into the pink pool and vanishes!
+} T ALCHEMY II Descriptions
+POOL06 {***
+%s jumps into the yellow pool and vanishes!
+} T ALCHEMY II Descriptions
+POOL07 {***
+%s jumps into the green pool and vanishes!
+} T ALCHEMY II Descriptions
+POOL08 {***
+%s jumps into the black pool and vanishes!
+} T ALCHEMY II Descriptions
+POOL09 {***
+%s jumps into the white pool and vanishes!
+} T ALCHEMY II Descriptions
+POOL10 {***
+%s suddenly appears in a blue flash of light!
+} T ALCHEMY II Descriptions
+POOL11 {***
+%s suddenly appears in a pink flash of light!
+} T ALCHEMY II Descriptions
+POOL12 {***
+%s suddenly appears in a yellow flash of light!
+} T ALCHEMY II Descriptions
+POOL13 {***
+%s suddenly appears in a green flash of light!
+} T ALCHEMY II Descriptions
+POOL14 {***
+%s suddenly appears in a black flash of light!
+} T ALCHEMY II Descriptions
+POOL15 {***
+%s suddenly appears in a white flash of light!
+} T ALCHEMY II Descriptions
+
+FRSM00 {***
+Fire suddenly explodes from all of %s's bodily orifices!
+} T ALCHEMY II Descriptions
+FRSM01 {***
+You are mysteriously protected from the flames!
+} T ALCHEMY II Descriptions
+FRSM02 {***
+You are struck by the flames!
+} T ALCHEMY II Descriptions
+FRSM03 {***
+%s is struck by the flames!
+} T ALCHEMY II Descriptions
+
+ICSM00 {***
+%s burps quite loudly, and suddenly the air starts to swirl into gale
+force, and icy hail rains from above!
+} T ALCHEMY II Descriptions
+ICSM01 {***
+You are mysteriously protected from the icy hail from above!
+} T ALCHEMY II Descriptions
+ICSM02 {***
+You are struck by the icy hail raining from above!
+} T ALCHEMY II Descriptions
+ICSM03 {***
+%s is struck by the icy hail raining from above!
+} T ALCHEMY II Descriptions
+
+UBCORV {***
+%s has suddenly transformed into the infamous, dog-haired Corvadam!
+} T ALCHEMY II Descriptions
+UBKYRA {***
+%s has suddenly transformed into a semi-resemblence of the Goddess
+Kyrannalussi, and seems to be having a hard time remembering %s correct
+name.
+} T ALCHEMY II Descriptions
+UBMELL {***
+%s has suddenly, OH NO!!!!!!!!!! ...transformed into the nymphomaniacal
+Lady Meling and seems to be going on a rampage searching for naked sheep
+herders!
+} T ALCHEMY II Descriptions
+UBSHAR {***
+Heh.  %s has suddenly transformed into the at-large Sharibor the
+Destructor!
+} T ALCHEMY II Descriptions
+
+PEDHUH {...Put what where?!?!?!
+} T ALCHEMY II Descriptions
+NOTPED {...What the heck are you trying to do?!?!
+} T ALCHEMY II Descriptions
+PONPM0 {...It vanishes!
+} T ALCHEMY II Descriptions
+PONPM1 {***
+The %s pedestal begins to glow brightly!
+} T ALCHEMY II Descriptions
+GOPICX {***
+%s has suddenly vanished in a pickle-green flash of light!
+***
+The pedestals stop glowing.
+} T ALCHEMY II Descriptions
+GOPICE {***
+%s has suddenly appeared in a pickle-green flash of light!
+} T ALCHEMY II Descriptions
+UGPIKL {...Suddenly, the world stops.  A potion gets shoved in your hands, and
+you feel yourself wisked away...
+
+} T ALCHEMY II Descriptions
+
+PSGLOW {***
+The pedestals stop glowing.
+} T ALCHEMY II Descriptions
+DBPIKL {***
+The pickle falls upon you, crushing you to death...
+
+} T ALCHEMY II Descriptions
+LOPIKL {***
+Suddenly a large pickle falls from the sky directly at you!!!!
+} T ALCHEMY II Descriptions
+
+MRSLM0 {***
+%s has just dropped something in the slot!
+} T ALCHEMY II Descriptions
+MRSLM1 {...The slot accepts your gift and gives you a chip!
+} T ALCHEMY II Descriptions
+MRSLM2 {...The slot accepts your gift with a smile.
+} T ALCHEMY II Descriptions
+MRSLM3 {...The slot accepts your gift, but burps rudely.
+} T ALCHEMY II Descriptions
+
+PNKCM0 {...You aim, and suddenly everything goes pink...
+
+} T ALCHEMY II Descriptions
+PNKCM1 {***
+%s has suddenly vanished in a pink flash!
+} T ALCHEMY II Descriptions
+PNKCM2 {***
+%s has suddenly appeared in a pink flash!
+} T ALCHEMY II Descriptions
+
+COFMM0 {***
+%s is playing around with the niche.
+} T ALCHEMY II Descriptions
+COFMM1 {...The chip fits in perfectly, and then vanishes.
+***
+A voice says, "You may now seek the ninth truth when the two eyes of the night
+sky watch your moves with no reply..."
+} T ALCHEMY II Descriptions
+COFMM2 {...It doesn't fit.
+} T ALCHEMY II Descriptions
+
+COFCM0 {...Ah, a noble concept indeed, but unfortunately not the ninth truth!
+***
+Hahahahahaha!  Welllllll, I guess I do owe you something, so I'll tell you this
+much about the ninth truth.... you'll never find it!  Hahahaha.  See, -I- am
+the wizard... yes, meeeee, you're lovely host computer.  Didn't expect that
+did you?  Neither did my mother.  Anyway, I hold the secret of your precious
+ninth truth... you can try your best to get it out of me though.
+***
+Now get the fark outta here...
+
+} T ALCHEMY II Descriptions
+COFCM1 {***
+%s vanishes in a high-resolution graphics explosion!
+} T ALCHEMY II Descriptions
+COFCM2 {***
+%s appears in a high-resolution graphics explosion!
+} T ALCHEMY II Descriptions
+
+FAIRYM {***
+Suddenly a pink fairy dragon appears out of no where, squeezes your genitals
+with a wink and a giggle and then drops a potion in front of you.
+***
+The fairy dragon then vanishes with a light wave of its hand...
+} T ALCHEMY II Descriptions

@@ -1,0 +1,99 @@
+
+
+LEVEL4 {Elwynor Technologies: Alchemy II: The Hangover}
+
+ This is the ANSI sequence that represents the attribute
+ for text displayed in Alchemy II.
+
+ALCATR {[1;32m} S 15 ANSI attribute for ALC II text
+
+
+LEVEL6 {Elwynor Technologies: Alchemy II: The Hangover}
+
+YOUWIN {
+
+...Alright, I'll tell you... the ninth truth of life is...
+
+To err is human, but to really foul things up requires a computer!
+
+And to foul things up even more, I'm going to declare you as having solved
+this game.  Congratulations, %s, and thanks for playing.  If you're
+the first one to solve this on your system, your Sysop probably has a prize
+for you, so why don't you go write him an E-MAIL message now using your
+talented COMPUTER (he's my brother-in-law, actually).
+
+Oh, by the way, that one human who gave me all these nasty ideas of gaming,
+Scott Brinker, thanks you too...
+
+YES, you've WON... now get outta here!!
+
+} T Alchemy II Text
+
+
+WINKSO {***
+%s seems to be kissing the air, quite successfully!
+} T Alchemy II Text
+WINKSU
+{...Awwwwww, gee, what can I say?
+} T Alchemy II Text
+
+BECMSD
+{...Because WHAT, %s?  Get a grip on yourself -- you're not making
+any sense!
+} T Alchemy II Text
+BECMSA {...Hmph!  "%s" to you too...
+} T Alchemy II Text
+
+
+IMSAMN
+{...Okay, so you're %s.  Big deal.
+} T Alchemy II Text
+
+IMSYOU
+{...So, you %s me?  Doesn't really matter to me...
+} T Alchemy II Text
+
+IMSGEN
+{...Oh, "I" this and "I" that!  Stop gibbering and leave me alone...
+} T Alchemy II Text
+
+
+ITSMSN
+{...Well, fine!  If you want to be that way about it...
+} T Alchemy II Text
+
+ITSMSD
+{...Oh, come now, it's not THAT %s!
+} T Alchemy II Text
+
+
+WHOMS0
+{...I am the Wizard of Truth, forged from silicon, developed from ingenuity,
+and... sold by a very nice salesman.  My name is technical and complex to
+pronounce, especially by a mere human such as yourself, so you can just call
+me... hmmmm... 8088.  Yeah, I like that.  8088.
+} T Alchemy II Text
+TRUQUE
+{...Hey, what, you think I'm just going to TELL you?  Nooooooo way!
+} T Alchemy II Text
+NOQUES
+{...I refuse to answer any questions of that nature.
+} T Alchemy II Text
+
+
+RDNM00
+{...Blurb, blurb, blurb!
+} T Alchemy II Text
+RDNM01
+{...Aw, go back to drinking potions you mortal!
+} T Alchemy II Text
+RDNM02
+{...You seem to have NO idea of who you're dealing with.
+} T Alchemy II Text
+RDNM03
+{...No comment.
+} T Alchemy II Text
+RDNM04
+{...$#@&+*!&#!!
+} T Alchemy II Text
+

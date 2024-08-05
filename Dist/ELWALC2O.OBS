@@ -1,0 +1,824 @@
+ObjectNum: 0
+ObjctName: blah
+ObjctDesc: A2I000
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: 8,-1,-1,-1
+Obj'sMx3s: 9,14,-1
+
+ObjectNum: 1
+ObjctName: burpp
+ObjctDesc: A2I001
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 8,15,-1,-1
+Obj'sMx3s: 9,10,-1
+
+ObjectNum: 2
+ObjctName: booger
+ObjctDesc: A2I002
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 15,-1,-1,-1
+Obj'sMx3s: 9,10,-1
+
+ObjectNum: 3
+ObjctName: barfo
+ObjctDesc: A2I003
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1011000000000000
+Obj'sMx2s: 11,-1,-1,-1
+Obj'sMx3s: 10,-1,-1
+
+ObjectNum: 4
+ObjctName: bubblebath
+ObjctDesc: A2I004
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: 11,-1,-1,-1
+Obj'sMx3s: 18,17,-1
+
+ObjectNum: 5
+ObjctName: buffoon
+ObjctDesc: A2I005
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: 12,-1,-1
+
+ObjectNum: 6
+ObjctName: po's
+ObjctDesc: A2I006
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: 13,-1,-1,-1
+Obj'sMx3s: 36,12,-1
+
+ObjectNum: 7
+ObjctName: pepto
+ObjctDesc: A2I007
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 19,24,-1,-1
+Obj'sMx3s: 12,30,-1
+
+ObjectNum: 8
+ObjctName: chicagoo
+ObjctDesc: A2I008
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1011000010000000
+Obj'sMx2s: 13,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 9
+ObjctName: perree
+ObjctDesc: A2I009
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: 16,-1,-1,-1
+Obj'sMx3s: 21,-1,-1
+
+ObjectNum: 10
+ObjctName: cokeo
+ObjctDesc: A2I010
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 16,22,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 11
+ObjctName: exlaxy
+ObjctDesc: A2I011
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1111000010000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: 17,-1,-1
+
+ObjectNum: 12
+ObjctName: koors
+ObjctDesc: A2I012
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: 18,-1,-1
+
+ObjectNum: 13
+ObjctName: budwizzer
+ObjctDesc: A2I013
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 24,-1,-1,-1
+Obj'sMx3s: 14,18,-1
+
+ObjectNum: 14
+ObjctName: kyrajuu
+ObjctDesc: A2I014
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 20,25,-1,-1
+Obj'sMx3s: 26,37,-1,
+
+ObjectNum: 15
+ObjctName: bloodymary
+ObjctDesc: A2I015
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 20,-1,-1,-1
+Obj'sMx3s: 21,26,-1
+
+ObjectNum: 16
+ObjctName: bloodylary
+ObjctDesc: A2I016
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 27,33,-1,-1
+Obj'sMx3s: 14,17,-1
+
+ObjectNum: 17
+ObjctName: sewage
+ObjctDesc: A2I017
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1011000000000000
+Obj'sMx2s: 19,33,-1,-1
+Obj'sMx3s: 21,23,-1
+
+ObjectNum: 18
+ObjctName: kyrandium
+ObjctDesc: A2I018
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 22,-1,-1,-1
+Obj'sMx3s: 23,28,-1
+
+ObjectNum: 19
+ObjctName: shakeabig
+ObjctDesc: A2I019
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: 29,-1,-1,-1
+Obj'sMx3s: 23,30,-1
+
+ObjectNum: 20
+ObjctName: hotnheavy
+ObjctDesc: A2I020
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: 32,-1,-1
+
+ObjectNum: 21
+ObjctName: morphine
+ObjctDesc: A2I021
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1011000000000000
+Obj'sMx2s: 25,-1,-1,-1
+Obj'sMx3s: 26,32,-1
+
+ObjectNum: 22
+ObjctName: wonder
+ObjctDesc: A2I022
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: 28,30,-1
+
+ObjectNum: 23
+ObjctName: ladyjane
+ObjctDesc: A2I023
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 27,-1,-1,-1
+Obj'sMx3s: 34,-1,-1
+
+ObjectNum: 24
+ObjctName: robertas
+ObjctDesc: A2I024
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 29,35,-1,-1
+Obj'sMx3s: 34,36,-1
+
+ObjectNum: 25
+ObjctName: magiclove
+ObjctDesc: A2I025
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1011000010000000
+Obj'sMx2s: 31,48,59,-1
+Obj'sMx3s: 37,-1,-1
+
+ObjectNum: 26
+ObjctName: middlefin
+ObjctDesc: A2I026
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 1,-1,-1,-1
+Obj'sMx3s: 28,37,-1
+
+ObjectNum: 27
+ObjctName: firefingr
+ObjctDesc: A2I027
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 31,-1,-1,-1
+Obj'sMx3s: 39,-1,-1
+
+ObjectNum: 28
+ObjctName: killjoy
+ObjctDesc: A2I028
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1011000000000000
+Obj'sMx2s: 35,-1,-1,-1
+Obj'sMx3s: 39,-1,-1
+
+ObjectNum: 29
+ObjctName: nastyfing
+ObjctDesc: A2I029
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 41,42,-1,-1
+Obj'sMx3s: 39,-1,-1
+
+ObjectNum: 30
+ObjctName: badbreath
+ObjctDesc: A2I030
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 42,53,-1,-1
+Obj'sMx3s: 34,36,-1
+
+ObjectNum: 31
+ObjctName: kissyfur
+ObjctDesc: A2I031
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 38,-1,-1,-1
+Obj'sMx3s: 32,43,-1
+
+ObjectNum: 32
+ObjctName: yelloweye
+ObjctDesc: A2I032
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 38,56,-1,-1
+Obj'sMx3s: 40,43,-1
+
+ObjectNum: 33
+ObjctName: halitosis
+ObjctDesc: A2I033
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1011000010000000
+Obj'sMx2s: 45,-1,-1,-1
+Obj'sMx3s: 40,51,-1
+
+ObjectNum: 34
+ObjctName: joyjuice
+ObjctDesc: A2I034
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1011000010000000
+Obj'sMx2s: 41,-1,-1,-1
+Obj'sMx3s: 40,-1,-1
+
+ObjectNum: 35
+ObjctName: krelmmmm
+ObjctDesc: A2I035
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 53,-1,-1,-1
+Obj'sMx3s: 64,-1,-1
+
+ObjectNum: 36
+ObjctName: timweed
+ObjctDesc: A2I036
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 47,-1,-1,-1
+Obj'sMx3s: 64,-1,-1
+
+ObjectNum: 37
+ObjctName: redbird
+ObjctDesc: A2I037
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 48,-1,-1,-1
+Obj'sMx3s: 43,54,-1
+
+ObjectNum: 38
+ObjctName: sunburst
+ObjctDesc: A2I038
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1011000010000000
+Obj'sMx2s: 44,49,-1,-1
+Obj'sMx3s: 50,-1,-1
+
+ObjectNum: 39
+ObjctName: happydust
+ObjctDesc: A2I039
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000010000
+Obj'sMx2s: 44,45,-1,-1
+Obj'sMx3s: 50,-1,-1
+
+ObjectNum: 40
+ObjctName: solitude
+ObjctDesc: A2I040
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 46,47,-1,-1
+Obj'sMx3s: 51,-1,-1
+
+ObjectNum: 41
+ObjctName: amphetami
+ObjctDesc: A2I041
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1101000010000000
+Obj'sMx2s: 46,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 42
+ObjctName: zenner
+ObjctDesc: A2I042
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 52,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 43
+ObjctName: residue
+ObjctDesc: A2I043
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 49,59,-1,-1
+Obj'sMx3s: 54,-1,-1
+
+ObjectNum: 44
+ObjctName: offscum
+ObjctDesc: A2I044
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1111000010000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: 50,-1,-1
+
+ObjectNum: 45
+ObjctName: offal
+ObjctDesc: A2I045
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1101000010000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: 51,66,-1
+
+ObjectNum: 46
+ObjctName: liqueur
+ObjctDesc: A2I046
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 52,62,-1,-1
+Obj'sMx3s: 57,64,-1
+
+ObjectNum: 47
+ObjctName: roland
+ObjctDesc: A2I047
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: 58,-1,-1
+
+ObjectNum: 48
+ObjctName: strikeher
+ObjctDesc: A2I048
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1011000010000000
+Obj'sMx2s: 70,-1,-1,-1
+Obj'sMx3s: 66,-1,-1
+
+ObjectNum: 49
+ObjctName: lipton
+ObjctDesc: A2I049
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: 55,60,-1,-1
+Obj'sMx3s: 54,-1,-1
+
+ObjectNum: 50
+ObjctName: skuzz
+ObjctDesc: A2I050
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1011000000000000
+Obj'sMx2s: 55,67,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 51
+ObjctName: asciiee
+ObjctDesc: A2I051
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1101000010000000
+Obj'sMx2s: 56,63,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 52
+ObjctName: caramel
+ObjctDesc: A2I052
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: 58,68,-1
+
+ObjectNum: 53
+ObjctName: sixsixsix
+ObjctDesc: A2I053
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: 69,-1,-1,-1
+Obj'sMx3s: 57,58,-1
+
+ObjectNum: 54
+ObjctName: jerko
+ObjctDesc: A2I054
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 61,-1,-1,-1
+Obj'sMx3s: 65,-1,-1
+
+ObjectNum: 55
+ObjctName: blowoff
+ObjctDesc: A2I055
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1011000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: 66,-1,-1
+
+ObjectNum: 56
+ObjctName: grog
+ObjctDesc: A2I056
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: 61,-1,-1,-1
+Obj'sMx3s: 57,-1,-1
+
+ObjectNum: 57
+ObjctName: toddy
+ObjctDesc: A2I057
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: 67,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 58
+ObjctName: highball
+ObjctDesc: A2I058
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: 63,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 59
+ObjctName: blueball
+ObjctDesc: A2I059
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: 65,-1,-1
+
+ObjectNum: 60
+ObjctName: cocoa
+ObjctDesc: A2I060
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: 71,-1,-1,-1
+Obj'sMx3s: 65,-1,-1
+
+ObjectNum: 61
+ObjctName: moongoo
+ObjctDesc: A2I061
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000010000000
+Obj'sMx2s: 60,62,72,-1
+Obj'sMx3s: 68,-1,-1
+
+ObjectNum: 62
+ObjctName: weewater
+ObjctDesc: A2I062
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: 69,-1,-1,-1
+Obj'sMx3s: 73,-1,-1
+
+ObjectNum: 63
+ObjctName: fazuul
+ObjctDesc: A2I063
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1011000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 64
+ObjctName: cunnillo
+ObjctDesc: A2I064
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: 68,-1,-1
+
+ObjectNum: 65
+ObjctName: annillo
+ObjctDesc: A2I065
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1101000000000000
+Obj'sMx2s: 72,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 66
+ObjctName: plasther
+ObjctDesc: A2I066
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: 70,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 67
+ObjctName: jizzium
+ObjctDesc: A2I067
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1011000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: 73,-1,-1
+
+ObjectNum: 68
+ObjctName: poop
+ObjctDesc: A2I068
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: 71,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 69
+ObjctName: cetera
+ObjctDesc: A2I069
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: 73,-1,-1
+
+ObjectNum: 70
+ObjctName: collins
+ObjctDesc: A2I070
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 71
+ObjctName: shari-ack
+ObjctDesc: A2I071
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 72
+ObjctName: mellomel
+ObjctDesc: A2I072
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 73
+ObjctName: chekcola
+ObjctDesc: A2I073
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 74
+ObjctName: plutoona
+ObjctDesc: A2I074
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1001000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 75
+ObjctName: limestone
+ObjctDesc: A2I075
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1000000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 76
+ObjctName: soapstone
+ObjctDesc: A2I076
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1000000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 77
+ObjctName: sandstone
+ObjctDesc: A2I077
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1000000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 78
+ObjctName: coalrock
+ObjctDesc: A2I078
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1000000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 79
+ObjctName: quartz
+ObjctDesc: A2I079
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1000000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 80
+ObjctName: emerald
+ObjctDesc: A2I080
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1100000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 81
+ObjctName: dragontear
+ObjctDesc: A2I081
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1000000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 82
+ObjctName: lantern
+ObjctDesc: A2I082
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1000000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 83
+ObjctName: wand
+ObjctDesc: A2I083
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1000000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 84
+ObjctName: chip
+ObjctDesc: A2I084
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 1000000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 85
+ObjctName: drunk
+ObjctDesc: A2I085
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 0000000001100000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 86
+ObjctName: bartender
+ObjctDesc: A2I086
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 0000000001100000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 87
+ObjctName: oracle
+ObjctDesc: A2I087
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 0000000001100000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 88
+ObjctName: kyrapractor
+ObjctDesc: A2I088
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 0000000001100000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 89
+ObjctName: collector
+ObjctDesc: A2I089
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 0000000001100000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 90
+ObjctName: storekeeper
+ObjctDesc: A2I090
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 0000000001100000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 91
+ObjctName: po
+ObjctDesc: A2I091
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 0000000001100000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 92
+ObjctName: jc
+ObjctDesc: A2I092
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 0000000001100000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 93
+ObjctName: wizard
+ObjctDesc: A2I093
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 0000000001100000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 94
+ObjctName: dragon
+ObjctDesc: A2I094
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 0000000001100000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 95
+ObjctName: sign
+ObjctDesc: A2I095
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 0000000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 96
+ObjctName: altar
+ObjctDesc: A2I096
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 0000000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 97
+ObjctName: stone
+ObjctDesc: A2I097
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 0000000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 98
+ObjctName: sign
+ObjctDesc: A2I098
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 0000000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 99
+ObjctName: sign
+ObjctDesc: A2I099
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 0000000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 100
+ObjctName: sign
+ObjctDesc: A2I100
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 0000000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 101
+ObjctName: crystal
+ObjctDesc: A2I101
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 0000000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+
+ObjectNum: 102
+ObjctName: statue
+ObjctDesc: A2I102
+FlagGuide: PUBPARTSDAPPT
+Obj Flags: 0000000000000000
+Obj'sMx2s: -1,-1,-1,-1
+Obj'sMx3s: -1,-1,-1
+

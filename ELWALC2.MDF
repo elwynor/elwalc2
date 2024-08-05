@@ -1,0 +1,27 @@
+; ELWALC2.MDF
+
+Module Name: Alchemy II
+
+Developer: Elwynor Technologies
+
+Requires:
+Replaces:
+
+Install:
+
+Online user manual: ELWALC2.DOC
+
+DLLs: ELWALC2
+MSGs: ELWALC2M,ELWALC2C,ELWALC2D,GALALC2L
+
+Btrieve page size: 1024
+Btrieve files:     2
+
+Cleanup:
+
+Event-1:
+Event-2:
+Event-3:
+Event-4:
+
+Add-On Utility:

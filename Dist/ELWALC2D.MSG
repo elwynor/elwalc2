@@ -1,0 +1,1495 @@
+
+LEVEL6 {Elwynor Technologies: Alchemy II: The Hangover}
+
+FOULID {
+Hey you!  None of that stuff here.
+
+Please enter your player ID: } T Enter a player ID prompt
+
+GETALS {
+
+Since this is your first time entering Alchemy II: The Hangover, you
+must pick a 3-9 character player ID for yourself.  This is what you will
+be known as throughout the game.
+
+Please enter your player ID:  } T Enter a player ID prompt
+
+BADPID {
+Sorry, the ID you have chosen is invalid.  Player ID's may only be between
+3 and 9 characters in length, and must only consist of letters.
+} T Bad length of player ID message
+
+NTGOOD {
+Sorry, someone else has already taken that player ID.
+} T Duplicate player ID message
+
+B4PLA2 {
+Please choose another player ID:  } T Second prompt for a player ID
+
+GOODPD {
+Good!  You will now be known as "%s" throughout Alchemy II: The Hangover...
+
+<< Hit RETURN to begin >} T Good player id screen
+
+INTROA {
+
+   "Hey, you're (hiccup)... Kyrr... err... Kyrr... err... raan... nan.. aah..
+ummm... (hiccup)... the one with all those funky temples and stuff...", you
+barely mumble, your head pounding and your vision somewhat blurred.
+
+   "Kyrannalussi, Goddess of Peyennuu, Lady of Virtues, Defender of Dreams,
+Queen of Fantasy, The Eternal Pegasus, Keeper of Legends and Lore, The Grand
+Enchantress, Guide of Souls, Ruler of Hearts, Figment of Imagination, Chief
+Accountant of Olympus, Surgeon General, Jedi Master, Secretary of State, Zen
+Master Ninja, Bachelor of Science: Comp. Science major, from Harvard, Maytag
+Repair Woman, and author of MY LIFE AS A GODDESS, to you M%c. %s!"
+
+   For some unknown reason you find this quite funny and start to giggle to
+yourself.  With great inebriated enthusiasm, you reply, "(hiccup) Oh..."
+
+   She frowns at you, not amused.  "You drank one too many potions, became
+completely drunk, cursed out several of my clerics, and tried to have sexual
+intercourse with a bar stool -- you're an utter disgrace to the realm of
+fantasy!  You should be banished to reality for your horrendous misbehavior.
+However, hmmm, I believe I've got a more appropriate fate to serve as your
+punishment... and also teach you a few things, you mortal fool."
+
+     << Hit RETURN to continue >} T Alchemy II Text
+
+INTROB
+{   Something about her tone of voice fills you with a foreboding feeling of
+impending doom, but nonetheless your "high" sense of humor just can't resist
+the smart-aleck reply, "It must be that time of the month for you, huh?"
+You grin -- not a particularly wise choice of actions.
+
+   "Why you, audacious fool!", she bellows -- in a rather deep voice for a
+Lady of Virtue.  "Alright, you think you're so smart?  Well, you're going to
+need all your wit and 'humor' to survive the sentence I'm going to give you!
+You are doomed to forever walk the land of Peyennuu until you find the truth
+of life within yourself!"
+
+   "Hmmm... (hiccup).  How about what's behind curtain number two instead?".
+
+   "An eternity of fire and brimstone, your flesh painfully rotting away,
+maggots and snakes crawling through your body, and icepicks being shoved
+under your toenails."  She smiles at you sweetly.
+
+   After a moment's thought, you reply, "I'll think I'll take that quest to
+find the truth of life instead..."
+
+<< Hit RETURN to continue >} T Alchemy II Text
+
+INTROC {
+
+
+
+Welcome to "ALCHEMY II: The Hangover", a comedy/fantasy adventure written
+by Scott Brinker. It was designed and programmed in January-May 1989 and 
+is copyrighted 2005-2024 by Elwynor Technologies with all rights reserved.  
+If you try and infringe on any of that legal stuff, our lawyers will beat up 
+your lawyers...
+
+ALCHEMY II takes place in the swords-and-sorcery fantasy world of Peyennuu,
+the mythical land which was the setting for QUEST FOR MAGIC and QUEST OF THE
+ALCHEMISTS, two previous Major BBS/Worldgroup multi-user games.  However,
+unlike its predecessors, ALCHEMY II is much more of a satirical comedy than
+a "serious" quest.  Although not a "simple" game, by all means, it should
+be taken quite lightheartedly and with a sense of humor... as you search for
+the "truth of life".
+
+The following screens of information will provide you with all the knowledge
+you will require to successfully play ALCHEMY II, so please take your time
+to read them carefully.  If you don't, we'll find you and have you shot...
+
+     << Hit RETURN to continue >} T Alchemy II Text
+
+INTROD
+{ALCHEMY II is one of the most advanced games of its type, and therefore
+requires a considerable amount of explanation, therefore please bear with
+the following text.
+
+ALCHEMY II is an on-line RPG (Role-Playing Game), where you, and up
+to 255 other users, can take on the "role" of an imaginary character within
+the context of the fantasy world of ALCHEMY II.  It is similiar in nature
+to the popular TSR, Inc. game of "Dungeons & Dragons", except the computer
+acts as an "automated Dungeon Master".  Game play is similiar to that of
+Zork, or any other text adventure, but with a key difference -- many people
+can simultaneously be interacting, in real-time, in the same simulated
+universe.
+
+If you need additional help in understanding the concept of game play, or
+need help with commands, type "help" after you complete the introduction,
+and a list of help options will be displayed for your convience.
+
+Now, on to the specifics of ALCHEMY II... so whether you're new to these
+multi-player worlds, or are a seasoned adventurer, the next couple screens
+will be of importance to you.
+
+     << Hit RETURN to continue >} T Alchemy II Text
+
+INTROE
+{Here's a little background...
+
+ALCHEMY II takes place in the fantasy world of Peyennuu, land of the lovely
+goddess Kyrannalussi.  Magic is a common aspect of daily life in Peyennuu,
+and at this particular age in Peyennuuian history, the art of alchemy is
+predominant.  Of course, for this adventure, HUMOR is also a common aspect
+of Peyennuu...
+
+Your character is an average, %s of Peyennuu.  Well, not THAT
+average -- you were the type of young alchemist who liked to play with your
+erection set, especially with the other kids.  (Did I mean to say "erector
+set"?  Oh, sorry!).  Anyway, after a strange childhood, you went on to live
+a stranger adulthood, experimenting with potion lore and fine wine (more of
+the wine than the lore).  However, this tipsy lifestyle got you in some hot
+water -- and not the Nude Saunas of Gringrin!  Finally, Kyrannalussi, the
+head hocho of Peyennuuian deities, intervened and sentenced you to complete
+a quest -- a quest for the truth of your life!  Now what the hell is that?
+Hey, that's your job, not mine.  Anyway, you're not alone... many other
+alchemists will be on the Kyrannalussi Sobriety Program too.  Misery loves
+company (and so do pudendum parties)!
+
+     << Hit RETURN to continue >} T Alchemy II Text
+
+INTROF
+{Okay, enough of the introduction, it's time to get on with it!  However,
+before you start, you should be aware of a nice incentive to complete this
+quest.  No, it's nothing of a sexual nature, I promise.  The first player
+to find his/her truth of life on this system will be granted a prize! 
+Seriously!  Instructions for collecting the prize will be presented upon 
+completion of the quest... and remember -- only the FIRST player to solve 
+the quest wins.
+
+Again, if you need help with the commands, or anything of that nature, feel
+free to type "help" and your questions shall be answered!
+
+ ***
+
+It has taken a long time to conceive this game and even a longer time to
+gain the courage (insanity?) to actually go through with it.  Good luck,
+and please forgive the horrendous attempts at humor to follow.  Thanks for
+playing... this one's dedicated to you, its players.  Have fun...
+
+        -- Scott Brinker
+
+     << Hit RETURN to begin >} T Alchemy II Text
+
+HELP {
+
+ALCHEMY II: The Hangover is an Elwynor Technologies product written
+by Scott J. Brinker.  It is Copyright (c) 2005-2024 by Elwynor Technologies
+and all rights are reserved.
+
+Since ALCHEMY II is such an advanced type of game, there are several areas of
+help which are covered in more detail.  To see them, type "help <subject>",
+for example, "help commands".  The following help messages are available:
+
+     author ....... background info about the author
+     commands ..... partial list of popular game commands
+     npcs ......... info about computer-controlled characters
+     potions ...... info about potions, mixing, drinking, etc.
+     time ......... a bit about how time moves in the game
+
+Thanks is given to Aaron Von Gauss, Richard Skurnick, Jeffrey Kobal, Robert
+and Debbie Trotman, Adam Horowitz, "Kyra", Tim Stryker, Shari Borek, and
+many others for their contributions to this crazed fantasy world.
+
+} T Alchemy II Text
+
+HELPA {
+
+Scott J. Brinker was the President of Moonshae Telecomm, Inc. and later
+the Vice-President and President of Galacticomm, Inc.
+
+He wrote ALCHEMY II:  The Hangover in January-May 1989, inspired and
+influenced by comedy work of Mel Brooks, "Monty Python", Steve Martin,
+and other well-known comedians.  He has also written or co-written the
+multi-player adventures of QUEST FOR MAGIC, SORCEROR'S ISLES, KYRANDIA
+(Fantasy-world), QUEST OF THE ALCHEMISTS, and QUEST FOR ZEN.
+
+} T Alchemy II Text
+
+HELPC {
+
+In case if you need some help, here is a summary of some of the most-used
+commands in the game, although there are others.  Also, for more information,
+you will want to read "help potions" and "help npcs".
+
+  n/s/e/w ........................... move in appropriate direction
+  inv ............................... see what items you currently have
+  gold .............................. see how much gold you have
+  hits .............................. see how many hit points you have
+  say <message> ..................... speak to other players
+  whisper to <who> <message> ........ whisper to another player
+  yell <message> .................... yell for others to hear
+  drop <item in hand> ............... drop an item you are holding
+  get <item> ........................ get an item lying around or nearby
+  get <who>'s <item> ................ steal another player's item
+  give <who> <item> ................. give another player an item
+  look <something or someone> ....... look more closely at someone/something
+  sit/lie/stand ..................... sit down, lie down, stand up
+  kiss/hug/comfort <who or what> .... do nice things to other players/things
+  kick/slap <who or what> ........... do mean things to other players/things
+
+} T Alchemy II Text
+
+HELPN {
+
+One of the many neat new features of ALCHEMY II is the semi-intelligent,
+computer-controlled characters of the game (for example, the bartender at
+Avagadro's Tavern).  They have the ability to interact with the real players
+by answering questions, acting as merchants and other roles, and offering
+services and equipment -- for a price, most of the time.
+
+The following command formats are suggested for most of the interaction with
+these computer-controlled creatures (NonPlayerCharacters... NPCs):
+
+     give <amount> gold to <npc>
+     look <npc>
+     ask <npc> <question>
+
+In most cases these creatures cannot be harmed by the normal means used to
+attack other players... their purpose is not to act as "random monsters".
+
+However, you should beware of some NPC creatures, such as brownies, jazz
+saxaphonists, killer squirrels, and others whom will harm your character
+in one of many ways.
+
+} T Alchemy II Text
+
+HELPP {
+
+Potions are the "heart" of this game, and success in the game lies with the
+mastery of how they mix together and what effects they have when drunk,
+shaken, thrown, or poured.  The following commands are most of the ones used
+with potions:
+
+     look <potion>
+     mix <potion1> and <potion2>
+     mix <potion1> and <potion2> and <potion3>
+     drink <potion>
+     shake <potion>
+     pour <potion> on self
+
+Sometimes, when you drink a potion, it will give you a special power... and
+to use it you must perform another action, such as aiming your finger at
+someone, or something like that.  An example is:
+
+     aim finger at <who>
+
+} T Alchemy II Text
+
+HELPT {
+
+Another "special" feature of ALCHEMY II is the fact that the world actually
+comes alive around you.  The sun rises and sets, along with the two moons,
+Amary and Ristina, creating both night and day enviroments.  Of course, this
+also adds the factors of darkness and vision limitations, but we will leave
+discovery of this up to you.
+
+As days move by (4 Peyennuuian days to one real day in most cases), the
+phases of the moons will change... and one hint is that this does have some
+importance towards solving certain puzzles in the game.  The game also has
+months and years, but again, we will let you discover the full extent of
+this on your own.
+
+When you exit the game, time continues to move on, although your player's
+character is held is "suspended animation" until you return.
+
+} T Alchemy II Text
+
+AMPD00
+{...%s seems to be somewhat new to the strange land of Peyennuu, and
+you can almost see the sexual frustration in his eyes.  Every few moments he
+glances at his groin, checking that his "friend" is still alive.  He seems
+to be carrying } T Alchemy II Text
+AFPD00
+{...%s seems to be a virgin... at least to the land of Peyennuuu.  She
+continually glances around with a puzzled, almost shocked, expression on her
+beautiful (well, she's no princess) face.  She does have a sweet smile,
+though.  She seems to be lugging around } T Alchemy II Text
+AMPD01
+{...%s is completely naked.  He seems to be enjoying the fresh air,
+though, and he smiles at you with a sly grin.  However, he doesn't have much
+to show off... and in fact, seems to be having some difficulty locating
+certain key aspects of his masculinity.  Anyway, besides his "friend", he
+is carrying } T Alchemy II Text
+AFPD01
+{...Now this is a nice sight!  %s is stark naked, her smooth skin
+attracting your immediate attention.  She smiles at you with a sly grin, and
+then gives you a surrepititious wink.  The air seems to get a bit warmer.
+You also happen to notice, barely, that she's carrying } T Alchemy II Text
+AMPD02
+{...%s is wearing casual clothing... blue jeans and a white teashirt
+(an advertisement for a Long Island cure for heartache).  He seems to be
+enjoying himself, and he smiles at you with a wave.  He seems to be holding
+} T Alchemy II Text
+AFPD02
+{...%s is wearing casual clothing... blue jeans and a white teashirt
+(an advertisement for a Long Island cure for heartache).  She seems to be
+enjoying herself, and she smiles at you with a wave.  She seems to be holding
+} T Alchemy II Text
+AMPD03
+{...%s is buried beneathe dark blue wizard's robes, and looks a lot
+like your Aunt Bertha after a shower.  The robes are made from fine satin,
+and you notice a few sparkling, silver stars embroidered on the front.  He
+bows to you with a grin.  Con artist, you mutter, as you notice he's holding
+} T Alchemy II Text
+AFPD03
+{...%s is dressed in yellow and white wizard's robes.  She has a
+cute, pointy hat, with a golden star implanted on the top.  You assume that
+she can really make a point.  Speaking of this, might I point out, that she
+seems to be pointedly carrying } T Alchemy II Text
+AMPD04
+{...Far out!  Cool!  Radical!  Like totally awesome, dude!  %s is
+decked out in completely unmatching shorts and t-shirt which almost blind
+you with their glow-in-the-dark colors.  Strange initials are scribbled
+all over his clothes, as though he was violently attacked by a gang of
+high-class clothes designers.  Besides his assorted stripes and spots, he
+seems to carry } T Alchemy II Text
+AFPD04
+{...Surfer woman lives!  %s is wearing a tank top t-shirt with the
+name of her favorite rock group, Dr. ScottyB and the Phantasies, written
+in bold gothic letters across her chest.  Ah, yes, nice chest too.  Anyway,
+she's wearing spotted boxer shorts and carrying } T Alchemy II Text
+AMPD05
+{...%s is dressed in a small, dark blue bikini bathing suit, something
+which was obviously not meant for any well-endowed male.  However, he seems
+to be enjoying the position, and grins at you with a cocky look in his left
+eye.  He winks... and you feel a shiver run down your spine.  KYRANALUSSI!!!
+Anyway, he's holding } T Alchemy II Text
+AFPD05
+{...Wheeet-whew!  %s is dressed in a slim, tight-fitting flesh-colored
+bathing suit that highlights her various natural curvatures.  You wipe the
+sweat off your brow and also notice that she's carrying } T Alchemy II Text
+AMPD06
+{...%s is one bad-looking dude.  He's wrapped up in black leather,
+covered with assorted spikes and various metallic protrusions.  He grunts
+at you and waves his one white glove your way.  This does not fill you with
+a desire to get closer, but you do notice he's carrying } T Alchemy II Text
+AFPD06
+{...Dressed in a smooth, silky piece of white lingerie, complete with lace
+and all, %s is truly one of the most sexiest women you've seen in this
+Kyrannalussi-forsaken land.  Anyway, while you're staring, you notice that
+she's also subtlely carrying } T Alchemy II Text
+AMPD07
+{...%s is dressed out in a formal wedding tuxedo, complete with the
+white carnation and his copy of "Married Man's Survival Guide".  This poor,
+foolish man seems to have absolutely NO idea what he's getting himself into,
+well, err, figuratively.  He has a unknowing smile on his face, and seems to
+be carrying } T Alchemy II Text
+AFPD07
+{...%s is dressed in a formal white wedding gown, sparkling with fake
+jewels of all kinds.  Her eyes are alight with love... or the thought of
+owning a male slave for the rest of eternity.  Whatever the case, she does
+look quite enticing... then again, so did that slime potion from hell.  She
+seems to be daintily holding } T Alchemy II Text
+AMPD08
+{...%s is wearing a very... err, unique collection of cloth, leather,
+and whipped cream.  He gives you a cocky grin and shifts his masculinity
+without even twitching his lip.  He seems to be carrying } T Alchemy II Text
+AFPD08
+{...Well, this is something you don't see everyday.  %s is dressed
+in a flesh-colored outfit that has various "peepholes" at key locations.  In
+addition, her legs are dressed with black fishnets.  This is the sort of
+person your mother warned you about... once she gave up black fishnets.
+Anyway, she's carrying } T Alchemy II Text
+AMPD09
+{...%s is dressed in the regal armor of a Knight of the Rose.  This
+once popular order of knighthood almost but disappeared off the face of the
+land of Peyennuu when chivalry and romance were abandonded by their patron
+goddess.  Yet this man stands against the tide with a proud heart and a
+determined countenance.  Geesh, he actually looks SERIOUS!  Anyway, this man
+of honor seems to be carrying } T Alchemy II Text
+AFPD09
+{...Dressed in a flowing, pink dress, %s is truly a vision of a past
+age of chivalry and knighthood... the quests for true love, the Holy Rail
+(a divine means of transportation!), and other great tasks were all done for
+the hands of princesses like this girl.  You feel sorry for those ancient
+knights of old.  Anyway, she's carrying } T Alchemy II Text
+
+A2I000
+{...This plum-colored liqiud seems to fill your thoughts with an unending
+mumbling of the word "blah" as you examine it.  BLAH!  You seem to remember
+something like this from your high school cafeteria.
+} T Alchemy II Text
+A2I000A
+{...BLAH!
+} T Alchemy II Text
+
+A2I001
+{...This thick, greenish liquid seems to bubble effervescently, and you
+could swear that every once and a while you hear it go "BBBBBRACK!".  A
+strange stench emanates from it with every belch from hell.
+} T Alchemy II Text
+A2I001A
+{..."Uuuuuuuuuuuuurrrrrrrrppppp!"  Excuse you, buddy!
+} T Alchemy II Text
+
+A2I002
+{...Slimy and olive-colored, this potion doesn't do much for your stomach.
+As you examine it, a wisp of its vapors get sucked up your nostrils and you
+have the sudden urge to sneeze violently and vote Republican!  Oh, no!
+} T Alchemy II Text
+A2I002A
+{...You feel a tremendous build-up of slimy mucus in your nose!!!
+} T Alchemy II Text
+
+A2I003
+{...This half-solidified, pinkish-hued potion from hell is reminiscent of
+the main entree at the Denny's where you once attempted to commit suicide
+by swallowing their fruit sundae.  The thought sickens you... but not nearly
+as badly as the last Presidential Debate.
+} T Alchemy II Text
+A2I003A
+{...You barely mumble, "Ohh, Kyrannalussi...", and then proceed to display
+the contents of your stomach to the world.  Repeatedly.
+} T Alchemy II Text
+
+A2I004
+{...This cherry-tinted potion is rather watery in appearance, and you see
+odd-shaped bubbles rise from it and then instantly vanish as they touch the
+air.  It has the distinct odor of strawberries and cream... bringing back
+certain enjoyable (and tasty) carnal memories.
+} T Alchemy II Text
+A2I004A
+{...As you drink this watery potion, bubbles start coming out of your mouth,
+nose, ears, and other bodily orifices.
+} T Alchemy II Text
+
+A2I005
+{...This vaporous potion is dark blue in color and emanates a strong odor
+of underarm deoderant... something you're not too familiar with apparently.
+} T Alchemy II Text
+A2I005A
+{...As you swallow this vaporous potion, you suddenly feel like you're going
+to explode!  Several seconds later, you hear a loud rumbling from your rear,
+and then are overpowered by a torturous stench from hell!
+***
+You feel quite active all of a sudden!
+} T Alchemy II Text
+
+A2I006
+{...A strong smell of peaches and jello rises from this amber-colored potion,
+and although it doesn't remind you of enjoyable carnal memories, it does give
+you a couple delicious ideas for future "entertainment".  In fact, you have
+the urge to get up from the computer and run to the store, purchase a couple
+hundred boxes of jello and peaches, find a large swimming pool and a willing
+partner and... (ahem), sorry, back to the game.
+} T Alchemy II Text
+A2I006A
+{...As expected, this potion tastes like peaches and jello.
+} T Alchemy II Text
+
+A2I007
+{...This potion looks and smells exactly like dead Wurgmort (a Peyennuuian
+horror food, known as BigMac in other worlds).  Unfortunately, this one seems
+to have had too much of that "special" sauce, if you get my meaning...
+} T Alchemy II Text
+A2I007A
+{...You gag and choke in a last-minute attempt to preserve life... especially
+your own.
+***
+You feel your body attempting internal conditioning!
+} T Alchemy II Text
+
+A2I008
+{...This creamy potion would probably be great with bagels, but since you
+don't have any, you consider the proposition of drinking it.  Naaaa...
+} T Alchemy II Text
+A2I008A
+{...This creamy potion actually tastes pretty good, and it seems to give you
+some "inspiration" so that you can "stay the night", or just "25 or 6 to 4",
+but don't "look away" because "does anybody really know what time it is?".
+***
+You feel healed for some strange reason.
+} T Alchemy II Text
+
+A2I009
+{...This clear liquid sparkles with an unnatural brilliance, reminiscent of
+alien sewage.  You laugh to yourself about the rumor that people on other
+worlds actually pay good money for this stuff... luckily, Peyennuuians are
+a bit smarter.  Peyennuuians know that 77 is better than 69... only because
+you get ate more.  Eight, I mean.
+} T Alchemy II Text
+A2I009A
+{...This potion quenches your thirst quite well, and it doesn't even give you
+a headache (unlike a certain ex-lover).
+***
+You suddenly feel the urge to watch "Divorce Court" -- Kyrannalussi help you!
+} T Alchemy II Text
+
+A2I010
+{...As you examine this black, slimy potion, you have a vivid image of a
+dragon being violently ill and some crazy fool actually bottling it as a
+potion for drinking.  This is not a nice thought.
+} T Alchemy II Text
+A2I010A
+{...You drink the potion with some caution, fearing that it's mere taste
+will be fatal.  Well, your fear turns out to be correct...
+} T Alchemy II Text
+
+A2I011
+{...In another world, Exxon would love this potion that seems to have
+originated from a 1950's hair style involving large amounts of thick goo
+and a strict avoidance from open flame.
+} T Alchemy II Text
+A2I011A
+{...This potion tastes HORRIBLE!  You have visions of a huge oil truck just
+pumping gallons of untreated petroleum down your throat!
+***
+You feel the need to fart at someone.
+} T Alchemy II Text
+
+A2I012
+{...This watery, lemon-smelling potion reminds you of the childhood days
+when you used to play pranks with urine and lemonade sales.  Ah, those were
+the good, ol' days.  By the way, the smell of this potion is pretty potent,
+and you should drink it only at your own risk.  Unless you voted Republican,
+in which case, go and drink it... it looks delicious!
+} T Alchemy II Text
+A2I012A
+{...This rather tangy-tasting potion gives you a feeling like nothing you've
+never felt before.
+***
+You hiccup.
+} T Alchemy II Text
+
+A2I013
+{...This milky white potion seems to have originated from a cow that was
+having severe kidney problems.  Inside, you hear your stomach give you fair
+warning that if you drink this, it will spew forth vast amounts of half
+digested food in your face.
+} T Alchemy II Text
+A2I013A
+{...OOOooo, uuughhhhh, waaaaaahhhhh, blaughfluuuupgrrrshhhhhhh!  Delicious!
+} T Alchemy II Text
+
+A2I014
+{...You don't actually expect me to explain this one, do you?  Say a couple
+of prayers to Kyrannalussi and maybe she'll give you the gory details in a
+dream or something.  Jeesh, the nerve of some people...
+} T Alchemy II Text
+A2I014A
+{...Hmmmm... a delicate, yet satisfying taste.
+***
+You feel like you could wistand some heat now... in fact, you have the
+feeling you're going to have to.  A vision enters your mind of being slowly
+roasted alive on a spit over a fire.
+} T Alchemy II Text
+
+A2I015
+{...This thick, red potion resembles a fast-food strawberry milkshakes.
+Which indicates that it probably tastes NOTHING like strawberries, but
+instead, will taste like a cup of untreated sewage mixed with artificial
+coloring.
+} T Alchemy II Text
+A2I015A
+{...Tastes great, less filling.
+} T Alchemy II Text
+
+A2I016
+{...This light red potion seems to be a pretty normal liquid, except for
+the fact that it seems to be growing a beard.
+} T Alchemy II Text
+A2I016A
+{...Albeit a bit hairy, it actually tastes pretty good.
+***
+Your finger has the sudden urge to be aimed at your best friend.
+} T Alchemy II Text
+
+A2I017
+{...This thick, gooy potion is colored a dark, dark brown with various black
+spots bubbling from it's half-solidified center.  For you nature lovers,
+this potion looks and smells exactly like squirrel excrement.
+} T Alchemy II Text
+A2I017A
+{...From the first moment that you drink this potion you realize that it was
+a mistake.  Your insides immediately go on strike and start protesting in
+your intestines quite violently.
+***
+In your agony, you suddenly have a vision of a huge computer ruling the
+world... of course, you also have visions of your ex-lover in chains, but
+that's not as bad.
+} T Alchemy II Text
+
+A2I018
+{...This watery potion is blush colored and emanates a strong odor of rotten
+grape juice.  It reminds you of the homemade wine you once attempted to make
+and killed off half your family with.  Brings back good memories.
+} T Alchemy II Text
+A2I018A
+{...After you drink this sweet-and-sour potion, you feel your eyes start to
+spin circles in your head and start to glow with an unnatural radiance.
+} T Alchemy II Text
+
+A2I019
+{...Almost totally solidified, this yellowish-brown potion reminds you
+vividly of eighty-year old munster cheese.  You're aware of this unmistakable
+look and odor from your experiences with fast-food cheese(ha!)burgers.
+} T Alchemy II Text
+A2I019A
+{...Welllllllllllll, it's better than you thought... but not by much.
+***
+You suddenly see a vision of the temptress of innocent sheep herders, the
+infamous Lady Meling!  She runs at you her +5 bra and... and...
+***
+The vision fades away.
+} T Alchemy II Text
+
+A2I020
+{...This thick, blackish-brown delivers the unquestionable odor of chocolate
+ice cream.  Closer examination reveals that... ohhhh, uggh, blah... nooo...
+eeeeww... ahem.  Closer examination reveals that it's just (cough) chocolate
+ice cream.
+} T Alchemy II Text
+A2I020A
+{...Mmmmmmmmmmmm, this stuff actually tastes good!
+} T Alchemy II Text
+
+A2I021
+{...This potion reminds you alot of thick and zesty chili, in both looks and
+aromoa, but it seems to also have the unmistakable odor of spoiled cat guts.
+Looks like curiosity got another kitty.
+} T Alchemy II Text
+A2I021A
+{...This greasy potion doesn't do much for your already abused stomach.
+***
+You suddenly have an overwhelming vision of the Triangle of Kyrannalussi,
+made from iron, silver, and gold.  It falls upon you with a crash, and then
+you wake up from your trance...
+} T Alchemy II Text
+
+A2I022
+{...This potion seems to consist mostly of crushed, rotten oranges mixed with
+a bit of fuzzy, green fungus.  Indeed, this breakfast treat smeels quite
+pugnant.
+} T Alchemy II Text
+A2I022A
+{...After you drink this healthy (?!) breakfast treat, you feel your various
+body parts growing in strength and power.  No, not THAT, your hits.... geesh,
+what perverts.
+} T Alchemy II Text
+
+A2I023
+{...This potion reminds you of the fruit punch you made in alchemy college,
+which consisted of about 1%% fruit and 91%% a mixture of various alcoholic
+substances and 8%% of Kyrannalussi knows what.  The odor that emanates from
+it could probably kill a horse.
+} T Alchemy II Text
+A2I023A
+{...This potion makes your legs start to shake, and you lose your balance
+and fall to the ground with a thump!
+} T Alchemy II Text
+
+A2I024
+{...This sweet-smelling, light-purple potion seems to be liquified lavander
+roses.  For a moment, the smell sends you daydreaming into a fantasy world
+of unicorns and pegasi, where true love is everywhere.  Ah, what rubbish --
+the potion doesn't look nearly as appealing as a pint of fine wine would!
+} T Alchemy II Text
+A2I024A
+{...As you drink this you have a vision of a lightning bolt flying from the
+sky directly at a poor unicorn who runs like hell.
+***
+You feel a slight protection against lightning now.
+} T Alchemy II Text
+
+A2I025
+{...This multi-colored potion seems to hypnotize you with it's shimmering
+brilliance as you examine it, and suddenly your mind is filled with visions
+of a past long, long ago.  Damn nostgalia!
+} T Alchemy II Text
+A2I025A
+{...OH NO, LOVE STRIKES!
+} T Alchemy II Text
+
+A2I026
+{...As you closely examine this black and white potion, an image of a large
+dog appears in your mind.  Ah, yes, the legend of Corvadam... you chuckle to
+yourself at the thought of that strange marriage -- a man and his dog.  Oh,
+well, you've seen worse wives...
+} T Alchemy II Text
+A2I026A
+{...This potion tastes alot like wet dog, but you gulp it down anyway.
+***
+Your finger is suddenly filled with a magical urge to be aimed at someone!
+} T Alchemy II Text
+
+A2I027
+{...This potion looks like spaghetti sauce that a hostile, alein life force
+(probably from Chicago) has infested.  The potion makes violent motions every
+couple of minutes and emits loud, ominous growls... reminiscent of a certain
+ex-lover.
+} T Alchemy II Text
+A2I027A
+{...This potion tastes alot like spaghetti sauce.
+***
+Your finger is suddenly filled with an urge to be aimed at your spouse!
+} T Alchemy II Text
+
+A2I028
+{...This dark brown potion is undoutably liquid rabbit fertilizer.  From the
+odor it emanates, you conclude that some Easter Bunny was having some serious
+bowel trouble.
+} T Alchemy II Text
+A2I028A
+{...You're actually gonna drink this!?!? Holy Kyrannalussi! If you say so...
+} T Alchemy II Text
+
+A2I029
+{...As you examine this dark red potion, a finger suddenly pops out of it
+and wiggles at your voice.  A bubble rises from its depth, explodes, and
+you here the unmistakable utterance of, "Bluurggh".  You're quite surprised,
+as you didn't realize that your ex-lover was residing in a potion.
+} T Alchemy II Text
+A2I029A
+{...As you drink this peppery potion, you are suddenly overwhelmed with an
+uncontrollable desire to dig your left finger up your right nostril!
+***
+You can't help yourself, you've just GOTTA pick that nose!
+} T Alchemy II Text
+
+A2I030
+{...This odorous potion reminds you of dragon's breath.  The smell brings
+back memories of ancient folklore... of a legend where rubbing a dragon's
+staff would make him come.  The wizards of old found this fascinating, but
+you just think it's gross.  Anyway, the potion is a deep green with creamy
+white splotches.
+} T Alchemy II Text
+A2I030A
+{...This fiery potion sets your mouth aflame as you drink it... with the all
+the pain you're feeling, you decide you should breathe and share it with
+some friends!
+} T Alchemy II Text
+
+A2I031
+{...This bright red potion bubbles quite actively, with lip-shaped bubbles
+blowing kisses at you everytime they rise to the surface.  As you examine it
+closer, one of the bolder bubbles smooches you right on the lips and then
+explodes in a shower of orange sparks!
+} T Alchemy II Text
+A2I031A
+{...This sweet tasting potion fills you with a sudden urge to give someone
+a big, wet, sloppy kiss!
+***
+What a sickenly romantic thought!
+} T Alchemy II Text
+
+A2I032
+{...This yellow potion glows with an unearthy (and unPeyennuuian) light...
+and also emanates the unbearable odor of rotten lemonade.
+} T Alchemy II Text
+A2I032A
+{...As you drink this magical potion, your mind starts to expand, and you
+feel like you can see into distant places if only you thought of someone
+you know.
+} T Alchemy II Text
+
+A2I033
+{...This thick, gooey, grey potion brings back vivid memory of the day you ate
+a whole barrel of prunes.  After wretching from the sight, you decide to not
+examine this particular liquid any further.
+} T Alchemy II Text
+A2I033A
+{...Mmmmmm-mmmm, isn't this DELICIOUS?  Freshly rotted prune juice!
+***
+You suddenly feel protected from something... you have no idea WHAT, but it
+might be constapation.  Then again...
+} T Alchemy II Text
+
+A2I034
+{...Joyjuice!  Well, this white, creamy potion is a well-known favorite around
+the world.  Just looking at it sends you mind reeling into elaborate (and
+somewhat wild) fantasies, and you suddenly decide to quit playing this game
+and go rape someone in teleconference.
+} T Alchemy II Text
+A2I034A
+{...As you drink this creamy potion, your mind suddenly explodes with cold
+passion, and you burp loudly.
+***
+Suddenly the air begins to swirl and icy hail rains down upon you!
+} T Alchemy II Text
+
+A2I035
+{...Ah, the mystical, magical, special-formula, new, improved, formula-4B,
+Mark VII, revised, improvised, and urinated Krelmmmm -- but best of all, it
+contains the special ingrediant of Fraudulent!  Ah, ha!  You suddenly glance
+around, looking for a psychotic python named Monty.
+} T Alchemy II Text
+A2I035A
+{...As you drink this potion, fire suddenly explodes from all of your body
+orifices at once!
+} T Alchemy II Text
+
+A2I036
+{...This light-brown potion seems to be emiting small clouds of white smoke,
+emanating the distinct odor of burnt grass.  Strange sounds bubble from its
+depths, and you hear the distinct mumuring of "frisk zarzecki snarbone...
+FAZUUL! FAZUUL!".  You jump back from this unexpected exclamation, but the
+potion seems to have mellowed out for a while.
+} T Alchemy II Text
+A2I036A
+{...As you drink this potion, you suddenly feel your insides twist in agony,
+and suddenly spurt a "surprise" back into your hands...
+} T Alchemy II Text
+
+A2I037
+{...Diet rootbeer is the closest comparison you can find for this foaming,
+dark brown liquid.  The acidic odor that rises from it does offer some good
+reasons for dieting... at least from this particular potion.
+} T Alchemy II Text
+A2I037A
+{...You feel a little weaker after drinking it.
+} T Alchemy II Text
+
+A2I038
+{...This yellowish-orange potion seems to vibrate on its own power, and a
+slight humming sound can be heard from its liquidy depths.  Every so often
+you think you see the letters, "S A I F T E N T A", appear... but when you
+blink, they are gone.
+} T Alchemy II Text
+A2I038A
+{...This is a very electric tasting potion, in fact, it's quite shocking
+just how electrifying at taste it is.
+***
+By the way, your finger is feeling a bit electric too.  Why don't you aim it
+at someone you love?
+} T Alchemy II Text
+
+A2I039
+{...This dry, pinkish-white potion is charaterized by the light purple vapors
+which rise from it and magically seem to form images from your past sexual
+experiences.  Just as things are getting interesting though, a gust of wind
+blows them away... ironicly.
+} T Alchemy II Text
+A2I039A
+{...This potion tastes alot like chalk dust.
+} T Alchemy II Text
+
+A2I040
+{...This dark grey potion seems to be dormant... no bubbles or noises come
+from it at all.  For some unknown, author-implied reason this lonely liquid
+fills you with sympathy -- after all, how must it feel being a plain, old
+grey potion in a world of colorful and explosive elixirs and milkshakes.  You
+have the urge to drink this one, just to make it feel wanted.
+} T Alchemy II Text
+A2I040A
+{...This lonely liquid appreciates your kindness in drinking it.  In return,
+it grants your finger a special, magical power.
+} T Alchemy II Text
+
+A2I041
+{...This light blue potion seems to have no apparent odor, but everytime you
+attempt to sniff it, your eyeballs spin around in circles and your nose hair
+starts to fall out.
+} T Alchemy II Text
+A2I041A
+{...You feel much better.
+} T Alchemy II Text
+
+A2I042
+{...This solid black potion is indeed a most intriguing liquid.  One whiff
+of its spicy vapors and your mind is taken to an Oriental world of physical
+strength and mental power shrouded in white mists.  Suddenly, out the white
+mists a ninja (you assume) dressed in black, jumps at you yelling "Hai-yuh,
+ahh-so!".  Hmmm, he seems a bit like an ahh-so himself, but you decide not
+to mention that as he's swinging his body parts in your face.  Then as
+suddenly as it had appeared, the vision vanishes.
+} T Alchemy II Text
+A2I042A
+{...As you drink this potion, you suddenly feel like a Zen Master Ninja has
+kicked in your lungs!
+***
+After you regain your breath, you feel your finger being to vibrate!
+} T Alchemy II Text
+
+A2I043
+{...This brown potion reminds you of the gerbil milkshakes of Trudsville, a
+small city in the far realm of the Kremlenites.  You're not exactly sure WHY
+it reminds you of this, but who asked you anyway?
+} T Alchemy II Text
+A2I043A
+{...You feel a strange tingling up and down on your leg...
+***
+Suddenly, you feel yourself transforming... black and white dog hair starts to
+appear all over your body.  In sudden horror, you realize you are becoming the
+infamous "Corvadam"...
+} T Alchemy II Text
+
+A2I044
+{...Slime.  This potion is slime.  That's all it's ever been, that's all it
+is, and that's all it will ever be.  Slime.
+} T Alchemy II Text
+A2I044A
+{...You suddenly feel a very unique feeling in the upper left part of your
+chest...
+***
+Suddenly, you feel yourself transforming... long, blonde hair starts to grow
+from your head (no, not THAT), and you feel a semi-holy radiance start to glow
+from your head (yes, THAT).  (Forget that, for you females out there).  You
+don't know really who you are, but you suddenly have about 20 names running
+through your head (oh, give it up already!)...
+} T Alchemy II Text
+
+A2I045
+{...This flesh-colored potion seems to be bubbling with activity:  the
+various elements of its composition seem to be engaged in a protozoic
+volleyball tournament.  It smells of sweat.
+} T Alchemy II Text
+A2I045A
+{...As you drink this potion, visions of sheep and, and, oh my god, OH NO,
+SHEEP HERDERS naked all over you!!!!!
+***
+You suddenly realize, as intense sexual hormones run through your body that
+you've become... Lady Meling!!!!!!!!!!!!  Help me, I'm melting!!!!!
+} T Alchemy II Text
+
+A2I046
+{...This light-pink potion has an attractive aroma, and when you sniff it,
+your toes begin to tingle with excitement.
+} T Alchemy II Text
+A2I046A
+{...As you drink this potion, you suddenly feel ALOT stronger!
+} T Alchemy II Text
+
+A2I047
+{...This deep red potion is vibrating quite violenty, causing it to emanate
+a rather loud and annoying humming sound.
+} T Alchemy II Text
+A2I047A
+{...As you drink this vibrating potion, you feel a strange transformation
+start to overcome you...
+***
+Suddenly, your chest seems to expand and enlarge, and you find it difficult
+to keep your balance.  A sudden sarcastic attitude fills your mind, and you
+have a sudden hatred of roses.  In shock, you realize that you've become the
+infamous, at-large Sharibor the Destructor.
+***
+You have the sudden urge to bake nasty cookies.
+} T Alchemy II Text
+
+A2I048
+{...Ah, this yellowish-orange potion is truly a wonder to behold.  Every so
+often, it will spout bluish-green streams of acid in the air, creating a
+dazzling display of toxic waste.  However, its odor is enough to severly maim
+a dinosaur.
+} T Alchemy II Text
+A2I048A
+{...As you drink this potion, your body starts to shiver from its cold
+temperature.
+***
+You feel a tingling in your foot, and an urge to aim it at someone!
+} T Alchemy II Text
+
+A2I049
+{...This sparkling, tan liquid emanates with distinct odor of sour lemons
+mixed with highly toxic chemicals -- a delicious accompaniment to any meal
+or scientific experiment!
+} T Alchemy II Text
+A2I049A
+{...This potion seems to have little or no taste at all, alot like your mother
+in law.
+***
+Suddenly, your teeth begin to chatter and you feel you chest heaving with
+great sexual energy...
+} T Alchemy II Text
+
+A2I050
+{...This slimy, scuzy liquid from hell is truly the most disgusting mixture
+of foul substances which you have ever beheld.  The odor it emits is strong
+enough to fell a thousand men in armor, and Kyrannalussi knows what else!  In
+its gooey depths, you see various green clumps of gunk floating around, and
+every once and awhile it makes a high-pitched squeal at you screaming, "Help
+me, I'm melting!!!!".
+} T Alchemy II Text
+A2I050A
+{...After drinking this potion, you have a sudden, horrible vision of the
+following phrase...
+
+      a o t i e r f
+     y c m , d s . v
+      l z n v p I K
+
+Egads!  What the heck was that... oh well, guess you'll have to wait to find
+out!
+} T Alchemy II Text
+
+A2I051
+{...This pearly-white potion has the consistency of sour milk... and it
+also smells like sour milk... and if you want to drink it, well, that's your
+problem.
+} T Alchemy II Text
+A2I051A
+{...After you finish drinking this sourly delicious potion, you have the
+sudden urge to aim your foot at someone.
+} T Alchemy II Text
+
+A2I052
+{...This sticky, brown potion emanates the strong smell of cotton candy,
+which brings back childhood memories of... well, let's just say it can't be
+printed.  Anyway, when you snap out of that momentary trance you notice that
+the smell (or the memories?) have made you sick at your stomach.
+} T Alchemy II Text
+A2I052A
+{...You feel alot like Superman(woman) after drinking it...
+} T Alchemy II Text
+
+A2I053
+{...This bright red potion has a rather distinctive demon claw protruding
+from its opaque depths.  The claw reaches out for your nose, honks it six
+times, waves, flips you the bird, and then vanishes into its liquidy home.
+} T Alchemy II Text
+A2I053A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I054
+{...This blonde-haired, blue-eyed potion was invented by Sharibor the
+Destructor for personal enjoyment.  Or so legend has it.  However, you don't
+see anything particularly special about it... just another jerko.  But
+there's no accounting for some people's tastes... or income taxes.
+} T Alchemy II Text
+A2I054A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I055
+{...This magenta potion seems to be... well, er... it seems to be, uh...
+singing.  "Legends pass and time goes by, like sewage floating by, oh,
+oh, oh, oh, why... I'll tell ya.  I'm just a lonely po-tion, ah-oh.  I'm
+sick of this emo-tion, ah-oh, just a lo-lo-lonely potion."  You have an
+urge to throw this potion away.
+} T Alchemy II Text
+A2I055A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I056
+{...The brackish liquid grumbles, "GROG! GROG! GROG!", as you examine it,
+very reminiscent of your first blind date.  It smells about the same...
+you're gagging for your life.
+} T Alchemy II Text
+A2I056A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I057
+{...This silverish potion is rather "heavy", in the sense that it weighs about
+as much as a certain girl you remember from high school, the equivalent of a
+two-ton block of cement.  It seems to have a similar personality as it just
+sits and does nothing except spit up a few silver bubbles every so often.
+} T Alchemy II Text
+A2I057A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I058
+{...This light grey liquid has very few distinguishing traits.  Aside from its
+color, it has no identifiable smell, consistency, or demo tape.  It would be
+nice if it at least had a cute dress or a stand-up comic act, but no, no, this
+is just one of those BORING potions.  It probably never got past third grade.
+} T Alchemy II Text
+A2I058A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I059
+{...This potion reminds you of life, the universe, and painful experiences
+with a misplaced baseball bat.  It is a sickly blue color and you can almost
+hear it groaning in pain.
+} T Alchemy II Text
+A2I059A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I060
+{...This light brown potion has several large, white globs of marshmellow or
+puss (you can't tell the difference by mere sight).  It has a very plesant,
+perhaps deceivingly so, aroma, and you can feel the strong temptation to
+drink it without so much as a thought.
+} T Alchemy II Text
+A2I060A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I061
+{...This gooey, black potion is quite reminiscent of the tar used in your old
+town to set criminals on fire.  It brings back nice memories of barbecues with
+your favorite burgalars and rapists.  Anyway, it has a pretty nasty odor, but
+that's never stopped you before.
+} T Alchemy II Text
+A2I061A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I062
+{...This slightly yellowish liquid has the consistency and clarity of most
+city water faucets... in other words, it's filled with every type of fungus
+and one-celled little monsters that you can imagine.  A tear falls from your
+eye as you consider the thought of having to actually DRINK this.
+} T Alchemy II Text
+A2I062A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I063
+{...This crazed, multi-colored potion is filled with images of strange and
+wonderful devices from another planet.
+} T Alchemy II Text
+A2I063A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I064
+{...This sweet-smelling potion sets your senses on fire with one whiff of its
+pugnant vapors.  It seems to change colors between green and blue, not really
+sure which it likes better.  Suddenly, in a moment of daring, it changes to
+bright orange, reminding you of Cyndi Laupers last hairstyle.  After a little
+while, it changes back to blue.
+} T Alchemy II Text
+A2I064A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I065
+{...This shining, gold-tinted potion seems to be truly majestic unto its own
+right.  In fact, it seems to act a bit condescending towards you, just a mere
+mortal, while it is a potion of the Royal Family of Sewage.  You have the
+sudden urge to drink this snobbish potion, but you hesitate out of respect
+for your poor stomach.
+} T Alchemy II Text
+A2I065A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I066
+{...This bright blue potion reminds you of a certain dragon in its hue, and
+its memory brings a small pang of sympathy to your heart.  Enraged, you yell
+at the author, "Yo!  This was supposed to be a comedy!!  Get this drama out
+of here this instant!".  Perhaps he was listening, because something starts
+to water you from above.
+} T Alchemy II Text
+A2I066A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I067
+{...This potion looks like Igor spent too much time alone with various dirty
+magazines while the doctor was out.  You wonder if it should be swallowed or
+spit.
+} T Alchemy II Text
+A2I067A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I068
+{...This dark brown potion seems to emanate the unmistakable odor of vast
+amounts of cow dung.  An image of a rather large, spotted cow appears in your
+mind, and you suddenly have the unquenchable urge to drink huge quantities of
+milk.  Strange potion.
+} T Alchemy II Text
+A2I068A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I069
+{...This bright green potion seems to sparkle with a particular light of its
+own.  As you examine it closely, you hear an incredibly high-pitched wail
+emanating from its depths, about three octaves above anything remotely human.
+However, something about the sound comforts you with an almost magical
+feeling, and you suddenly mumble something about the glory of love.
+} T Alchemy II Text
+A2I069A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I070
+{...This bald, bright orange potion gives you the sensation that you can win
+this game, "against all odds", and you mumble, "take me home"... and in the
+background you can hear the system reminding you, "don't lose my number".
+Ah, well, you like this game with a "groovy kind of love".
+} T Alchemy II Text
+A2I070A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I071
+{...This beautiful, blackish-brown potion simply amazes you with its wit.
+It's wit?  Yes, it's wit.  As you examine this animated liquid, it barages
+you with every imaginable sarcastic remark it can find against you.  You
+cover your head with your hands, trying to protect yourself from its totally
+unrelentless nagging comments.  It seems to turn a bit rose-colored during
+all of this, which only infuriates it more.
+} T Alchemy II Text
+A2I071A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I072
+{...Like, totally mellow, man.  This potion knows how to relax, as its soft
+brown liquid gently sloshes back and forth, holding you almost enchanted by
+its magical music.  Rumors of the ancients mention that this was the favorite
+drink of the temptress of innocent sheep herders herself, Lady Meling.
+} T Alchemy II Text
+A2I072A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I073
+{...Oh, no, not this!  A horrid mixture of blackened cherry, rotten grape,
+sour orange, and petrified lemon/lime, this potion from hell almost attacks
+you with its putrid odor.  You gasp for breath, realizing that this must be
+diet cola... after smelling it, you don't think you can eat for at least a
+week.
+} T Alchemy II Text
+A2I073A
+{...Mmmmmmm-mmmmm, delicious!!!!!
+} T Alchemy II Text
+
+A2I074
+{...This pale bluish-purple potion has the unmistakable odor of sour pickle.
+Something about it gives you an awesome feeling that you are very close to
+solving the truths of your life.  Like, radical, dude.
+} T Alchemy II Text
+A2I074A
+{...Yes, this is the last potion... thank Kyrannalussi.  It tastes like the
+sweat from your brow.
+} T Alchemy II Text
+
+A2I075
+{...Of distant relation to the lemonstone, this pale green rock looks pretty
+worthless.  However, it does have a nice, smooth roundness to it.
+} T Alchemy II Text
+
+A2I076
+{...This bluish-white stone is quite soft to your touch, although pressing on
+it provides unexpected resistance.  The smell of dirty bathwater pervades your
+poor, innocent nostrils.
+} T Alchemy II Text
+
+A2I077
+{...This brown stone is quite rough with many interesting features and curves
+to it... alot like Vanna White, although it has considerable less sexual
+attractiveness to teenage males.
+} T Alchemy II Text
+
+A2I078
+{...This coal black (ha!) rock is about as interesting as your high school
+math teacher... except that at least he picked at his ear every so often,
+something which the coal seems to refrain from doing.
+} T Alchemy II Text
+
+A2I079
+{...This beautiful piece of pink quartz sparkles brilliantly as you examine
+it, almost hypnotizing you with its dancing array of myriad colors.  Cheap
+bubblegum machine toy, or priceless jewel... YOU decide.
+} T Alchemy II Text
+
+A2I080
+{...Deep, dark, and green (reminiscent of your friend's left nostril), this
+rather large emerald doesn't do much for your stomach.  However, something
+about it seems almost "magical", strangely enough.  Either that, or too much
+potion drinking on your part.
+} T Alchemy II Text
+
+A2I081
+{...This blue crystal is shaped in perfect likeness to a huge teardrop.  As
+you examine it, a feeling of sympathy and compassion fills your soul.  For a
+moment, for a just a teeny-weeny, brief, miniscule moment, you feel serious
+about helping to alleviate the pain of the world.  Of course, a few seconds
+later, you snap out of it.
+} T Alchemy II Text
+
+A2I082
+{...This tin lantern is a little bit rusty, but it still emits a rather bright
+light from the hundreds of fireflies trapped within their metal prison and
+hating every moment of it.  In fact, they seem to be considering rebellion,
+and you hear nasty comments hurled your way every so often.
+} T Alchemy II Text
+
+A2I083
+{...This sleek, black wand looks quite powerful, but you have no idea what
+it does.
+} T Alchemy II Text
+
+A2I084
+{...This tiny "chip" seems to be made from sillycon, or silicon, or whatever
+the heck they call it.  You have no idea what the heck to do with it, except
+maybe cover it with chocolate and serve it as a desert mint.
+} T Alchemy II Text
+
+A2I085
+{...The drunk seems to be enjoying himself on the floor.  Attempting something
+resembling the backstroke, he smiles at you and says, "W-w-women... ".  He
+then cracks up in laughter and spits something disgusting on himself.
+} T Alchemy II Text
+A2I085A
+{...He kicks you in the crotch.
+} T Alchemy II Text
+
+A2I086
+{...The bartender is a rather large individual... oh, about the size of half
+of Chicagooville.  He grins at you and says "Ale costs 2 gold."  He then spits
+something into a glass and wipes it with his hand.
+} T Alchemy II Text
+A2I086A
+{...The bartender growls at you.
+} T Alchemy II Text
+
+A2I087
+{...The Oracle is dressed in a pink robe and seems to have a slight lisp
+when he speaks.  He waves his hand in your general direction and makes a rude
+comment about "monkey"ing around.  He then gives you a sly wink.
+} T Alchemy II Text
+A2I087A
+{...The Oracle giggles, but slips away.
+} T Alchemy II Text
+
+A2I088
+{...The kyrapractor is indeed a beautful woman with long, blonde hair, bright,
+shining eyes and long, pointy nails.  She smiles sweetly at you, reminding
+you very much of the goddess Kyrannalussi.  You wonder about the similarity of
+the names.
+} T Alchemy II Text
+A2I088A
+{...She slaps you.
+} T Alchemy II Text
+
+A2I089
+{...The collector is a very boring individual who seems to have his left
+forefinger up his right nostril eighty-percent of the time.  He gives you
+a crooked grin and winks.
+} T Alchemy II Text
+A2I089A
+{...The collector bites your ear when you try.
+} T Alchemy II Text
+
+A2I090
+{...The storekeeper is a rather geeky-looking young man, very reminiscent of
+someone you met on a computer system a while ago... huh?  computer?  hmmmm...
+Anyway, he gives you a two-toothed grin, scratches his left nostril, and then
+points to a sign.
+} T Alchemy II Text
+A2I090A
+{...The storekeeper screams, "Noooooooo, I want my mommie!!!!!!".
+} T Alchemy II Text
+
+A2I091
+{...Po is a very nice young woman, about half your height though... although
+I suppose that could have certain advantages.  She gives you an innocent
+smiles (probably faking it!) and points to a sign behind her.... uh, just
+behind her.
+} T Alchemy II Text
+A2I091A
+{...She whispers, "Oooo, yessssssss!".
+} T Alchemy II Text
+
+A2I092
+{...Jc is a rather fat, but jolly man.  He burps loudly and points to a sign
+behind him.
+} T Alchemy II Text
+A2I092A
+{...He burps on you.
+} T Alchemy II Text
+
+A2I093
+{...The wizard is dressed in flowing blue robes and he has a rather ominous
+look on his face... probably hasn't been laid in a while.  Anyway, he growls
+at you and points to a sign behind him.
+} T Alchemy II Text
+A2I093A
+{...The wizard doesn't seem to move.
+} T Alchemy II Text
+
+A2I094
+{...The blue dragon is a very, very sad and sorrowful creature.  Large, blue
+dragontears flow from his eyes.  He keeps mumbling, "She left me for a white
+dragon that five-headed snake!!".  He looks at you quite pitifully.
+} T Alchemy II Text
+A2I094A
+{...He growls and slaps you with his spiked tail.
+} T Alchemy II Text
+
+A2I095
+{...The sign reads as follows:
+
+     Bubblebath: 1 gold
+          Pepto: 2 gold
+        Lantern: 25 gold
+
+} T Alchemy II Text
+A2I095A
+{...The sign doesn't want to go.
+} T Alchemy II Text
+
+A2I096
+{...The altar is quite beautiful, but what catches your eye at closer
+examination is an inscription which reads, "Vee art here to vake you gev
+yor monee tu Kyrannavussi!".  Strange.
+} T Alchemy II Text
+A2I096A
+{...The altar is a bit too heavy for you.
+} T Alchemy II Text
+
+A2I097
+{...The stone seems to be of little value, except for an encryptic comment
+which seems to have be etched on its one side, "Dinkdink".
+} T Alchemy II Text
+A2I097A
+{...The stone gives you a shocking zap.
+} T Alchemy II Text
+
+A2I098
+{...The sign reads as follows:
+
+     Magic Rod: 100 gold
+
+} T Alchemy II Text
+A2I098A
+{...The wizard doesn't let you take his sign away.
+} T Alchemy II Text
+
+A2I099
+{...This sign, decorated with flowers and bright colors reads as follows:
+
+     Po's Potion: 3 gold
+
+} T Alchemy II Text
+A2I099A
+{...Po yells, "Hey, leave my sign alone!"
+} T Alchemy II Text
+
+A2I100
+{...The sign reads as follows:
+
+ Casual Clothing: 1 gold
+  Wizard's Robes: 2 gold
+     Surfer Wear: 3 gold
+    Bathing Suit: 4 gold
+    Leather/Lace: 5 gold
+  Wedding Outfit: 6 gold
+    Exotic Stuff: 7 gold
+ Knight/Princess: 8 gold
+
+} T Alchemy II Text
+A2I100A
+{...Jc doesn't seem to want you to have it.
+} T Alchemy II Text
+
+A2I101
+{...The crystal is quite beautiful.
+} T Alchemy II Text
+A2I101A
+{...Suddenly Kyrannalussi flies down from the heaven's and slaps your hand!
+"NO!", she screams at you, and then vanishes.
+} T Alchemy II Text
+
+A2I102
+{...The statue has an inscription on it which reads, "Only fools fall in love,
+but what can I say?  I'm a fool."  You wonder who wrote that... probably those
+darn brownies again.
+} T Alchemy II Text
+A2I102A
+{...
+} T Alchemy II Text
